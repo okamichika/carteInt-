@@ -1,0 +1,5409 @@
+[
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "b7d308983e71c06b36f0cdc7add812feecd04277",
+    "fields": {
+      "handicaps": "auditif ; moteur ; mental",
+      "ville": "PARAY DOUAVILLE",
+      "telephone": "130590196",
+      "reference": "2013-09086",
+      "activit": "Chambre d'h\u00f4tes",
+      "etablissement": "Chambres d'h\u00f4tes La Ferme de la Vall\u00e9e aux Pages",
+      "adresse": "1 rue de la Plaine Lenainville",
+      "siteweb": "http://www.vallee-aux-pages.com",
+      "handicap_mental": "Oui",
+      "departement": "YVELINES",
+      "handicap_auditif": "Oui",
+      "codepostal": 78660,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.448896,
+        1.848199
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.848199,
+        48.448896
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "200ee44d0ee2ffef2bf2d65bb8a7b8869a38aacd",
+    "fields": {
+      "handicaps": "auditif ; visuel ; moteur ; mental",
+      "ville": "GUIGNEVILLE-SUR-ESSONNE",
+      "telephone": "169902844",
+      "reference": "2013-09655",
+      "activit": "Chambre d'h\u00f4tes",
+      "etablissement": "Chambres d'h\u00f4tes La Rambaudi\u00e8re",
+      "adresse": "49 Grande Rue de Milly hameau de Jouy",
+      "siteweb": "http://www.la-raimbaudiere.com",
+      "handicap_mental": "Oui",
+      "departement": "ESSONNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 91590,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.449297,
+        2.36712
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.36712,
+        48.449297
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "48994c1228a8ca760dd2a029d3abbcc28562429e",
+    "fields": {
+      "handicaps": "mental ; visuel",
+      "ville": "PARIS",
+      "telephone": "156337272",
+      "reference": "2014-00212",
+      "activit": "H\u00f4tel",
+      "etablissement": "H\u00f4tel Hor",
+      "adresse": "160 rue La Fayette",
+      "siteweb": "http://www.hotel-hor.com",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Non",
+      "codepostal": 75010,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.879371,
+        2.357662
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.357662,
+        48.879371
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "370bcf2c878908f16a5ebd3367e8a9c921c316d0",
+    "fields": {
+      "handicaps": "auditif ; visuel ; moteur ; mental",
+      "ville": "FRESNES",
+      "telephone": "149849444",
+      "reference": "2013-09688",
+      "etablissement": "Playmobil Fun Park",
+      "adresse": "22-24 rue des Jach\u00e8res",
+      "siteweb": "http://www.playmobil-funpark.fr",
+      "handicap_mental": "Oui",
+      "departement": "VAL-DE-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 94260,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.753871,
+        2.330672
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.330672,
+        48.753871
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "4fc171d2e88d3ba416876922fadd9d99aed90271",
+    "fields": {
+      "ville": "SAINT CYR SUR MORIN",
+      "telephone": "160244600",
+      "fax": "160244614",
+      "reference": "2013-11523",
+      "activit": "Ecomus\u00e9e",
+      "etablissement": "Mus\u00e9e de la Seine et Marne",
+      "adresse": "17 avenue de la Fert\u00e9-sous-Jouarre",
+      "siteweb": "http://www.musee-seine-et-marne.fr/",
+      "handicap_mental": "Non",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Non",
+      "codepostal": 77750,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "FEMS ; DIRECCTE  Ile-de-France",
+      "geo": [
+        48.90803,
+        3.18169
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.18169,
+        48.90803
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "797bedaa5d21844d21e737beba0c4357607edec2",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur",
+      "ville": "CERNEUX",
+      "telephone": "164012255",
+      "reference": "2016-00988",
+      "activit": "Meubl\u00e9 de tourisme",
+      "etablissement": "Gite rural 318",
+      "adresse": "Ferme de Monglat",
+      "siteweb": "http://www.audomelia.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77320,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.69429,
+        3.332072
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.332072,
+        48.69429
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "ebbdbe662224348cfd04edf64890ef20bbd18255",
+    "fields": {
+      "handicaps": "auditif ; moteur ; mental",
+      "ville": "PARIS",
+      "telephone": "140314545",
+      "fax": "140314567",
+      "reference": "2013-08916",
+      "activit": "R\u00e9sidence de tourisme",
+      "etablissement": "R\u00e9sidence Internationale de Paris",
+      "adresse": "44 rue Louis Lumi\u00e8re",
+      "siteweb": "http://www.ee-rip.fr",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75020,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.860108,
+        2.4113569999999998
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.4113569999999998,
+        48.860108
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "543279ff8f33106a36e6f02b9060dde86c54be54",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "PARIS",
+      "telephone": "140037517",
+      "reference": "2013-12167",
+      "etablissement": "Les Jardins Passagers - La Villette",
+      "adresse": "211 Avenue Jean Jaur\u00e8s",
+      "siteweb": "http://www.villette.com",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75019,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.888947,
+        2.392436
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.392436,
+        48.888947
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "a14867ba955a8f76abcf757310c3317d487d10fb",
+    "fields": {
+      "handicaps": "mental ; moteur",
+      "ville": "ISLE-ADAM (L')",
+      "telephone": "134694199",
+      "fax": "134080979",
+      "reference": "2013-09703",
+      "activit": "Office de tourisme",
+      "etablissement": "Office de Tourisme de L'Isle Adam",
+      "adresse": "18 avenue des Ecuries de Conti",
+      "siteweb": "http://www.tourisme-isle-adam.net",
+      "handicap_mental": "Oui",
+      "departement": "VAL-D'OISE",
+      "handicap_auditif": "Non",
+      "codepostal": 95290,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        49.112921,
+        2.216273
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.216273,
+        49.112921
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "cc2733380c493bc9b6ce50dd81b8c010c543dde2",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "ATHIS-MONS",
+      "telephone": "149759070",
+      "fax": "170034062",
+      "reference": "2013-11967",
+      "etablissement": "Maison de l'Environnement et du D\u00e9veloppement Durable de l'Aeroport de Paris-Orly",
+      "adresse": "Avenue Jean Pierre B\u00e9nard",
+      "siteweb": "http://www.entrevoisins.org",
+      "handicap_mental": "Oui",
+      "departement": "ESSONNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 91200,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.711269,
+        2.381539
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.381539,
+        48.711269
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "4d72f9648ac5adc7337bb86ab703d6b7ffde211e",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "PARIS",
+      "telephone": "153018660",
+      "fax": "142729747",
+      "reference": "2013-08882",
+      "activit": "Lieu de visite",
+      "etablissement": "Mus\u00e9e d'Art et d'Histoire du Juda\u00efsme",
+      "adresse": "71 rue du Temple",
+      "siteweb": "http://www.mahj.org",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75003,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.86095,
+        2.355608
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.355608,
+        48.86095
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "96fa262f898505726d9ac5e12ac2a5025f0ff436",
+    "fields": {
+      "handicaps": "auditif ; visuel ; moteur ; mental",
+      "ville": "SAINT OUEN EN BRIE",
+      "telephone": "160248061",
+      "fax": "160448022",
+      "reference": "2013-09073",
+      "activit": "Restaurant",
+      "etablissement": "Auberge de la Source",
+      "adresse": "8 place Saint Barth\u00e9l\u00e9my",
+      "siteweb": "http://www.aubergedelasource.fr",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77750,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.903313,
+        3.195815
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.195815,
+        48.903313
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "eaa9147b35edd5d6a8f305967ce61c6b9cd9c4b9",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "BARBIZON",
+      "telephone": "160664187",
+      "fax": "160664187",
+      "reference": "2013-09032",
+      "activit": "Office de tourisme",
+      "etablissement": "Office de Tourisme de Barbizon",
+      "adresse": "Place Marc Jacquet",
+      "siteweb": "http://www.barbizontourisme.fr",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77630,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap"
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "a32733bcf8f418fe08dcfba6ecf1c080df19b2c8",
+    "fields": {
+      "handicaps": "auditif ; moteur ; mental",
+      "ville": "MEAUX",
+      "telephone": "160321418",
+      "fax": "160321414",
+      "reference": "2013-09059",
+      "activit": "Lieu de visite",
+      "etablissement": "Mus\u00e9e de la Grande Guerre du Pays de Meaux",
+      "adresse": "rue Lazare Ponticelli",
+      "siteweb": "http://www.museedelagrandeguerre.eu",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77100,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.955281,
+        2.901461
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.901461,
+        48.955281
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "7a5b47e67065076faefa4458ec201a8702bd9cfd",
+    "fields": {
+      "handicaps": "auditif ; mental ; visuel",
+      "ville": "FRANCONVILLE",
+      "telephone": "134441240",
+      "reference": "2013-09700",
+      "activit": "Restaurant",
+      "etablissement": "Restaurant Hippopotamus",
+      "adresse": "326 rue du G\u00e9n\u00e9ral Leclerc",
+      "siteweb": "http://www.hippopotamus.fr",
+      "handicap_mental": "Oui",
+      "departement": "VAL-D'OISE",
+      "handicap_auditif": "Oui",
+      "codepostal": 95131,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap"
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "ba093d69b4b22549f11540bdcb958040699b73f8",
+    "fields": {
+      "handicaps": "mental",
+      "ville": "VILLEJUIF",
+      "telephone": "149583040",
+      "fax": "149583049",
+      "reference": "2013-09692",
+      "etablissement": "Centre de Congr\u00e8s Les Esseli\u00e8res",
+      "adresse": "3 bd Chastenet de G\u00e9ry",
+      "siteweb": "http://www.semgest.fr",
+      "handicap_mental": "Oui",
+      "departement": "VAL-DE-MARNE",
+      "handicap_auditif": "Non",
+      "codepostal": 94800,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.801372,
+        2.355622
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.355622,
+        48.801372
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "87eb8fcc86df7410f46b9ed3cfb9473f10fc812b",
+    "fields": {
+      "handicaps": "moteur ; mental",
+      "ville": "BOUSSY SAINT ANTOINE",
+      "telephone": "169842251",
+      "reference": "2013-09652",
+      "activit": "Sport de nature",
+      "etablissement": "Piscine des S\u00e9narts",
+      "adresse": "1 rue Roschopt",
+      "siteweb": "http://www.vert-marine.com/piscine-des-senarts.91",
+      "handicap_mental": "Oui",
+      "departement": "ESSONNE",
+      "handicap_auditif": "Non",
+      "codepostal": 91800,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.697059,
+        2.532945
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.532945,
+        48.697059
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "7144d303461a018036228257f5e952ccfdad753f",
+    "fields": {
+      "handicaps": "mental",
+      "ville": "SURESNES",
+      "telephone": "145064488",
+      "fax": "146970837",
+      "reference": "2013-09672",
+      "activit": "H\u00f4tel",
+      "etablissement": "H\u00f4tel Ibis Pont de Suresnes",
+      "adresse": "6 rue des Bourets",
+      "siteweb": "http://www.ibishotel.com",
+      "handicap_mental": "Oui",
+      "departement": "HAUTS-DE-SEINE",
+      "handicap_auditif": "Non",
+      "codepostal": 92150,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.868089,
+        2.226707
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.226707,
+        48.868089
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "ee331e7709d715c3733ee00159f3b493aaad19e3",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "EVRY",
+      "telephone": "169472582",
+      "fax": "169472840",
+      "reference": "2013-09653",
+      "etablissement": "Le G\u00e9nocentre",
+      "adresse": "1 rue de l'Internationale",
+      "siteweb": "http://www.genocentre.fr",
+      "handicap_mental": "Oui",
+      "departement": "ESSONNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 91000,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.619978,
+        2.449785
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.449785,
+        48.619978
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "7bfd5953836297ce0c7f310bdc0bebc8ac17709a",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "PARIS",
+      "telephone": "140795412",
+      "reference": "2013-11493",
+      "etablissement": "Galerie des enfants Mus\u00e9um national d'histoire naturelle",
+      "adresse": "36 rue Geoffroy Saint Hilaire",
+      "siteweb": "http://www.galeriedesenfants.fr",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75005,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.841491,
+        2.355989
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.355989,
+        48.841491
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "3ed33cc3b4df20eac26daa8f7d6b8cd0a4a9fddb",
+    "fields": {
+      "handicaps": "moteur",
+      "ville": "MEAUX",
+      "telephone": "164330226",
+      "fax": "164332486",
+      "reference": "2013-09060",
+      "activit": "Office de tourisme",
+      "etablissement": "Office de Tourisme du Pays de Meaux",
+      "adresse": "5 Place Charles de Gaulle",
+      "siteweb": "http://www.tourisme-paysdemeaux.fr",
+      "handicap_mental": "Non",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Non",
+      "codepostal": 77100,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.938016,
+        2.87061
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.87061,
+        48.938016
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "cb6341e522228d7e78b08db3224ca56c54346c50",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "M\u00c9RY SUR OISE",
+      "telephone": "130364023",
+      "reference": "2013-09705",
+      "activit": "Restaurant",
+      "etablissement": "Restaurant Le Chiquito",
+      "adresse": "3 rue de l'Oise",
+      "siteweb": "http://www.lechiquito.fr",
+      "handicap_mental": "Oui",
+      "departement": "VAL-D'OISE",
+      "handicap_auditif": "Oui",
+      "codepostal": 95540,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        49.059932,
+        2.164405
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.164405,
+        49.059932
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "2f58f1bcfc62a3e649112f0aad7082989776cf2d",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "SAINT-GERMAIN-LES-ARPAJON",
+      "telephone": "169262633",
+      "fax": "164903390",
+      "reference": "2013-11557",
+      "etablissement": "Salle polyvalente - Amphith\u00e9atre",
+      "adresse": "3 rue Ren\u00e9 D\u00e8cle",
+      "siteweb": "http:/www./ville-sgla.fr",
+      "handicap_mental": "Oui",
+      "departement": "ESSONNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 91180,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.595527,
+        2.256627
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.256627,
+        48.595527
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "307a3b366ee8e5afc80291b4bc1da0299290caa2",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "MILLY LA FOR\u00caT",
+      "telephone": "164988317",
+      "reference": "2014-01009",
+      "activit": "Office de tourisme",
+      "etablissement": "Office de tourisme du Canton de Milly La For\u00eat",
+      "adresse": "47 rue Langlois",
+      "siteweb": "http://www.millylaforet-tourisme.com",
+      "handicap_mental": "Oui",
+      "departement": "ESSONNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 91490,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.40328,
+        2.469639
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.469639,
+        48.40328
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "8024af3f94310e908abc2f767abab3774208c1c0",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur",
+      "ville": "SAINT CYR SUR MORIN",
+      "telephone": "160244600",
+      "fax": "160244614",
+      "reference": "2013-09070",
+      "activit": "Lieu de visite",
+      "etablissement": "Mus\u00e9e de la Seine et Marne",
+      "adresse": "17 Avenue de la Fert\u00e9 sous Jouarre",
+      "siteweb": "http://www.musee-seine-et-marne.fr",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77750,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.90803,
+        3.18169
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.18169,
+        48.90803
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "94b2748e95b490ce355f1a519372295708d02ba3",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "CORBEIL-ESSONNES",
+      "telephone": "164962327",
+      "fax": "160880537",
+      "reference": "2016-01536",
+      "activit": "Office de tourisme",
+      "etablissement": "Office de tourisme Seine Essonne",
+      "adresse": "11 place du Comte Haymon",
+      "siteweb": "http://www.office-tourisme-essonne.com",
+      "handicap_mental": "Oui",
+      "departement": "ESSONNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 91100,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.612679,
+        2.482624
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.482624,
+        48.612679
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "2d2e150ecce9346eb67be765a2577db41c841316",
+    "fields": {
+      "handicaps": "auditif ; moteur ; mental",
+      "ville": "SOUPPES-SUR-LOING",
+      "telephone": "164281304",
+      "fax": "164281304",
+      "reference": "2013-09077",
+      "activit": "Meubl\u00e9 de tourisme",
+      "etablissement": "Gite rural n\u00b0255",
+      "adresse": "Ferme de Beaumoulin La Madeleine sur Loing",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77460,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.197496,
+        2.717051
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.717051,
+        48.197496
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "614d5ee3eeecd549025775f35387a5cb867f7a12",
+    "fields": {
+      "handicaps": "auditif ; moteur ; mental",
+      "ville": "MAGNY LE HONGRE",
+      "telephone": "160436161",
+      "fax": "160436163",
+      "reference": "2013-09056",
+      "activit": "H\u00f4tel",
+      "etablissement": "H\u00f4tel Kyriad Val de France",
+      "adresse": "10 avenue de la Fosse des Pressoirs",
+      "siteweb": "http://www.kyriad.fr",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77700,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.870299,
+        2.808797
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.808797,
+        48.870299
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "4a39d08d7e2bdf696160a499837e178206ba1dde",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "FONTAINEBLEAU",
+      "telephone": "164234925",
+      "reference": "2013-09049",
+      "activit": "Restaurant",
+      "etablissement": "Auberge de la Croix d'Augas",
+      "adresse": "RD 116",
+      "siteweb": "http://www.lesaubergesdelaforet.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77300,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap"
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "c308000c5269c49ebd9030d130ec422106317670",
+    "fields": {
+      "handicaps": "auditif ; moteur ; mental",
+      "ville": "GUIRY EN VEXIN",
+      "telephone": "134674035",
+      "reference": "2013-09702",
+      "etablissement": "Salle de r\u00e9ception La Grange du Tulipier",
+      "adresse": "5 rue Saint Nicolas",
+      "handicap_mental": "Oui",
+      "departement": "VAL-D'OISE",
+      "handicap_auditif": "Oui",
+      "codepostal": 95450,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        49.109841,
+        1.853008
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.853008,
+        49.109841
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "37ae13a46c25d94038f92822fe2fb75f5cabd5f7",
+    "fields": {
+      "handicaps": "mental",
+      "ville": "VILLENEUVE-LA-GARENNE",
+      "telephone": "147994040",
+      "fax": "147990222",
+      "reference": "2013-09673",
+      "etablissement": "Une Journ\u00e9e Au Cirque",
+      "adresse": "Parc des Chanteraines 115 bd Charles de Gaulle",
+      "siteweb": "http://www.journeeaucirque.com",
+      "handicap_mental": "Oui",
+      "departement": "HAUTS-DE-SEINE",
+      "handicap_auditif": "Non",
+      "codepostal": 92390,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.942311,
+        2.317777
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.317777,
+        48.942311
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "18047b498dc1202bb8eecee8a7b39513504f9c84",
+    "fields": {
+      "handicaps": "mental ; moteur ; visuel",
+      "ville": "LEVALLOIS",
+      "telephone": "147571732",
+      "reference": "2013-09666",
+      "activit": "Lieu de visite",
+      "etablissement": "Maison de la P\u00eache",
+      "adresse": "22 all\u00e9e Claude Monet",
+      "siteweb": "http://www.maisondelapeche.net",
+      "handicap_mental": "Oui",
+      "departement": "HAUTS-DE-SEINE",
+      "handicap_auditif": "Non",
+      "codepostal": 92300,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.898716,
+        2.275092
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.275092,
+        48.898716
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "359973e80336487b5533b87a0ced2382418e19c7",
+    "fields": {
+      "handicaps": "auditif ; moteur ; mental",
+      "ville": "CHENOISE",
+      "telephone": "164009310",
+      "fax": "164009310",
+      "reference": "2013-09044",
+      "activit": "Meubl\u00e9 de tourisme",
+      "etablissement": "G\u00eete rural Ferme de la Mercy",
+      "adresse": "Ferme de la Mercy",
+      "siteweb": "http://www.ferme-delamercy.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77160,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.609089,
+        3.158753
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.158753,
+        48.609089
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "7962805ea5d688eca9f15dd3558a08eaa9b81f4b",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "SAINT DENIS",
+      "telephone": "149211480",
+      "reference": "2013-09679",
+      "activit": "Lieu de visite",
+      "etablissement": "Basilique Saint Denis",
+      "adresse": "1 rue de la L\u00e9gion d'Honneur",
+      "siteweb": "http://www.saint-denis.monuments-nationaux.fr/",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-SAINT-DENIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 93200,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.932464,
+        2.357426
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.357426,
+        48.932464
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "24a766c5bd41f5205a59a930db37e39f41df26b9",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur",
+      "ville": "BOULOGNE-BILLANCOURT",
+      "telephone": "155192800",
+      "fax": "146038659",
+      "reference": "2013-11169",
+      "etablissement": "Mus\u00e9e Jardins Albert Kahn",
+      "adresse": "10-14 rue du port",
+      "siteweb": "http://www.albert-kahn.fr",
+      "handicap_mental": "Oui",
+      "departement": "HAUTS-DE-SEINE",
+      "handicap_auditif": "Oui",
+      "codepostal": 92100,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.841354,
+        2.227488
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.227488,
+        48.841354
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "67a740a4af38e57ffa279f300473bb9d8668d1f6",
+    "fields": {
+      "handicaps": "mental",
+      "ville": "SAINT DENIS",
+      "telephone": "148094810",
+      "fax": "148098514",
+      "reference": "2013-09683",
+      "activit": "H\u00f4tel",
+      "etablissement": "H\u00f4tel Ibis Stade Ouest Saint Denis",
+      "adresse": "20 rue Jules Saulnier",
+      "siteweb": "http://www.ibis.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-SAINT-DENIS",
+      "handicap_auditif": "Non",
+      "codepostal": 93200,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.925848,
+        2.354606
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.354606,
+        48.925848
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "bdc5e0732f16f5c473a628ec5fe24eb6ac4e732c",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "CERGY PONTOISE",
+      "telephone": "130302155",
+      "fax": "130308795",
+      "reference": "2013-09698",
+      "etablissement": "Base de Loisirs de Cergy Neuville - h\u00e9bergement",
+      "adresse": "Rue de l'Etang",
+      "siteweb": "http://www.basedeloisirs95.com",
+      "handicap_mental": "Oui",
+      "departement": "VAL-D'OISE",
+      "handicap_auditif": "Oui",
+      "codepostal": 95000,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        49.042058,
+        2.061481
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.061481,
+        49.042058
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "5938f8c21e7cc94df40ffeb985dbb3ce55e6320d",
+    "fields": {
+      "handicaps": "auditif ; visuel ; mental",
+      "ville": "CELLE-LES-BORDES (LA)",
+      "telephone": "134851555",
+      "fax": "134851555",
+      "reference": "2013-09084",
+      "activit": "Restaurant",
+      "etablissement": "Auberge restaurant de l'Elan",
+      "adresse": "5 rue du village Les Bordes",
+      "siteweb": "http://www.laubergedelelan-78.com",
+      "handicap_mental": "Oui",
+      "departement": "YVELINES",
+      "handicap_auditif": "Oui",
+      "codepostal": 78720,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.642383,
+        1.9657580000000001
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.9657580000000001,
+        48.642383
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "55ab89751d2ee4829bf8c86a43c5b281bdc50b53",
+    "fields": {
+      "handicaps": "mental",
+      "ville": "BUTHIERS",
+      "telephone": "164241287",
+      "fax": "164241579",
+      "reference": "2013-09039",
+      "activit": "H\u00f4tel",
+      "etablissement": "Herbergement et restauration Collective de la base de Loisirs",
+      "adresse": "Rue de Roches",
+      "siteweb": "http://www.base-de-buthiers.fr",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Non",
+      "codepostal": 77760,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.2906,
+        2.430871
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.430871,
+        48.2906
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "70c112e4c2742fb8d15dbd3ba36b517d5dd86da3",
+    "fields": {
+      "handicaps": "moteur ; mental",
+      "ville": "P\u00c9CY",
+      "telephone": "164015222",
+      "reference": "2013-09065",
+      "activit": "Meubl\u00e9 de tourisme",
+      "etablissement": "Gite de groupe La Grange aux B\u0153ufs",
+      "adresse": "Ferme de Givry",
+      "siteweb": "http://www.lagrangeauxboeufs.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Non",
+      "codepostal": 77970,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.634403,
+        3.06716
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.06716,
+        48.634403
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "fa416730d71b82f7b2488a956ca43ce5e1be7579",
+    "fields": {
+      "handicaps": "auditif ; moteur ; mental",
+      "ville": "SANNOIS",
+      "telephone": "139818411",
+      "reference": "2013-09715",
+      "activit": "Chambre d'h\u00f4tes",
+      "etablissement": "Chambre d'h\u00f4tes Chez Cin\u00e9",
+      "adresse": "8 rue de Cernay",
+      "siteweb": "http://www.chezcine.fr",
+      "handicap_mental": "Oui",
+      "departement": "VAL-D'OISE",
+      "handicap_auditif": "Oui",
+      "codepostal": 95110,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.975344,
+        2.25009
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.25009,
+        48.975344
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "4fc583fe24246906585746c6ae48d03d9d06d111",
+    "fields": {
+      "handicaps": "auditif ; visuel ; moteur ; mental",
+      "ville": "NESLES",
+      "telephone": "164513333",
+      "fax": "164513334",
+      "reference": "2013-09062",
+      "activit": "Lieu de visite",
+      "etablissement": "Parc des F\u00e9lins",
+      "adresse": "La Fortelle",
+      "siteweb": "http://www.parc-des-felins.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77540,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.702959,
+        2.962284
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.962284,
+        48.702959
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "0a2b54ec7144dfdd32ce6aba3042e2b262b524c7",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "FONTAINE LA RIVI\u00c8RE",
+      "telephone": "164956722",
+      "fax": "164956722",
+      "reference": "2013-09654",
+      "activit": "Chambre d'h\u00f4tes",
+      "etablissement": "Chambres d'H\u00f4tes La Grange aux Grains",
+      "adresse": "1 rue des Vignes",
+      "handicap_mental": "Oui",
+      "departement": "ESSONNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 91690,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.357466,
+        2.153478
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.153478,
+        48.357466
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "9b7c504bc95e578d2a801a601bba676b6ef01ba3",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "PARIS",
+      "telephone": "140679766",
+      "reference": "2013-08880",
+      "activit": "Lieu de visite",
+      "etablissement": "Mus\u00e9e en Herbe",
+      "adresse": "21 rue H\u00e9rold",
+      "siteweb": "http://www.musee-en-herbe.com",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75001,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.865099,
+        2.341828
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.341828,
+        48.865099
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "6c8747193158a6b6a8afc3ea69d054ea2140e4e9",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "VILLABE",
+      "telephone": "160862747",
+      "reference": "2013-09659",
+      "activit": "Meubl\u00e9 de tourisme",
+      "etablissement": "Chalet La Coccinelle",
+      "adresse": "4 place Roland Vincent",
+      "handicap_mental": "Oui",
+      "departement": "ESSONNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 91100,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.588001,
+        2.456192
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.456192,
+        48.588001
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "2ac78458c79be1f3cafbf408c21555274d67bfa5",
+    "fields": {
+      "handicaps": "auditif ; moteur ; visuel",
+      "ville": "MILLY LA FOR\u00caT",
+      "telephone": "164988377",
+      "reference": "2013-09656",
+      "activit": "Lieu de visite",
+      "etablissement": "Conservatoire National des Plantes M\u00e9dicinales, Aromatiques et Industrielles",
+      "adresse": "Route de Nemours",
+      "siteweb": "http://www.cnpmai.net",
+      "handicap_mental": "Non",
+      "departement": "ESSONNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 91490,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.399599,
+        2.480509
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.480509,
+        48.399599
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "efff8d5605e1a70be270466252219665f9e2bb0d",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "ORSAY",
+      "telephone": "169285972",
+      "reference": "2013-09658",
+      "activit": "Office de tourisme",
+      "etablissement": "Office de Tourisme Vall\u00e9e de Chevreuse",
+      "adresse": "17 rue de l'Yvette",
+      "siteweb": "http://www.tourisme-valleedechevreuse91.com",
+      "handicap_mental": "Oui",
+      "departement": "ESSONNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 91400,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.700387,
+        2.187428
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.187428,
+        48.700387
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "7d9d6129fd5fcbf860a5af744ce82e62239c97ee",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "PARIS",
+      "telephone": "146079287",
+      "fax": "146076162",
+      "reference": "2013-08900",
+      "activit": "Lieu de visite",
+      "etablissement": "Paroisse Saint Joseph Artisan",
+      "adresse": "214 rue La Fayette",
+      "siteweb": "http://www.saint-joseph10.fr",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75010,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.881799,
+        2.367075
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.367075,
+        48.881799
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "a812858f00cc73b597b0245b2c764ff547649a63",
+    "fields": {
+      "handicaps": "auditif ; visuel ; moteur ; mental",
+      "ville": "PROVINS",
+      "telephone": "160580578",
+      "fax": "160580578",
+      "reference": "2013-09068",
+      "activit": "Sport de nature",
+      "etablissement": "Jardin La Roseraie de Provins",
+      "adresse": "11 rue des Pr\u00e8s",
+      "siteweb": "http://www.roseraie-provins.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77160,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.564577,
+        3.294539
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.294539,
+        48.564577
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "95587cb6f8b9a0a1ec469bdd98c338efa70a2b62",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur",
+      "ville": "DAMMARIE LES LYS",
+      "telephone": "164147662",
+      "reference": "2013-11517",
+      "activit": "Sport de nature",
+      "etablissement": "Le Marais d'Episy - Espace naturel sensible",
+      "adresse": "145 Quai Voltaire",
+      "siteweb": "http://www.seine-et-marne.fr",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77190,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.533108,
+        2.643182
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.643182,
+        48.533108
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "fb268787939503ff65a4668fb8a428216cea01e9",
+    "fields": {
+      "handicaps": "auditif ; visuel ; moteur ; mental",
+      "ville": "DAMMARIE LES LYS",
+      "telephone": "164873741",
+      "fax": "164873710",
+      "reference": "2013-09047",
+      "activit": "Lieu de visite",
+      "etablissement": "Archives D\u00e9partementales",
+      "siteweb": "http://www.cg77.fr",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77190,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.514778,
+        2.633064
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.633064,
+        48.514778
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "334f6b258cc6dce19b723fdaa7d01a730642ff8b",
+    "fields": {
+      "handicaps": "auditif ; moteur ; mental",
+      "ville": "PARIS",
+      "telephone": "149463939",
+      "fax": "149463940",
+      "reference": "2013-08912",
+      "activit": "H\u00f4tel",
+      "etablissement": "Suite Novotel Porte de la Chapelle",
+      "adresse": "1 Impasse Marteau",
+      "siteweb": "http://www.suitenovotel.com",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75018,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.90162,
+        2.359719
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.359719,
+        48.90162
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "4e168074fbc7114d39568f3c23ed376f289fcc1b",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "VULAINES SUR SEINE",
+      "telephone": "164237327",
+      "fax": "164237830",
+      "reference": "2013-09081",
+      "activit": "Lieu de visite",
+      "etablissement": "Mus\u00e9e D\u00e9partemental St\u00e9phane Mallarm\u00e9",
+      "adresse": "4 Quai St\u00e9phane Mallarm\u00e9",
+      "siteweb": "http://www.seine-et-marne.fr",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77870,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.430323,
+        2.7466049999999997
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.7466049999999997,
+        48.430323
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "af3c8d1b303c43da9a06e8fb8d6cd742c12b27b1",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "DOURDAN",
+      "telephone": "164598697",
+      "reference": "2016-01538",
+      "activit": "Office de tourisme",
+      "etablissement": "Office de tourisme de Dourdan",
+      "adresse": "Place du G\u00e9n\u00e9ral de Gaulle",
+      "siteweb": "http://www.dourdan-tourisme.fr",
+      "handicap_mental": "Oui",
+      "departement": "ESSONNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 91410,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.529685,
+        2.011803
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.011803,
+        48.529685
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "ec2ce77066f3258716578b6c8cefc7ab9d02f741",
+    "fields": {
+      "handicaps": "mental",
+      "ville": "SAINT FARGEAU PONTHIERRY",
+      "telephone": "160656535",
+      "fax": "164381041",
+      "reference": "2013-09071",
+      "activit": "H\u00f4tel",
+      "etablissement": "H\u00f4tel  restaurant Apollonia",
+      "adresse": "27 rue de la Saussaie",
+      "siteweb": "http://www.apollonia-hotel.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Non",
+      "codepostal": 77310,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.533497,
+        2.535694
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.535694,
+        48.533497
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "3bb81f109120e3220fe412eb66c7d34296ab932e",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "RUEIL MALMAISON",
+      "telephone": "147522262",
+      "fax": "147522260",
+      "reference": "2013-09669",
+      "activit": "H\u00f4tel",
+      "etablissement": "Suite Novotel Rueil Malmaison",
+      "adresse": "17 rue Fran\u00e7ois Jacob",
+      "siteweb": "http://www.suitenovotel.com",
+      "handicap_mental": "Oui",
+      "departement": "HAUTS-DE-SEINE",
+      "handicap_auditif": "Oui",
+      "codepostal": 92500,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.890317,
+        2.174494
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.174494,
+        48.890317
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "7349fbfcdf558f6fbe1dbdc4242fafa38ea07d99",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "BARBIZON",
+      "telephone": "164523504",
+      "reference": "2013-11519",
+      "activit": "Restaurant",
+      "etablissement": "Restaurant Le Gaulois sur le Grill",
+      "adresse": "64bis rue Grande",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77360,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.870716,
+        2.64767
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.64767,
+        48.870716
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "c23aef957396bd24ba36ab76bf019896b9b90d63",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "JOINVILLE LE PONT",
+      "telephone": "666677354",
+      "reference": "2013-09690",
+      "activit": "Meubl\u00e9 de tourisme",
+      "etablissement": "Gite de M. Erwan Abb\u00e9",
+      "adresse": "50 rue de Paris",
+      "siteweb": "http://www.gitehandicapjoinvil.free.fr",
+      "handicap_mental": "Oui",
+      "departement": "VAL-DE-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 94340,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.816424,
+        2.468485
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.468485,
+        48.816424
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "fffdecd4bd44a68c1e6f1ee0ff451175cf95e30e",
+    "fields": {
+      "handicaps": "mental",
+      "ville": "PANTIN",
+      "telephone": "148106700",
+      "fax": "148106701",
+      "reference": "2013-09678",
+      "activit": "H\u00f4tel",
+      "etablissement": "H\u00f4tel Ibis Eglise Pantin",
+      "adresse": "153 avenue Jean Lolive ZAC de l'Eglise",
+      "siteweb": "http://www.ibishotel.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-SAINT-DENIS",
+      "handicap_auditif": "Non",
+      "codepostal": 93500,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.893483,
+        2.414015
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.414015,
+        48.893483
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "372184355e072554c8fba371679d647065f06146",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "BUSSY SAINT GEORGES",
+      "telephone": "164022307",
+      "fax": "160079212",
+      "reference": "2013-09038",
+      "etablissement": "Salle de r\u00e9ception La Ferme de la Jonch\u00e8re",
+      "adresse": "Boulevard du Pav\u00e9 de Fontanelle",
+      "siteweb": "http://www.fermedelajonchere.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77600,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.847622,
+        2.720036
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.720036,
+        48.847622
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "d7bfe2c1865f14fbef9815b6c592729157975241",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "GIRONVILLE",
+      "telephone": "164287183",
+      "fax": "164287961",
+      "reference": "2015-00104",
+      "activit": "Structure diverse",
+      "etablissement": "Salle de r\u00e9ception de la Ferme de l'Avenir",
+      "siteweb": "http://www.lafermedelavenir.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77890,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.185113,
+        2.5277089999999998
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.5277089999999998,
+        48.185113
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "9556824cb1284645134ea9d72aadf2dda4c8a106",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "BOULLAY-LES-TROUX",
+      "telephone": "160124861",
+      "reference": "2014-00710",
+      "activit": "Meubl\u00e9 de tourisme",
+      "etablissement": "Gite rural La Salamandre",
+      "adresse": "1 rue des Carri\u00e8res",
+      "handicap_mental": "Oui",
+      "departement": "ESSONNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 91470,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.670523,
+        2.050491
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.050491,
+        48.670523
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "8d17e48ad46a0ce93a0690e0f77601a060711a08",
+    "fields": {
+      "handicaps": "auditif ; moteur",
+      "ville": "BOIS LE ROI",
+      "telephone": "164813300",
+      "reference": "2013-09034",
+      "activit": "Camping",
+      "etablissement": "Roulotte de la Base de Loisirs de Bois le Roi",
+      "adresse": "Rue de Tournezy",
+      "siteweb": "http://www.ucpa-boisleroi.com",
+      "handicap_mental": "Non",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77590,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.481355,
+        2.712488
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.712488,
+        48.481355
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "6114a87433f2c04781925f59035aaa0ea942585d",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "FRESNES",
+      "telephone": "141243222",
+      "reference": "2013-09687",
+      "activit": "Lieu de visite",
+      "etablissement": "Ecomus\u00e9e du Val de Bi\u00e8vre",
+      "adresse": "Ferme de Cottainville 41 rue Maurice T\u00e9nine",
+      "siteweb": "http://www.agglo-valdebievre.fr",
+      "handicap_mental": "Oui",
+      "departement": "VAL-DE-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 94260,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.75525,
+        2.326389
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.326389,
+        48.75525
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "855e315823eac150ba0fad0b13b56b8797441e91",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur",
+      "ville": "R\u00c9AU",
+      "telephone": "160597897",
+      "fax": "160598191",
+      "reference": "2013-09069",
+      "activit": "Lieu de visite",
+      "etablissement": "Mus\u00e9e A\u00e9ronautique Spatial Safran",
+      "adresse": "Rond-point Ren\u00e9 Ravaud",
+      "siteweb": "http://www.museesafran.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77550,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.605295,
+        2.651051
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.651051,
+        48.605295
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "16002d8b781466f43687ae6055fecc0376415086",
+    "fields": {
+      "handicaps": "auditif ; visuel ; moteur ; mental",
+      "ville": "RAMBOUILLET",
+      "telephone": "622048805",
+      "reference": "2013-09090",
+      "activit": "Sport de nature",
+      "etablissement": "Parcours des Glaci\u00e8res",
+      "adresse": "Maison Foresti\u00e8re de la V\u00e9nerie",
+      "handicap_mental": "Oui",
+      "departement": "YVELINES",
+      "handicap_auditif": "Oui",
+      "codepostal": 78120,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.654832999999996,
+        1.856482
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.856482,
+        48.654832999999996
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "57095911bd99bf4fe9b3b6c6040917f013cf3c92",
+    "fields": {
+      "handicaps": "mental",
+      "ville": "NOGENT SUR MARNE",
+      "telephone": "143243737",
+      "fax": "143248404",
+      "reference": "2013-09691",
+      "activit": "H\u00f4tel",
+      "etablissement": "H\u00f4tel Ibis Nogent sur Marne",
+      "adresse": "1 rue de Nazar\u00e9",
+      "siteweb": "http://www.ibishotel.com",
+      "handicap_mental": "Oui",
+      "departement": "VAL-DE-MARNE",
+      "handicap_auditif": "Non",
+      "codepostal": 94130,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.833496,
+        2.492408
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.492408,
+        48.833496
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "f5f27a480776c8871fa17970ec48ece56722b002",
+    "fields": {
+      "handicaps": "moteur ; mental",
+      "ville": "BLANDY LES TOURS",
+      "telephone": "160591780",
+      "reference": "2013-09033",
+      "activit": "Lieu de visite",
+      "etablissement": "Ch\u00e2teau de Blandy Les Tours",
+      "adresse": "Place des Tours",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Non",
+      "codepostal": 77115,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.567833,
+        2.781844
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.781844,
+        48.567833
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "3a9ab6dc4db967f1297cb5f1a86ba433381878ec",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur",
+      "ville": "CERNEUX",
+      "telephone": "164012255",
+      "reference": "2013-09040",
+      "activit": "Meubl\u00e9 de tourisme",
+      "etablissement": "G\u00eete rural 317",
+      "adresse": "Ferme de Monglat",
+      "siteweb": "http://www.audomelia.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77320,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.69429,
+        3.332072
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.332072,
+        48.69429
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "a4f8e0365ff7145843725b0e167d4bf87a282228",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur",
+      "ville": "PARIS",
+      "telephone": "140037575",
+      "reference": "2013-12166",
+      "etablissement": "Pavillon Delouvrier - La Villette",
+      "adresse": "211 Avenue Jean Jaur\u00e8s",
+      "siteweb": "http://www.villette.com",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75019,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.888947,
+        2.392436
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.392436,
+        48.888947
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "76ed4a60dd2ce2f093e1e046ede55b5276f001a3",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "CHAMPS-SUR-MARNE",
+      "telephone": "160052443",
+      "reference": "2014-00349",
+      "activit": "Lieu de visite",
+      "etablissement": "Ch\u00e2teau de Champs sur Marne",
+      "adresse": "31 rue de Paris",
+      "siteweb": "http://www.monuments-nationaux.fr",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77420,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.852438,
+        2.604899
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.604899,
+        48.852438
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "9eb08c7f6383787953a169b4c920eb5f40c66ff3",
+    "fields": {
+      "handicaps": "auditif ; moteur ; mental",
+      "ville": "PARIS",
+      "telephone": "142721016",
+      "fax": "142720664",
+      "reference": "2013-08886",
+      "activit": "Lieu de visite",
+      "etablissement": "Maison Victor Hugo",
+      "adresse": "H\u00f4tel de Rohan  6 Place des Vosges",
+      "siteweb": "http://www.musee-hugo.paris.fr",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75004,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.854808,
+        2.366232
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.366232,
+        48.854808
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "c7cc86e2a93123e388e6975c23e4cdb60e258b3a",
+    "fields": {
+      "handicaps": "mental ; moteur",
+      "ville": "PARIS",
+      "telephone": "158340011",
+      "fax": "158340404",
+      "reference": "2013-08911",
+      "activit": "H\u00f4tel",
+      "etablissement": "Ibis Budget  Porte de la Chapelle",
+      "adresse": "7-9 impasse Marteau",
+      "siteweb": "http://www.ibis.com",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Non",
+      "codepostal": 75018,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.901487,
+        2.3621309999999998
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.3621309999999998,
+        48.901487
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "4f513354134df75b4f1340e67f7739085ebdc4a2",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "PARIS",
+      "telephone": "140494796",
+      "fax": "142221184",
+      "reference": "2013-08892",
+      "activit": "Lieu de visite",
+      "etablissement": "Mus\u00e9e d'Orsay",
+      "adresse": "62 rue de Lille",
+      "siteweb": "http://www.musee-orsay.fr",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75007,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.859648,
+        2.326278
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.326278,
+        48.859648
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "82f10ee56dc6848bd7fa33681f19a1936109fb7d",
+    "fields": {
+      "handicaps": "auditif ; moteur ; mental",
+      "ville": "VINCENNES",
+      "telephone": "143986500",
+      "reference": "2013-09694",
+      "activit": "Lieu de visite",
+      "etablissement": "Centre culturel Pompidou",
+      "adresse": "142 rue de Fontenay",
+      "siteweb": "http://www.vincennes.fr",
+      "handicap_mental": "Oui",
+      "departement": "VAL-DE-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 94300,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.848431,
+        2.436236
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.436236,
+        48.848431
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "a4489f1a1dfe505f496dec8febf795a6fbea0c29",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur",
+      "ville": "PARIS",
+      "telephone": "144781233",
+      "fax": "144784915",
+      "reference": "2013-11495",
+      "etablissement": "Centre National d'art et de culture  Georges Pompidou",
+      "adresse": "Place Georges Pompidou",
+      "siteweb": "http://www.centrepompidou.fr",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75004,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.854978,
+        2.365625
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.365625,
+        48.854978
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "391065f20b318944108c4d99c762d83820ab3a23",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur",
+      "ville": "NANGIS",
+      "telephone": "164082250",
+      "fax": "164609756",
+      "reference": "2013-09061",
+      "activit": "H\u00f4tel",
+      "etablissement": "Hostellerie Le Ch\u00e2tel",
+      "adresse": "17 Avenue du G\u00e9n\u00e9ral de Gaulle",
+      "siteweb": "http://www.lechatel.eu",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77370,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.559978,
+        3.018491
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.018491,
+        48.559978
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "a94eae57fca1259bbe4a6b2a26ad6a77f801977e",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "PARIS",
+      "telephone": "140037575",
+      "reference": "2013-11791",
+      "activit": "Office de tourisme",
+      "etablissement": "Folie Information - La Villette",
+      "adresse": "211 avenue Jean Jaures",
+      "siteweb": "http://www.villette.com",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75019,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.888947,
+        2.392436
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.392436,
+        48.888947
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "e1e70b6e0ff4b2b1dfabe24ec7c09acf31dfd3d1",
+    "fields": {
+      "handicaps": "auditif ; moteur ; mental",
+      "ville": "PARIS",
+      "telephone": "147708808",
+      "fax": "147708400",
+      "reference": "2013-08898",
+      "activit": "Lieu de visite",
+      "etablissement": "Mus\u00e9e Gr\u00e9vin",
+      "adresse": "10 bd Montmartre",
+      "siteweb": "http://www.grevin.com",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75009,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.871817,
+        2.342079
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.342079,
+        48.871817
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "a2c9857b501cf3dc8cef8067ce9ddb9fd2fda180",
+    "fields": {
+      "handicaps": "mental",
+      "ville": "COUPVRAY",
+      "telephone": "160048280",
+      "fax": "160048280",
+      "reference": "2013-09046",
+      "activit": "Lieu de visite",
+      "etablissement": "Mus\u00e9e Louis Braille",
+      "adresse": "13 rue Louis Braille",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Non",
+      "codepostal": 77700,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.894538,
+        2.791986
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.791986,
+        48.894538
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "e63046271ca0943ce87a51e307865ce724da7781",
+    "fields": {
+      "handicaps": "auditif ; visuel ; moteur ; mental",
+      "ville": "CHARTRONGES",
+      "telephone": "164659714",
+      "reference": "2013-09042",
+      "activit": "H\u00f4tel",
+      "etablissement": "H\u00f4tel Le Grand Terre",
+      "adresse": "A\u00e9rodrome de la Fert\u00e9 Gaucher",
+      "siteweb": "http://www.le-grand-terre.fr",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77230,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap"
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "883c0ae4edbb06b7db3052a8c528a6d3ded8a2c0",
+    "fields": {
+      "handicaps": "mental",
+      "ville": "BUSSY SAINT GEORGES",
+      "telephone": "164666262",
+      "fax": "164666263",
+      "reference": "2013-09036",
+      "activit": "H\u00f4tel",
+      "etablissement": "Campanile Bussy St Georges",
+      "adresse": "8 avenue Marie Curie",
+      "siteweb": "http://www.campanile.fr",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Non",
+      "codepostal": 77600,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.832543,
+        2.704198
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.704198,
+        48.832543
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "1d35e9db1b4295f2adcb37d298aca96f5a885821",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "PARIS",
+      "telephone": "149938888",
+      "fax": "149938899",
+      "reference": "2013-11491",
+      "activit": "H\u00f4tel",
+      "etablissement": "Suite Novotel - Porte de Montreuil - Paris",
+      "adresse": "22 Avenue du Professeur Lemierre",
+      "siteweb": "http://www.suitenovotel.com",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75020,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.856021,
+        2.415101
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.415101,
+        48.856021
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "eb168d6089a014703e4a00482559cd17cffc5308",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "FERTE GAUCHER (LA)",
+      "telephone": "164040019",
+      "fax": "164040250",
+      "reference": "2013-09052",
+      "activit": "H\u00f4tel",
+      "etablissement": "H\u00f4tel restaurant Le Sauvage",
+      "adresse": "27 rue de Paris",
+      "siteweb": "http://www.hotel-du-sauvage.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77320,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.780779,
+        3.30502
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.30502,
+        48.780779
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "d443baccc6e30ba080c9d5cb1fba6958cb8a6900",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur",
+      "ville": "BOURRON-MARLOTTE",
+      "telephone": "164783128",
+      "fax": "164783172",
+      "reference": "2013-11518",
+      "activit": "Restaurant",
+      "etablissement": "Restaurant le Martingo",
+      "adresse": "59 rue du G\u00e9n\u00e9ral de Gaulle",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77780,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.339789,
+        2.700354
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.700354,
+        48.339789
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "1d442900148ee22da9d3673e659bb4d6b27cb459",
+    "fields": {
+      "handicaps": "auditif ; mental ; visuel",
+      "ville": "PARIS",
+      "telephone": "140528110",
+      "fax": "140528115",
+      "reference": "2013-08907",
+      "activit": "Restaurant",
+      "etablissement": "Caf\u00e9 Signes",
+      "adresse": "33 avenue Jean Moulin",
+      "siteweb": "http://www.cafesignes.com",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75014,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.825926,
+        2.322524
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.322524,
+        48.825926
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "f2a301bf8c44543370bd9d649b7afcb9bf0c85fe",
+    "fields": {
+      "handicaps": "moteur ; mental",
+      "ville": "BRAY SUR SEINE",
+      "telephone": "975769812",
+      "fax": "975769812",
+      "reference": "2013-09035",
+      "etablissement": "Cin\u00e9ma Le Renaissance",
+      "adresse": "16 rue de l'Eglise",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Non",
+      "codepostal": 77480,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.415276,
+        3.237827
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.237827,
+        48.415276
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "81362eb96bea3bd8079a386167527598a7360041",
+    "fields": {
+      "handicaps": "auditif",
+      "ville": "SCEAUX",
+      "telephone": "146610671",
+      "fax": "146610088",
+      "reference": "2013-09671",
+      "activit": "Lieu de visite",
+      "etablissement": "Ch\u00e2teau de Sceaux",
+      "adresse": "Ch\u00e2teau de Sceaux",
+      "siteweb": "http://www.chateau-sceaux.fr",
+      "handicap_mental": "Non",
+      "departement": "HAUTS-DE-SEINE",
+      "handicap_auditif": "Oui",
+      "codepostal": 92330,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.774707,
+        2.299024
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.299024,
+        48.774707
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "9be2322ef3e598a86d8fd8d52e3c9df3dbd26582",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "THOIRY EN YVELINES",
+      "telephone": "134875225",
+      "fax": "134875412",
+      "reference": "2013-09093",
+      "activit": "Lieu de visite",
+      "etablissement": "Parc R\u00e9serve et Ch\u00e2teau de Thoiry",
+      "adresse": "Parc et Ch\u00e2teau de Thoiry BP 9",
+      "siteweb": "http://www.thoiry.net",
+      "handicap_mental": "Oui",
+      "departement": "YVELINES",
+      "handicap_auditif": "Oui",
+      "codepostal": 78770,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.863882,
+        1.795828
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.795828,
+        48.863882
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "0d5f60eae945c6a7aaa55279fd3d9d77ad8360e3",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "CHAMPIGNY SUR MARNE",
+      "telephone": "667708754",
+      "reference": "2013-09685",
+      "activit": "Chambre d'h\u00f4tes",
+      "etablissement": "Chambres d'h\u00f4tes de Me Bernard",
+      "adresse": "133 bd Aristide Briand",
+      "siteweb": "http://www..lejardindaristide.fr",
+      "handicap_mental": "Oui",
+      "departement": "VAL-DE-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 94500,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.822416,
+        2.500851
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.500851,
+        48.822416
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "b8dd2c40752cef245abbb54db9472e23df552d69",
+    "fields": {
+      "handicaps": "mental",
+      "ville": "CLAMART",
+      "telephone": "147360589",
+      "fax": "147360589",
+      "reference": "2013-09661",
+      "activit": "Lieu de visite",
+      "etablissement": "Centre d'Arts Plastiques Albert Chanot",
+      "adresse": "33 rue Brissard",
+      "siteweb": "http://www.centreartchanot.com",
+      "handicap_mental": "Oui",
+      "departement": "HAUTS-DE-SEINE",
+      "handicap_auditif": "Non",
+      "codepostal": 92140,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.812406,
+        2.266128
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.266128,
+        48.812406
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "ceb646fc277f093ade1fb7c73c80b4081ede5c96",
+    "fields": {
+      "handicaps": "mental",
+      "ville": "MILON LA CHAPELLE",
+      "telephone": "130234940",
+      "reference": "2013-09085",
+      "activit": "H\u00f4tel",
+      "etablissement": "H\u00f4tel de la Chapelle",
+      "adresse": "2 route de Chevreuse",
+      "siteweb": "http://www.hotelchapelle.com",
+      "handicap_mental": "Oui",
+      "departement": "YVELINES",
+      "handicap_auditif": "Non",
+      "codepostal": 78470,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.725444,
+        2.049337
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.049337,
+        48.725444
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "7f0d9e6e84c2d4f798d425d5a41ecde1982c7c51",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur",
+      "ville": "CHAILLY-EN-BIERE",
+      "telephone": "783623330",
+      "reference": "2016-01060",
+      "activit": "Chambre d'h\u00f4tes",
+      "etablissement": "Chambres d'h\u00f4tes Chaillly en Biere",
+      "adresse": "3 Route de Paris",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77930,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.466495,
+        2.606743
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.606743,
+        48.466495
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "38520372fdded63c81dd2683dd516880beaebc42",
+    "fields": {
+      "handicaps": "auditif ; visuel ; moteur ; mental",
+      "ville": "VILLENEUVE SAINT GEORGES",
+      "telephone": "143890464",
+      "fax": "143898217",
+      "reference": "2013-09693",
+      "activit": "Restaurant",
+      "etablissement": "Guinguette Auvergnate",
+      "adresse": "19 avenue de Choisy",
+      "siteweb": "http://www.guinguette-auvergnate.fr",
+      "handicap_mental": "Oui",
+      "departement": "VAL-DE-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 94190,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.745741,
+        2.437496
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.437496,
+        48.745741
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "601144631dfb688d2aac769f304a62d35295b820",
+    "fields": {
+      "handicaps": "mental",
+      "ville": "LIEUSAINT",
+      "telephone": "164137200",
+      "fax": "164137900",
+      "reference": "2013-09055",
+      "activit": "H\u00f4tel",
+      "etablissement": "H\u00f4tel Clarion",
+      "adresse": "12 all\u00e9e du Trait d'Union",
+      "siteweb": "http://www.clarionsenart-paris.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Non",
+      "codepostal": 77127,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.62087,
+        2.540817
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.540817,
+        48.62087
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "84c48f7025bf915eee1196dfe39d1d53ee6593c0",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "PARIS",
+      "telephone": "145238390",
+      "fax": "142467379",
+      "reference": "2013-08901",
+      "activit": "H\u00f4tel",
+      "etablissement": "Ibis Gare du Nord Lafayette",
+      "adresse": "122 rue Lafayette",
+      "siteweb": "http://www.ibishotel.com",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75010,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.878052,
+        2.352621
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.352621,
+        48.878052
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "1506a687fbf0e0979ba1decb918f0bc661abfac5",
+    "fields": {
+      "handicaps": "auditif ; visuel ; moteur ; mental",
+      "ville": "NAINVILLE LES ROCHES",
+      "telephone": "164984056",
+      "fax": "164984056",
+      "reference": "2013-09657",
+      "activit": "Chambre d'h\u00f4tes",
+      "etablissement": "Chambres d'H\u00f4tes Le Clos des Fontaines",
+      "adresse": "3 rue de l'Eglise",
+      "siteweb": "http://www.closdesfontaines.com",
+      "handicap_mental": "Oui",
+      "departement": "ESSONNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 91750,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.504805,
+        2.492787
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.492787,
+        48.504805
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "305384d5b154e4f0d793d9c0418fb92e6066cf65",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur",
+      "ville": "LOUVRES",
+      "telephone": "134090102",
+      "reference": "2013-09704",
+      "activit": "Lieu de visite",
+      "etablissement": "Mus\u00e9e d'Arch\u00e9ologie Arch\u00e9a",
+      "adresse": "56 rue de Paris",
+      "siteweb": "http://www.archea-roissyportedefrance.fr",
+      "handicap_mental": "Oui",
+      "departement": "VAL-D'OISE",
+      "handicap_auditif": "Oui",
+      "codepostal": 95380,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        49.041117,
+        2.50695
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.50695,
+        49.041117
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "2634b350a00472efb40fc36109d0e67e3fe57c42",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur",
+      "ville": "RICHEBOURG",
+      "telephone": "134851899",
+      "reference": "2013-11521",
+      "activit": "Chambre d'h\u00f4tes",
+      "etablissement": "Chambres d'h\u00f4tes La Barjuline",
+      "adresse": "6 Impasse de l'Aqueduc",
+      "siteweb": "http://www.labarjuline.blogspot.com",
+      "handicap_mental": "Oui",
+      "departement": "YVELINES",
+      "handicap_auditif": "Oui",
+      "codepostal": 78550,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.819527,
+        1.637756
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.637756,
+        48.819527
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "3ba53ff4a6d0a17ca6039d830344e3f04fc8f80a",
+    "fields": {
+      "handicaps": "mental",
+      "ville": "NOISY LE GRAND",
+      "telephone": "143052020",
+      "fax": "143034110",
+      "reference": "2013-09676",
+      "activit": "H\u00f4tel",
+      "etablissement": "H\u00f4tel Ibis Noisy Le Grand",
+      "adresse": "4 all\u00e9e Bienvenue",
+      "siteweb": "http://www.ibis.hotel.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-SAINT-DENIS",
+      "handicap_auditif": "Non",
+      "codepostal": 93160,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.838077,
+        2.541958
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.541958,
+        48.838077
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "28940c5383ee313bdc3a00aec9cda34026a8cf77",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "FERTE GAUCHER (LA)",
+      "telephone": "164040668",
+      "fax": "164040873",
+      "reference": "2013-09053",
+      "activit": "Office de tourisme",
+      "etablissement": "Office de Tourisme de la Fert\u00e9 Gaucher",
+      "adresse": "35 rue des Promenades",
+      "siteweb": "http://www.tourisme-en-brie.fr",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77320,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.779779,
+        3.303956
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.303956,
+        48.779779
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "36dfa23ba5ba19ce5246d179c943be57a5758d57",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "FONTAINEBLEAU",
+      "telephone": "160715794",
+      "reference": "2013-09050",
+      "activit": "Lieu de visite",
+      "etablissement": "Le Ch\u00e2teau de Fontainebleau Mus\u00e9e national",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77300,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.408814,
+        2.701368
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.701368,
+        48.408814
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "3530990d49a5821ba29b53b3e67b055cd789b107",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "VINCENNES",
+      "telephone": "148081300",
+      "reference": "2015-00004",
+      "activit": "Office de tourisme",
+      "etablissement": "Office de tourisme de Vincennes",
+      "adresse": "28 avenue de Paris",
+      "siteweb": "http://www.tourisme-vincennes.fr",
+      "handicap_mental": "Oui",
+      "departement": "VAL-DE-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 94300,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.845009,
+        2.43468
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.43468,
+        48.845009
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "0652b37b15b8eb649a88b16f37d532b9b2da7413",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "PARIS",
+      "telephone": "144186185",
+      "fax": "144186189",
+      "reference": "2013-08893",
+      "activit": "Lieu de visite",
+      "etablissement": "Mus\u00e9e Rodin",
+      "adresse": "79 rue de Varenne",
+      "siteweb": "http://www.musee-rodin.fr",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75007,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.856049,
+        2.315334
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.315334,
+        48.856049
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "a47f26c9ada77f8fb118eda1dc3eace4d3d4e777",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "EGREVILLE",
+      "telephone": "164785090",
+      "fax": "164785094",
+      "reference": "2013-09048",
+      "activit": "Lieu de visite",
+      "etablissement": "Mus\u00e9e Jardin Departemental Bourdelle",
+      "adresse": "1 rue Dufet Bourdelle",
+      "siteweb": "http://www.musee-jardin-bourdelle.fr",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77620,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.184224,
+        2.859647
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.859647,
+        48.184224
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "7a87ce5abb9e9071ff5cd4b1283781a2c5a508c6",
+    "fields": {
+      "handicaps": "moteur",
+      "ville": "PARIS",
+      "telephone": "140010881",
+      "fax": "140010883",
+      "reference": "2013-08904",
+      "activit": "Lieu de visite",
+      "etablissement": "La Maison Rouge",
+      "adresse": "10 bd de la Bastille",
+      "siteweb": "http://www.lamaisonrouge.org",
+      "handicap_mental": "Non",
+      "departement": "PARIS",
+      "handicap_auditif": "Non",
+      "codepostal": 75012,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.847371,
+        2.3675319999999997
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.3675319999999997,
+        48.847371
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "38eb3c3b590d2af8d2804d15012a85d03f859998",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "PARIS",
+      "telephone": "140795412",
+      "reference": "2013-11712",
+      "etablissement": "Mus\u00e9e National Histoire Naturelle Auditorium",
+      "adresse": "36 rue Geoffroy Saint Hilaire",
+      "siteweb": "http://www.galeriedesenfants.fr",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75005,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.841491,
+        2.355989
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.355989,
+        48.841491
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "c471253c44ab1463593beda4fcf20bc4374aab93",
+    "fields": {
+      "handicaps": "auditif ; visuel ; moteur ; mental",
+      "ville": "SOUPPES-SUR-LOING",
+      "telephone": "164281304",
+      "reference": "2013-09076",
+      "activit": "Meubl\u00e9 de tourisme",
+      "etablissement": "Gite rural n\u00b0254",
+      "adresse": "Ferme de Beaumoulin La Madeleine sur Loing",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77460,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.197496,
+        2.717051
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.717051,
+        48.197496
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "02430665fa8877a6b10911f0ca09ba503f7b60bc",
+    "fields": {
+      "handicaps": "auditif ; visuel ; moteur ; mental",
+      "ville": "CHARTRONGES",
+      "telephone": "164654102",
+      "reference": "2013-09041",
+      "activit": "Meubl\u00e9 de tourisme",
+      "etablissement": "G\u00eete rural de Chartronges",
+      "adresse": "18-20 rue de la Croix F\u00e9raubry",
+      "siteweb": "http://www.domainelespeupliers.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77320,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.762059,
+        3.2681620000000002
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.2681620000000002,
+        48.762059
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "d144020cc49343b378d8604ef6d90830255678c1",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "PROVINS",
+      "telephone": "614022510",
+      "reference": "2013-09066",
+      "activit": "Chambre d'h\u00f4tes",
+      "etablissement": "Chambre d'h\u00f4tes Logis de la Voulzie",
+      "adresse": "14 rue Aristide Briand",
+      "siteweb": "http://www.logisdelavoulzie.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77160,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.557785,
+        3.298255
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.298255,
+        48.557785
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "f36e83a26bb576fbf45dd6b4b56cb678f8f335b4",
+    "fields": {
+      "handicaps": "auditif ; visuel ; moteur ; mental",
+      "ville": "CHELLES",
+      "telephone": "164212799",
+      "fax": "164212853",
+      "reference": "2013-09043",
+      "activit": "Office de tourisme",
+      "etablissement": "Office de Tourisme de Marne et Chantereine",
+      "adresse": "51bis avenue de la R\u00e9sistance",
+      "siteweb": "http://www.tourisme-marne-chantereine.fr",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77500,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.87599,
+        2.584034
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.584034,
+        48.87599
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "b667eabc68dc4ac590ec0b1e2bf0400ae27a1832",
+    "fields": {
+      "handicaps": "mental",
+      "ville": "SERRIS",
+      "telephone": "164633333",
+      "fax": "164633330",
+      "reference": "2013-09075",
+      "activit": "H\u00f4tel",
+      "etablissement": "H\u00f4tel Elys\u00e9e Val d'Europe",
+      "adresse": "7 cours du Danube",
+      "siteweb": "http://www.hotelelysee.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Non",
+      "codepostal": 77700,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.855587,
+        2.775849
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.775849,
+        48.855587
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "a8a548857dddc531b0938f75166df4ede68aa63d",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "VAUX LE PENIL",
+      "telephone": "164520909",
+      "reference": "2013-09079",
+      "activit": "Restaurant",
+      "etablissement": "Restaurant La Table Saint Just",
+      "adresse": "11 rue de la Lib\u00e9ration",
+      "siteweb": "http://www.restaurant-latablesaintjust.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77000,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.532922,
+        2.672386
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.672386,
+        48.532922
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "98f191b83e7d51e98aa52e74c38dbc5e180b38cf",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "COLOMBES",
+      "telephone": "147695927",
+      "fax": "147695925",
+      "reference": "2013-09663",
+      "activit": "H\u00f4tel",
+      "etablissement": "H\u00f4tel Courtyard by Marriott",
+      "adresse": "91 bd Charles de Gaulle",
+      "siteweb": "http://www.marriott.com",
+      "handicap_mental": "Oui",
+      "departement": "HAUTS-DE-SEINE",
+      "handicap_auditif": "Oui",
+      "codepostal": 92700,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.912382,
+        2.230952
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.230952,
+        48.912382
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "bb6bd14c7dfc72d09446b610c36be0cad312820e",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "DOUE",
+      "telephone": "650959446",
+      "reference": "2014-00097",
+      "activit": "Meubl\u00e9 de tourisme",
+      "etablissement": "Gite rural",
+      "adresse": "17 bis Les Chaiseq",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77510,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.875104,
+        3.1648
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.1648,
+        48.875104
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "c0e019b09b6144787ab6fc8b1dfccf680b631cac",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "PARIS",
+      "telephone": "142727311",
+      "fax": "144540448",
+      "reference": "2013-08883",
+      "activit": "Lieu de visite",
+      "etablissement": "Mus\u00e9e de la Poup\u00e9e",
+      "adresse": "Impasse Berthaud",
+      "siteweb": "http://www.museedelapoupeeparis.com",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75003,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.861267,
+        2.354106
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.354106,
+        48.861267
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "629de7bbe702954b47445cddd22cfe605518dfc3",
+    "fields": {
+      "handicaps": "auditif ; mental ; visuel",
+      "ville": "PARIS",
+      "telephone": "140205173",
+      "reference": "2014-00994",
+      "etablissement": "Jardin des Tuileries",
+      "adresse": "113 rue de Rivoli",
+      "siteweb": "http://www.louvre.fr",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75001,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.861863,
+        2.338081
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.338081,
+        48.861863
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "d99d3ff4c65b66db356bbbe2548f6e42cf505f8c",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "SAINT CLOUD",
+      "telephone": "146022453",
+      "fax": "146022453",
+      "reference": "2013-09670",
+      "activit": "Lieu de visite",
+      "etablissement": "Ferme P\u00e9dagogique du Piqueur",
+      "adresse": "Domaine National de Saint Cloud",
+      "siteweb": "http://www.lafermedupiqueur.fr",
+      "handicap_mental": "Oui",
+      "departement": "HAUTS-DE-SEINE",
+      "handicap_auditif": "Oui",
+      "codepostal": 92210,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap"
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "ff58e04676d00336449b754f1db89e0e30c0d985",
+    "fields": {
+      "handicaps": "auditif ; visuel ; moteur ; mental",
+      "ville": "MARNE LA VALLEE",
+      "telephone": "160433333",
+      "fax": "160437495",
+      "reference": "2013-09057",
+      "activit": "Office de tourisme",
+      "etablissement": "Espace Tourisme Ile de France Seine et Marne",
+      "adresse": "place Fran\u00e7ois Truffaut",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77000,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap"
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "1984d1942d0167f8bbab37b80c662aa6442e8b92",
+    "fields": {
+      "handicaps": "auditif ; moteur ; mental",
+      "ville": "CHAPELLE-MOUTILS (La)",
+      "telephone": "975176279",
+      "reference": "2013-09051",
+      "activit": "Chambre d'h\u00f4tes",
+      "etablissement": "Chambre d'h\u00f4tes de la Chapelle Moutils",
+      "adresse": "Ferme de Puiseleau",
+      "siteweb": "http://www..chambres-hotes-fermedepuiseleau.fr",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77230,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap"
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "db5529e391db8caacf5233c39b8d59422234c96a",
+    "fields": {
+      "handicaps": "auditif ; visuel ; moteur ; mental",
+      "ville": "MEUDON",
+      "telephone": "130841140",
+      "fax": "139021524",
+      "reference": "2013-09667",
+      "activit": "Sport de nature",
+      "etablissement": "Sentier accessible des Treize Ponts ONF",
+      "adresse": "Carrefour de l'Etoile",
+      "siteweb": "http://www.onf.fr/ile-de-France-nord-ouest",
+      "handicap_mental": "Oui",
+      "departement": "HAUTS-DE-SEINE",
+      "handicap_auditif": "Oui",
+      "codepostal": 92360,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.802673,
+        2.204725
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.204725,
+        48.802673
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "3bdc49347ab4eca61702bfecedda1ca28b579046",
+    "fields": {
+      "handicaps": "visuel ; mental",
+      "ville": "NEMOURS",
+      "telephone": "164785480",
+      "fax": "164785489",
+      "reference": "2013-09063",
+      "activit": "Lieu de visite",
+      "etablissement": "Mus\u00e9e D\u00e9partemental de Pr\u00e9histoire",
+      "adresse": "48 avenue Etienne Dailly",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Non",
+      "codepostal": 77140,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.260312,
+        2.714321
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.714321,
+        48.260312
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "4f6bbdcb052ae3dc2ab1b21c5b93a60224da5932",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur",
+      "ville": "PARIS",
+      "telephone": "140205050",
+      "reference": "2013-08884",
+      "activit": "Lieu de visite",
+      "etablissement": "Mus\u00e9e du Louvre",
+      "adresse": "99 rue de Rivoli",
+      "siteweb": "http://www.louvre.fr",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75001,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.862756,
+        2.334838
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.334838,
+        48.862756
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "745a6ff45871274185e043b523ef745f070016c2",
+    "fields": {
+      "handicaps": "auditif ; moteur ; mental",
+      "ville": "VILLIERS SAINT GEORGES",
+      "telephone": "164019585",
+      "fax": "164012588",
+      "reference": "2013-09080",
+      "activit": "Chambre d'h\u00f4tes",
+      "etablissement": "Chambres d'H\u00f4tes de M. Morisseau",
+      "adresse": "40 rue de Nogent",
+      "siteweb": "http://www.aloreedeschamps.fr",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77560,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.643602,
+        3.410186
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.410186,
+        48.643602
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "08e02d2f770c7c76a704ccc6913362ff512c72f5",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur",
+      "ville": "CORMEILLES-EN-PARISIS",
+      "telephone": "130261521",
+      "reference": "2016-01535",
+      "activit": "Lieu de visite",
+      "etablissement": "Aux Mus\u00e9es R\u00e9unis",
+      "adresse": "31 rue Thibault Chabrand",
+      "siteweb": "http://www.ville-cormeilles95.fr",
+      "handicap_mental": "Oui",
+      "departement": "VAL-D'OISE",
+      "handicap_auditif": "Oui",
+      "codepostal": 95240,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.976431,
+        2.198863
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.198863,
+        48.976431
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "4c93af067baff4a929830012aaea0f4854864108",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "TORCY",
+      "telephone": "160200204",
+      "fax": "164263431",
+      "reference": "2013-09078",
+      "etablissement": "Base de Loisirs et de Plein Air",
+      "adresse": "Route de Lagny",
+      "siteweb": "http://vaires-torcy.ucpa.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77200,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.858943,
+        2.652611
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.652611,
+        48.858943
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "baa7a1981b8626e878b686c48fc1a0d4db942b5b",
+    "fields": {
+      "handicaps": "auditif ; moteur ; mental",
+      "ville": "SAINT GERMAIN EN LAYE",
+      "telephone": "130841140",
+      "reference": "2013-09091",
+      "activit": "Sport de nature",
+      "etablissement": "ONF - Sentier de l'Etoile de Beaumont",
+      "adresse": "Route Foresti\u00e8re des Princesses",
+      "handicap_mental": "Oui",
+      "departement": "YVELINES",
+      "handicap_auditif": "Oui",
+      "codepostal": 78100,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.903021,
+        2.062621
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.062621,
+        48.903021
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "800f5538ed40d244c7e841c398f44acb544a93cd",
+    "fields": {
+      "handicaps": "auditif",
+      "ville": "PARIS LA DEFENSE",
+      "telephone": "141452324",
+      "fax": "141452324",
+      "reference": "2013-09668",
+      "activit": "H\u00f4tel",
+      "etablissement": "Novotel Paris La D\u00e9fense",
+      "adresse": "2 bd de Neuilly",
+      "siteweb": "http://www.novotel.com",
+      "handicap_mental": "Non",
+      "departement": "HAUTS-DE-SEINE",
+      "handicap_auditif": "Oui",
+      "codepostal": 92081,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap"
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "edc78554dae9ef44545199b3d64cb8fd2874f300",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur",
+      "ville": "SAINT DENIS LA PLAINE",
+      "telephone": "155932300",
+      "fax": "155930003",
+      "reference": "2013-09682",
+      "etablissement": "Stade de France",
+      "adresse": "Zac du Cornillon Nord",
+      "siteweb": "http://www.stadefrance.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-SAINT-DENIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 93216,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap"
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "0453750f91ba8adef55bfefe6e5a43abdfb04af3",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "MAY EN MULTIEN",
+      "telephone": "614306754",
+      "fax": "160017376",
+      "reference": "2013-09058",
+      "activit": "Meubl\u00e9 de tourisme",
+      "etablissement": "G\u00eete de groupe Ferme de la Croix",
+      "adresse": "37 rue de Soisson",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77145,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        49.074968,
+        3.023356
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.023356,
+        49.074968
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "07bbe0c0682e36d1103fac33fea3f2e8feacb5f0",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "MAGNY LES HAMEAUX",
+      "telephone": "130442608",
+      "reference": "2014-00113",
+      "activit": "Chambre d'h\u00f4tes",
+      "etablissement": "Chambre d'hotes Maison Prairie Bonheur",
+      "adresse": "5 Chemin des Patissiaux",
+      "siteweb": "http://www.chambres-hotes-prairie-bonheur.com",
+      "handicap_mental": "Oui",
+      "departement": "YVELINES",
+      "handicap_auditif": "Oui",
+      "codepostal": 78114,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.743413,
+        2.062679
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.062679,
+        48.743413
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "dedc25ad8ea5e874d06df4cce9d3d8b6ebfb16da",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "ALFORTVILLE",
+      "telephone": "153481202",
+      "reference": "2015-00150",
+      "etablissement": "Centre aquatique d'Alfortville",
+      "adresse": "Quai Blanqui",
+      "siteweb": "http://www.carille.fr",
+      "handicap_mental": "Oui",
+      "departement": "VAL-DE-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 94140,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.803117,
+        2.413629
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.413629,
+        48.803117
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "e64bc44ef0d2b03d6d8bb8be276605f8bee8d80e",
+    "fields": {
+      "handicaps": "auditif ; moteur ; mental",
+      "ville": "SONCHAMP",
+      "telephone": "130410110",
+      "fax": "134858748",
+      "reference": "2013-09092",
+      "activit": "Meubl\u00e9 de tourisme",
+      "etablissement": "G\u00eete de Greffiers",
+      "adresse": "56 rue de la Droue",
+      "siteweb": "http://www.gites78.com",
+      "handicap_mental": "Oui",
+      "departement": "YVELINES",
+      "handicap_auditif": "Oui",
+      "codepostal": 78120,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.614142,
+        1.840606
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.840606,
+        48.614142
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "3c4a995bb25647692e656b3a58f6e9ae99c1ad8e",
+    "fields": {
+      "handicaps": "auditif ; mental ; visuel",
+      "ville": "MASSY",
+      "telephone": "169200827",
+      "fax": "169200827",
+      "reference": "2016-01537",
+      "activit": "Office de tourisme",
+      "etablissement": "Office de tourisme de Massy",
+      "adresse": "4BIS rue de la Division Leclerc",
+      "siteweb": "http://www.tourisme-massy.com",
+      "handicap_mental": "Oui",
+      "departement": "ESSONNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 91300,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.729653,
+        2.275539
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.275539,
+        48.729653
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "7e50b6537ae098834fcaeaab4cab5d98c5a99518",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "PARIS",
+      "telephone": "140795412",
+      "reference": "2013-11494",
+      "activit": "Lieu de visite",
+      "etablissement": "Cabinet d'Histoire Mus\u00e9um National d'Histoire Naturelle",
+      "adresse": "57 rue Cuvier",
+      "siteweb": "http://www.galeriedesenfants.fr",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75005,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.843834,
+        2.355199
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.355199,
+        48.843834
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "86186cacbbd34fcf936557c424ed93c5f286a306",
+    "fields": {
+      "handicaps": "mental ; visuel",
+      "ville": "BOURAY SUR JUINE",
+      "telephone": "160823482",
+      "reference": "2013-09651",
+      "activit": "Lieu de visite",
+      "etablissement": "Mus\u00e9e A la Rencontre des Vieux M\u00e9tiers",
+      "adresse": "55 rue Haute",
+      "siteweb": "http://www.musee-bouray.fr",
+      "handicap_mental": "Oui",
+      "departement": "ESSONNE",
+      "handicap_auditif": "Non",
+      "codepostal": 91850,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.518925,
+        2.295314
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.295314,
+        48.518925
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "743604939e9e58792558df4d9b3adbe9c6ea2b0d",
+    "fields": {
+      "handicaps": "auditif ; moteur ; mental",
+      "ville": "SAINT DENIS",
+      "telephone": "158349131",
+      "reference": "2013-09680",
+      "activit": "H\u00f4tel",
+      "etablissement": "H\u00f4tel Courtyard By Marriott Paris Saint Denis",
+      "adresse": "34 Bd de la Lib\u00e9ration Contact : Fr\u00e9d\u00e9ric Schaub",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-SAINT-DENIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 93200,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap"
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "60655adc39797ae8765d5ba14970865c4284fafd",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "MARNE LA VALLEE",
+      "telephone": "164744206",
+      "reference": "2013-11516",
+      "etablissement": "Parc Walt Disney Studios",
+      "adresse": "BP 100",
+      "siteweb": "http://www.disneylandparis.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77777,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap"
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "346b93079167672ee24219eb915deb3f36579fff",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "VERSAILLES",
+      "telephone": "139248888",
+      "fax": "139248889",
+      "reference": "2013-09095",
+      "activit": "Office de tourisme",
+      "etablissement": "Office de Tourisme de Versailles",
+      "adresse": "2 bis avenue de Paris",
+      "siteweb": "http://www.versailles-tourisme.com",
+      "handicap_mental": "Oui",
+      "departement": "YVELINES",
+      "handicap_auditif": "Oui",
+      "codepostal": 78000,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.802069,
+        2.12894
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.12894,
+        48.802069
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "5f7e779925cc5d3cc8199e06159060dcc70a925f",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "SOINDRES",
+      "telephone": "134765744",
+      "fax": "134765783",
+      "reference": "2013-11520",
+      "activit": "Meubl\u00e9 de tourisme",
+      "etablissement": "Gite - Ferme des Vall\u00e9es",
+      "adresse": "20bis rue Henri Duverdin",
+      "siteweb": "http://www.fermedesvall\u00e9es.com",
+      "handicap_mental": "Oui",
+      "departement": "YVELINES",
+      "handicap_auditif": "Oui",
+      "codepostal": 78200,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.954144,
+        1.6692529999999999
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.6692529999999999,
+        48.954144
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "a0a12ea3f63401cc9ecce37e7f92be7655578fd5",
+    "fields": {
+      "handicaps": "mental ; moteur",
+      "ville": "PARIS",
+      "telephone": "143131700",
+      "reference": "2013-08908",
+      "activit": "H\u00e9bergement collectif",
+      "etablissement": "FIAP Jean Monnet Ethic Etap",
+      "adresse": "30 rue Cabanis",
+      "siteweb": "http://www.fiap.asso.fr",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Non",
+      "codepostal": 75014,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.830397,
+        2.338156
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.338156,
+        48.830397
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "50689879f44439e51ca49930bfaf78a72575b9de",
+    "fields": {
+      "handicaps": "auditif ; visuel ; moteur ; mental",
+      "ville": "SAINT FARGEAU PONTHIERRY",
+      "telephone": "164987393",
+      "reference": "2013-09072",
+      "activit": "Sport de nature",
+      "etablissement": "Sentier de promenade Bois de Champagne",
+      "adresse": "Bois de Champagne",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77310,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.53246,
+        2.543544
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.543544,
+        48.53246
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "e4250d8a76cc9f769ac6bfaf47a41595ef7c5339",
+    "fields": {
+      "handicaps": "moteur",
+      "ville": "FRANCONVILLE",
+      "telephone": "134142393",
+      "fax": "134142891",
+      "reference": "2013-09701",
+      "activit": "Restaurant",
+      "etablissement": "Restaurant Tablapizza",
+      "adresse": "326 rue du G\u00e9n\u00e9ral Leclerc",
+      "siteweb": "http://www.tablapizza.com",
+      "handicap_mental": "Non",
+      "departement": "VAL-D'OISE",
+      "handicap_auditif": "Non",
+      "codepostal": 95132,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap"
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "405399008fc3a2586745955814ad1e456bf1a788",
+    "fields": {
+      "handicaps": "auditif ; visuel ; moteur ; mental",
+      "ville": "CHAMPIGNY SUR MARNE",
+      "telephone": "149830302",
+      "reference": "2013-09686",
+      "activit": "Restaurant",
+      "etablissement": "Guinguette du Martin P\u00eacheur",
+      "adresse": "41 quai Victor Hugo",
+      "siteweb": "http://www.guinguette.fr",
+      "handicap_mental": "Oui",
+      "departement": "VAL-DE-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 94500,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.811144,
+        2.504602
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.504602,
+        48.811144
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "afa2c375c1ceb3c5bf837246754f6e55cde0ddd5",
+    "fields": {
+      "handicaps": "moteur ; mental",
+      "ville": "YERRES",
+      "telephone": "169122447",
+      "reference": "2013-09660",
+      "activit": "Sport de nature",
+      "etablissement": "Piscine Pierre de Coubertin dite Complexe aquatique et sportif Val de Forme",
+      "adresse": "2 rue Pierre de Coubertin",
+      "siteweb": "http://www.valdeforme-equalia.fr",
+      "handicap_mental": "Oui",
+      "departement": "ESSONNE",
+      "handicap_auditif": "Non",
+      "codepostal": 91330,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.71416,
+        2.478825
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.478825,
+        48.71416
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "6ab1544f33e3aecd6687c6afe7889fb56b1584b7",
+    "fields": {
+      "handicaps": "auditif ; moteur",
+      "ville": "PARIS",
+      "telephone": "140029199",
+      "fax": "140029083",
+      "reference": "2013-08903",
+      "etablissement": "Bercy Village",
+      "adresse": "28 rue Fran\u00e7ois Truffault",
+      "siteweb": "http://www.bercy-village.com",
+      "handicap_mental": "Non",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75012,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.833,
+        2.385684
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.385684,
+        48.833
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "700d28bc15b3261bba0f2d7ce35eb45eff26026a",
+    "fields": {
+      "handicaps": "moteur",
+      "ville": "OZOIR-LA-FERRIERE",
+      "telephone": "164401020",
+      "fax": "164400991",
+      "reference": "2013-09064",
+      "activit": "Office de tourisme",
+      "etablissement": "Syndicat d'Initiative",
+      "adresse": "43 ave du gal de Gaulle",
+      "siteweb": "http://www.siozoir.free.fr",
+      "handicap_mental": "Non",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Non",
+      "codepostal": 77330,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.762026,
+        2.673354
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.673354,
+        48.762026
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "9eb59d0a3b9baa223d89e4182604e7e218591319",
+    "fields": {
+      "handicaps": "auditif ; mental",
+      "ville": "BARBIZON",
+      "telephone": "160662227",
+      "fax": "160662296",
+      "reference": "2013-09031",
+      "activit": "Lieu de visite",
+      "etablissement": "Mus\u00e9e des Peintres de Barbizon",
+      "adresse": "92 Grande Rue",
+      "siteweb": "http://www.cg77.fr",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77630,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.446181,
+        2.602464
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.602464,
+        48.446181
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "4b205c2baf1ad217aa003e215ff98b89e3796385",
+    "fields": {
+      "handicaps": "mental ; moteur",
+      "ville": "PARIS",
+      "telephone": "140795412",
+      "reference": "2013-11588",
+      "activit": "Lieu de visite",
+      "etablissement": "Mus\u00e9um National d'Histoire Naturelle Grand Amphith\u00e9atre",
+      "adresse": "57 rue Cuvier",
+      "siteweb": "http://www.galeriedesenfants.fr",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Non",
+      "codepostal": 75005,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.843834,
+        2.355199
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.355199,
+        48.843834
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "894f9aa00229301e5a5b77fe925f7370ed63aeae",
+    "fields": {
+      "handicaps": "auditif ; visuel ; moteur ; mental",
+      "ville": "SAINT DENIS",
+      "telephone": "149465454",
+      "fax": "149463940",
+      "reference": "2013-09684",
+      "activit": "H\u00f4tel",
+      "etablissement": "Suite Novotel de Saint Denis",
+      "adresse": "31 rue Jules Rimet",
+      "siteweb": "http://www.suite-hotel.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-SAINT-DENIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 93200,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.926192,
+        2.344662
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.344662,
+        48.926192
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "1dde42dd623edff628eec28dce8f0293d8d05350",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "PARIS",
+      "telephone": "631992938",
+      "reference": "2013-12143",
+      "etablissement": "Train Touristique Another Paris",
+      "adresse": "47 rue Froidevaux",
+      "siteweb": "http://www.another-paris.com",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75014,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.836171,
+        2.326838
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.326838,
+        48.836171
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "568db599b78d9d18f01c844f81fcee0ff0cdcde9",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "PARIS",
+      "telephone": "153018289",
+      "fax": "153018234",
+      "reference": "2013-08914",
+      "activit": "Lieu de visite",
+      "etablissement": "Cit\u00e9 des Sciences et de l'Industrie",
+      "adresse": "30 rue Corentin Cariou",
+      "siteweb": "http://www.cite-sciences.fr",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75019,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.896077,
+        2.387523
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.387523,
+        48.896077
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "4c4fcfb8131577d8cce4f464e34eb1d3ca061521",
+    "fields": {
+      "handicaps": "auditif ; moteur",
+      "ville": "FONTAINEBLEAU",
+      "telephone": "160711108",
+      "fax": "160396040",
+      "reference": "2014-00679",
+      "activit": "Office de tourisme",
+      "etablissement": "Centre d'Ecotourisme de Franchard",
+      "adresse": "Route de l'Ermitage",
+      "siteweb": "http://www.tourisme77.fr",
+      "handicap_mental": "Non",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77300,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.404975,
+        2.680516
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.680516,
+        48.404975
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "4560ac2c3d21c561fbef4ef68a7b22defd51910e",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur",
+      "ville": "VIGNY",
+      "telephone": "130392580",
+      "reference": "2013-09717",
+      "activit": "Restaurant",
+      "etablissement": "Restaurant Le Rohan",
+      "adresse": "1 place Amboise",
+      "siteweb": "http://www.lerohan.com",
+      "handicap_mental": "Oui",
+      "departement": "VAL-D'OISE",
+      "handicap_auditif": "Oui",
+      "codepostal": 95450,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        49.077383,
+        1.9272719999999999
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.9272719999999999,
+        49.077383
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "21754b2f31c806c6f2b7d1de049bcc6c264c1b79",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur",
+      "ville": "PARIS",
+      "telephone": "143555555",
+      "fax": "143555590",
+      "reference": "2013-08902",
+      "etablissement": "Salle de spectacle Le Z\u00e8bre de Belleville",
+      "adresse": "61-63 bd de Belleville",
+      "siteweb": "http://www.lezebre.com",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75011,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.870179,
+        2.378733
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.378733,
+        48.870179
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "72be5f682917f630cd78ce651218bfc36d2a06ba",
+    "fields": {
+      "handicaps": "mental",
+      "ville": "GENTILLY",
+      "telephone": "149699494",
+      "fax": "145464152",
+      "reference": "2013-09689",
+      "activit": "H\u00f4tel",
+      "etablissement": "H\u00f4tel Ibis Porte d'Italie",
+      "adresse": "13 rue du Val de Marne",
+      "siteweb": "http://www.ibishotel.com",
+      "handicap_mental": "Oui",
+      "departement": "VAL-DE-MARNE",
+      "handicap_auditif": "Non",
+      "codepostal": 94250,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Non",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.817462,
+        2.350759
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.350759,
+        48.817462
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "d348375f4e4746f11a5b5bcf77fc5b452faf7676",
+    "fields": {
+      "handicaps": "auditif ; moteur",
+      "ville": "VILLIERS-SUR-MARNE",
+      "telephone": "603260302",
+      "reference": "2016-01005",
+      "activit": "Meubl\u00e9 de tourisme",
+      "etablissement": "Gite rural 435",
+      "adresse": "Ferme d'orsonville",
+      "siteweb": "http://www.ferme-orsonville.fr",
+      "handicap_mental": "Non",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77190,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.496244,
+        2.603621
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.603621,
+        48.496244
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "200f9fe912410d9ef0790a49acea7951b4f72131",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur",
+      "ville": "LAGNY SUR MARNE",
+      "telephone": "164021515",
+      "fax": "160268094",
+      "reference": "2013-09054",
+      "activit": "Office de tourisme",
+      "etablissement": "Office de Tourisme Marne et Gondoire",
+      "adresse": "2 rue du Chemin de Fer",
+      "siteweb": "http://www.marneetgondoire.fr",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77400,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.880224,
+        2.704742
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.704742,
+        48.880224
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "0f51bfe889d4d43bd59ff134b84c95306e480944",
+    "fields": {
+      "handicaps": "moteur",
+      "ville": "BUSSY SAINT GEORGES",
+      "telephone": "164666257",
+      "fax": "164666271",
+      "reference": "2013-09037",
+      "activit": "H\u00f4tel",
+      "etablissement": "Premi\u00e8re Classe Bussy St Georges",
+      "adresse": "9 avenue Marie Curie",
+      "siteweb": "http://www.premiereclasse.fr",
+      "handicap_mental": "Non",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Non",
+      "codepostal": 77600,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.834637,
+        2.719362
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.719362,
+        48.834637
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "287e1f02cfe7ac4db436dde834de1e23487a802d",
+    "fields": {
+      "handicaps": "auditif ; moteur ; mental",
+      "ville": "PARIS",
+      "telephone": "156615318",
+      "fax": "156617133",
+      "reference": "2013-08894",
+      "activit": "Lieu de visite",
+      "etablissement": "Mus\u00e9e du Quai Branly",
+      "adresse": "37 quai Branly",
+      "siteweb": "http://www.quaibranly.fr/fr/musee/publics/accessibilite.html",
+      "handicap_mental": "Oui",
+      "departement": "PARIS",
+      "handicap_auditif": "Oui",
+      "codepostal": 75007,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.861511,
+        2.29771
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.29771,
+        48.861511
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "d7d2bd981ef17ac51efde612f673bf2e0e039af3",
+    "fields": {
+      "handicaps": "auditif ; mental ; moteur ; visuel",
+      "ville": "MARNE LA VALLEE",
+      "telephone": "164744206",
+      "reference": "2013-11515",
+      "etablissement": "Parc Disneyland",
+      "siteweb": "http://www.disneyland.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-ET-MARNE",
+      "handicap_auditif": "Oui",
+      "codepostal": 77777,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Oui",
+      "reseau": "Tourisme et Handicap"
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  },
+  {
+    "datasetid": "cartographie_des_etablissements_tourisme_handicap",
+    "recordid": "b5c9395e22729e58e8cf625b7c1c637c5c900660",
+    "fields": {
+      "handicaps": "moteur ; mental",
+      "ville": "SAINT DENIS LA PLAINE",
+      "telephone": "155933600",
+      "fax": "155933600",
+      "reference": "2013-09681",
+      "activit": "H\u00f4tel",
+      "etablissement": "H\u00f4tel Ibis Stade Sud",
+      "adresse": "Rue de la Cokerie",
+      "siteweb": "http://www.accorhotels.com",
+      "handicap_mental": "Oui",
+      "departement": "SEINE-SAINT-DENIS",
+      "handicap_auditif": "Non",
+      "codepostal": 93210,
+      "region": "Ile-de-France",
+      "handicap_moteur": "Oui",
+      "handicap_visuel": "Non",
+      "reseau": "Tourisme et Handicap",
+      "geo": [
+        48.921257,
+        2.363474
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.363474,
+        48.921257
+      ]
+    },
+    "record_timestamp": "2019-03-16T17:04:03.842+01:00"
+  }
+]
