@@ -30,5 +30,34 @@
         crossorigin=""
 ></script>
 <script src="./Src/app.js"></script>
+<script src="./Src/data.js"></script>
+<script>
+        // Initialize the map
+        var map = L.map('map').setView([48.853, 2.35], 10); // Set the initial center and zoom level
+        var Stadia_OSMBright = L.tileLayer(
+            "https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png",
+            {
+                maxZoom: 13,
+                attribution:
+                    '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
+            }
+        );
+
+        Stadia_OSMBright.addTo(map);
+
+
+
+        // Loop through the data and add markers to the map
+        data.forEach(function (item) {
+        var coordinates = item.fields.geolocalisation;
+        var marker = L.marker(coordinates).addTo(map).bindPopup(item.fields.nom_officiel_du_musee);
+            marker.on('click', function() {
+                marker.openPopup();
+
+            });
+    });
+</script>
+
+
 </body>
 </html>
