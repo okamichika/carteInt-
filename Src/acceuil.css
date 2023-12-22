@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+
+}
+.main {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 100px;
+    background-color: #f3b464;
+}
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+.logo {
+    max-width: 90px;
+}
+.navigation {
+    display: flex;
+}
+.navigation li {
+    list-style: none;
+}
+.navigation li  a {
+    position: relative;
+    color: #fff;
+    text-decoration: 0;
+    margin-left: 40px;
+    transition: 0.5s;
+    text-transform: uppercase;
+}
+.content {
+    width: 100%;
+    position: relative;
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+
+}
+.content .text {
+    width: 100%;
+    max-width: 600px;
+}
+.content .text h2 {
+    color: #fff;
+    font-size: 4em;
+    font-weight: 300;
+}
+.content .text h2 span {
+    font-weight: bold;
+}
+.content .text p {
+    color: #fff;
+    font-size: 1.1em;
+    line-height: 1.5em;
+    margin: 20px 0;
+}
+
+.btn {
+    position: relative;
+    display: inline-block;
+    padding: 10px 50px;
+    background-color: #fff;
+    color: #fa1;
+    font-size: 1.1em;
+    text-decoration: 0;
+    font-weight: bold;
+    transition: 0.5s;
+    border-radius: 45px;
+
+}
+.btn:hover {
+    letter-spacing: 2px;
+}
+.slider {
+    position: relative;
+}
+.slides {
+    display: none;
+}
+.affiche {
+    display: block;
+    margin-top: 40px;
+}
+.slide img {
+    width: 100%;
+    max-width: 600px;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 20px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+.sci {
+    display: flex;
+}
+.sci  li {
+    list-style: none;
+}
+.sci  li a {
+    color: #fff;
+    font-size: 25px;
+    margin-right: 20px;
+    display: inline-block;
+    transition: 0.5s;
+}
+.sci li a:hover {
+    transform: scale(2);
+    margin: 0 20px;
+}
+.precSuiv {
+    position: relative;
+    user-select: none;
+    text-align: center;
+}
+.precSuiv p {
+    color: #fff;
+    padding-bottom: 10px;
+    font-weight: bold;
+    position: relative;
+}
+.precSuiv p::before {
+    content: '';
+    position: absolute;
+    background-color: #fff;
+    width: 50px;
+    height: 2px;
+}
+.precSuiv span {
+    position: relative;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.precSuiv span i {
+    color:  #fff;
+    font-size: 30px;
+}
+.precSuiv span i:active {
+    color: #fa1;
+}
+/*Responsive*/
+@media (max-width:991px) {
+    .main {
+        padding:40px;
+    }
+    header {
+        padding: 10px 20px;
+    }
+    .logo {
+        max-width: 70px;
+    }
+    .content {
+        flex-direction: column;
+        margin: 120px 0 40px;
+    }
+    .content .text {
+        max-width: 100%;
+    }
+    .content .text H2 {
+        font-size: 35PX;
+        font-weight: bold;
+    }
+    .slider {
+        margin-top: 50px;
+    }
+    .slider .slide img {
+        width: 100%;
+        max-width: 420px;
+    }
+    .footer {
+        padding: 30px;
+    }
+    .navigation {
+        display: none;
+    }
+    .afficher-menu {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #fa1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+
+    }
+    .afficher-menu  li {
+        padding: 10px;
+    }
+    .menu-hand {
+        position: relative;
+        width: 32px;
+        height: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 500;
+        cursor: pointer;
+
+    }
+    .menu-hand::before {
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 2px;
+        background-color: #fff;
+        transform: translateY(-10px);
+        box-shadow:  0 10px 0px #fff;
+        transition: 0.5s;
+    }
+    .menu-hand.change::before {
+        transform: rotate(45deg);
+        box-shadow: 0px 0px 0px #fff;
+    }
+    .menu-hand::after {
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 2px;
+        background-color: #fff;
+        transform: translateY(10px);
+        transition: 0.5s;
+    }
+    .menu-hand.change::after {
+        transform: rotate(-45deg);
+        box-shadow: 0px 0px 0px #fff;
+    }
+
+}
