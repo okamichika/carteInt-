@@ -10,11 +10,10 @@ body {
     align-items: center;
     justify-content: center;
     font-family: sans-serif;
-    background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
 }
 
 
 #map {
     height: 100%;
-    flex: 1;
+    width: 100%;
 }
