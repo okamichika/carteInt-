@@ -20,8 +20,17 @@ var data=[
                 4.938125
             ],
             "longitude": 4.938125,
-            "note": 4.1,
-            "Temps_de_la_visite": 60
+            "note": 4.0,
+            "Temps_de_la_visite": 56,
+            "Prix": 56,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "mardi",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -53,8 +62,17 @@ var data=[
                 5.831489
             ],
             "longitude": 5.831489,
-            "note": 1.6,
-            "Temps_de_la_visite": 50
+            "note": 2.2,
+            "Temps_de_la_visite": 41,
+            "Prix": 50,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -86,8 +104,17 @@ var data=[
                 2.823245
             ],
             "longitude": 2.823245,
-            "note": 0.6,
-            "Temps_de_la_visite": 49
+            "note": 1.0,
+            "Temps_de_la_visite": 53,
+            "Prix": 46,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "mercredi",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -119,8 +146,17 @@ var data=[
                 2.605724
             ],
             "longitude": 2.605724,
-            "note": 4.1,
-            "Temps_de_la_visite": 26
+            "note": 0.2,
+            "Temps_de_la_visite": 60,
+            "Prix": 50,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "lundi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -153,8 +189,17 @@ var data=[
                 3.335798
             ],
             "longitude": 3.335798,
-            "note": 3.1,
-            "Temps_de_la_visite": 37
+            "note": 3.9,
+            "Temps_de_la_visite": 56,
+            "Prix": 50,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "mercredi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -187,8 +232,17 @@ var data=[
                 3.192356
             ],
             "longitude": 3.192356,
-            "note": 3.0,
-            "Temps_de_la_visite": 37
+            "note": 0.5,
+            "Temps_de_la_visite": 34,
+            "Prix": 26,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "jeudi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -219,8 +273,17 @@ var data=[
                 4.594922
             ],
             "longitude": 4.594922,
-            "note": 0.2,
-            "Temps_de_la_visite": 24
+            "note": 1.2,
+            "Temps_de_la_visite": 56,
+            "Prix": 29,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "lundi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -253,8 +316,17 @@ var data=[
                 2.441947
             ],
             "longitude": 2.441947,
-            "note": 2.3,
-            "Temps_de_la_visite": 32
+            "note": 3.6,
+            "Temps_de_la_visite": 51,
+            "Prix": 42,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "lundi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -287,8 +359,17 @@ var data=[
                 5.052549
             ],
             "longitude": 5.052549,
-            "note": 1.5,
-            "Temps_de_la_visite": 34
+            "note": 3.6,
+            "Temps_de_la_visite": 36,
+            "Prix": 37,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "jeudi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -321,8 +402,17 @@ var data=[
                 5.055376
             ],
             "longitude": 5.055376,
-            "note": 3.3,
-            "Temps_de_la_visite": 37
+            "note": 4.1,
+            "Temps_de_la_visite": 26,
+            "Prix": 46,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "mardi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -354,8 +444,17 @@ var data=[
                 5.357302
             ],
             "longitude": 5.357302,
-            "note": 3.5,
-            "Temps_de_la_visite": 30
+            "note": 4.5,
+            "Temps_de_la_visite": 33,
+            "Prix": 29,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "lundi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -388,7 +487,16 @@ var data=[
             ],
             "longitude": 6.124916,
             "note": 1.4,
-            "Temps_de_la_visite": 38
+            "Temps_de_la_visite": 32,
+            "Prix": 57,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "lundi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -420,8 +528,17 @@ var data=[
                 5.261189
             ],
             "longitude": 5.261189,
-            "note": 2.9,
-            "Temps_de_la_visite": 29
+            "note": 1.9,
+            "Temps_de_la_visite": 23,
+            "Prix": 17,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "samedi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -453,8 +570,17 @@ var data=[
                 5.814737
             ],
             "longitude": 5.814737,
-            "note": 1.7,
-            "Temps_de_la_visite": 23
+            "note": 1.1,
+            "Temps_de_la_visite": 52,
+            "Prix": 25,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "samedi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -486,8 +612,17 @@ var data=[
                 4.873538
             ],
             "longitude": 4.873538,
-            "note": 3.7,
-            "Temps_de_la_visite": 48
+            "note": 0.1,
+            "Temps_de_la_visite": 47,
+            "Prix": 27,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "jeudi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -520,8 +655,17 @@ var data=[
                 5.773234
             ],
             "longitude": 5.773234,
-            "note": 4.6,
-            "Temps_de_la_visite": 23
+            "note": 4.7,
+            "Temps_de_la_visite": 35,
+            "Prix": 17,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "vendredi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -553,8 +697,17 @@ var data=[
                 3.896167
             ],
             "longitude": 3.896167,
-            "note": 3.8,
-            "Temps_de_la_visite": 38
+            "note": 2.3,
+            "Temps_de_la_visite": 46,
+            "Prix": 17,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "dimanche",
+                "mercredi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -586,8 +739,17 @@ var data=[
                 4.17052
             ],
             "longitude": 4.17052,
-            "note": 0.0,
-            "Temps_de_la_visite": 31
+            "note": 1.8,
+            "Temps_de_la_visite": 24,
+            "Prix": 39,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "samedi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -619,8 +781,17 @@ var data=[
                 4.219803
             ],
             "longitude": 4.219803,
-            "note": 2.1,
-            "Temps_de_la_visite": 28
+            "note": 2.5,
+            "Temps_de_la_visite": 30,
+            "Prix": 29,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "samedi",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -653,8 +824,17 @@ var data=[
                 4.066822
             ],
             "longitude": 4.066822,
-            "note": 2.6,
-            "Temps_de_la_visite": 45
+            "note": 2.1,
+            "Temps_de_la_visite": 49,
+            "Prix": 16,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "samedi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -687,8 +867,17 @@ var data=[
                 4.069842
             ],
             "longitude": 4.069842,
-            "note": 4.8,
-            "Temps_de_la_visite": 48
+            "note": 1.2,
+            "Temps_de_la_visite": 26,
+            "Prix": 43,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "mercredi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -720,8 +909,17 @@ var data=[
                 3.0869
             ],
             "longitude": 3.0869,
-            "note": 3.7,
-            "Temps_de_la_visite": 45
+            "note": 4.0,
+            "Temps_de_la_visite": 39,
+            "Prix": 31,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -753,8 +951,17 @@ var data=[
                 3.728534
             ],
             "longitude": 3.728534,
-            "note": 4.6,
-            "Temps_de_la_visite": 49
+            "note": 0.3,
+            "Temps_de_la_visite": 41,
+            "Prix": 29,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "lundi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -787,8 +994,17 @@ var data=[
                 2.904431
             ],
             "longitude": 2.904431,
-            "note": 3.7,
-            "Temps_de_la_visite": 21
+            "note": 1.4,
+            "Temps_de_la_visite": 48,
+            "Prix": 36,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -820,8 +1036,17 @@ var data=[
                 2.921508
             ],
             "longitude": 2.921508,
-            "note": 3.4,
-            "Temps_de_la_visite": 26
+            "note": 3.1,
+            "Temps_de_la_visite": 42,
+            "Prix": 49,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "jeudi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -853,8 +1078,17 @@ var data=[
                 4.835797
             ],
             "longitude": 4.835797,
-            "note": 3.2,
-            "Temps_de_la_visite": 21
+            "note": 4.8,
+            "Temps_de_la_visite": 47,
+            "Prix": 38,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mercredi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -886,8 +1120,17 @@ var data=[
                 4.834752
             ],
             "longitude": 4.834752,
-            "note": 4.1,
-            "Temps_de_la_visite": 35
+            "note": 3.3,
+            "Temps_de_la_visite": 22,
+            "Prix": 45,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "jeudi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -919,8 +1162,17 @@ var data=[
                 4.833576
             ],
             "longitude": 4.833576,
-            "note": 4.1,
-            "Temps_de_la_visite": 58
+            "note": 1.3,
+            "Temps_de_la_visite": 38,
+            "Prix": 44,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "vendredi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -952,8 +1204,17 @@ var data=[
                 4.818042
             ],
             "longitude": 4.818042,
-            "note": 1.5,
-            "Temps_de_la_visite": 26
+            "note": 2.1,
+            "Temps_de_la_visite": 45,
+            "Prix": 35,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "lundi",
+                "mercredi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -986,8 +1247,17 @@ var data=[
                 4.315548
             ],
             "longitude": 4.315548,
-            "note": 0.6,
-            "Temps_de_la_visite": 28
+            "note": 5.0,
+            "Temps_de_la_visite": 46,
+            "Prix": 22,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "mercredi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1020,8 +1290,17 @@ var data=[
                 4.837207
             ],
             "longitude": 4.837207,
-            "note": 3.7,
-            "Temps_de_la_visite": 43
+            "note": 3.3,
+            "Temps_de_la_visite": 34,
+            "Prix": 46,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "dimanche",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1054,8 +1333,17 @@ var data=[
                 6.651415
             ],
             "longitude": 6.651415,
-            "note": 2.7,
-            "Temps_de_la_visite": 52
+            "note": 4.5,
+            "Temps_de_la_visite": 32,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "vendredi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1088,8 +1376,17 @@ var data=[
                 5.875158
             ],
             "longitude": 5.875158,
-            "note": 1.7,
-            "Temps_de_la_visite": 20
+            "note": 2.8,
+            "Temps_de_la_visite": 47,
+            "Prix": 20,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "dimanche",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1122,8 +1419,17 @@ var data=[
                 5.383768
             ],
             "longitude": 5.383768,
-            "note": 0.0,
-            "Temps_de_la_visite": 49
+            "note": 3.8,
+            "Temps_de_la_visite": 31,
+            "Prix": 17,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "mercredi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1156,8 +1462,17 @@ var data=[
                 5.034107
             ],
             "longitude": 5.034107,
-            "note": 3.6,
-            "Temps_de_la_visite": 21
+            "note": 2.3,
+            "Temps_de_la_visite": 42,
+            "Prix": 19,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "samedi",
+                "mercredi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1190,8 +1505,17 @@ var data=[
                 6.022938
             ],
             "longitude": 6.022938,
-            "note": 4.5,
-            "Temps_de_la_visite": 27
+            "note": 4.0,
+            "Temps_de_la_visite": 37,
+            "Prix": 24,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "vendredi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1224,8 +1548,17 @@ var data=[
                 6.0268
             ],
             "longitude": 6.0268,
-            "note": 4.4,
-            "Temps_de_la_visite": 59
+            "note": 3.8,
+            "Temps_de_la_visite": 55,
+            "Prix": 59,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "dimanche",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1258,8 +1591,17 @@ var data=[
                 6.797684
             ],
             "longitude": 6.797684,
-            "note": 5.0,
-            "Temps_de_la_visite": 57
+            "note": 1.4,
+            "Temps_de_la_visite": 28,
+            "Prix": 27,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "mercredi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1292,8 +1634,17 @@ var data=[
                 6.354581
             ],
             "longitude": 6.354581,
-            "note": 4.2,
-            "Temps_de_la_visite": 51
+            "note": 1.2,
+            "Temps_de_la_visite": 34,
+            "Prix": 28,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "jeudi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1325,8 +1676,17 @@ var data=[
                 5.865239
             ],
             "longitude": 5.865239,
-            "note": 0.3,
-            "Temps_de_la_visite": 32
+            "note": 1.6,
+            "Temps_de_la_visite": 41,
+            "Prix": 36,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "mardi",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1358,8 +1718,17 @@ var data=[
                 3.155037
             ],
             "longitude": 3.155037,
-            "note": 3.1,
-            "Temps_de_la_visite": 40
+            "note": 1.2,
+            "Temps_de_la_visite": 26,
+            "Prix": 36,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "dimanche",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1390,8 +1759,17 @@ var data=[
                 4.302971
             ],
             "longitude": 4.302971,
-            "note": 4.7,
-            "Temps_de_la_visite": 43
+            "note": 3.3,
+            "Temps_de_la_visite": 50,
+            "Prix": 34,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "jeudi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1423,8 +1801,17 @@ var data=[
                 4.301812
             ],
             "longitude": 4.301812,
-            "note": 0.2,
-            "Temps_de_la_visite": 44
+            "note": 3.1,
+            "Temps_de_la_visite": 38,
+            "Prix": 43,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "mardi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1456,8 +1843,17 @@ var data=[
                 4.910839
             ],
             "longitude": 4.910839,
-            "note": 1.7,
-            "Temps_de_la_visite": 41
+            "note": 2.4,
+            "Temps_de_la_visite": 33,
+            "Prix": 45,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "mercredi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1490,8 +1886,17 @@ var data=[
                 3.571975
             ],
             "longitude": 3.571975,
-            "note": 0.4,
-            "Temps_de_la_visite": 32
+            "note": 4.7,
+            "Temps_de_la_visite": 26,
+            "Prix": 38,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "lundi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1524,8 +1929,17 @@ var data=[
                 3.906795
             ],
             "longitude": 3.906795,
-            "note": 3.2,
-            "Temps_de_la_visite": 31
+            "note": 2.0,
+            "Temps_de_la_visite": 21,
+            "Prix": 47,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "mardi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1557,8 +1971,17 @@ var data=[
                 3.197026
             ],
             "longitude": 3.197026,
-            "note": 3.6,
-            "Temps_de_la_visite": 31
+            "note": 2.7,
+            "Temps_de_la_visite": 33,
+            "Prix": 18,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "vendredi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1590,8 +2013,17 @@ var data=[
                 3.20739
             ],
             "longitude": 3.20739,
-            "note": 0.2,
-            "Temps_de_la_visite": 56
+            "note": 4.8,
+            "Temps_de_la_visite": 57,
+            "Prix": 54,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "jeudi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1623,8 +2055,17 @@ var data=[
                 -3.434074
             ],
             "longitude": -3.434074,
-            "note": 0.4,
-            "Temps_de_la_visite": 52
+            "note": 2.4,
+            "Temps_de_la_visite": 46,
+            "Prix": 43,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1656,8 +2097,17 @@ var data=[
                 -3.490833
             ],
             "longitude": -3.490833,
-            "note": 3.3,
-            "Temps_de_la_visite": 38
+            "note": 4.2,
+            "Temps_de_la_visite": 30,
+            "Prix": 35,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "samedi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1690,8 +2140,17 @@ var data=[
                 -2.757726
             ],
             "longitude": -2.757726,
-            "note": 3.4,
-            "Temps_de_la_visite": 32
+            "note": 4.7,
+            "Temps_de_la_visite": 22,
+            "Prix": 16,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "vendredi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1723,8 +2182,17 @@ var data=[
                 2.392284
             ],
             "longitude": 2.392284,
-            "note": 2.6,
-            "Temps_de_la_visite": 33
+            "note": 2.5,
+            "Temps_de_la_visite": 24,
+            "Prix": 53,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "vendredi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1757,8 +2225,17 @@ var data=[
                 2.21738
             ],
             "longitude": 2.21738,
-            "note": 2.7,
-            "Temps_de_la_visite": 25
+            "note": 5.0,
+            "Temps_de_la_visite": 52,
+            "Prix": 46,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "lundi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1790,8 +2267,17 @@ var data=[
                 1.518517
             ],
             "longitude": 1.518517,
-            "note": 1.8,
-            "Temps_de_la_visite": 41
+            "note": 2.0,
+            "Temps_de_la_visite": 27,
+            "Prix": 38,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "mardi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1823,8 +2309,17 @@ var data=[
                 1.069524
             ],
             "longitude": 1.069524,
-            "note": 4.0,
-            "Temps_de_la_visite": 35
+            "note": 4.5,
+            "Temps_de_la_visite": 55,
+            "Prix": 39,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "dimanche",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1857,8 +2352,17 @@ var data=[
                 1.062835
             ],
             "longitude": 1.062835,
-            "note": 1.6,
-            "Temps_de_la_visite": 56
+            "note": 4.7,
+            "Temps_de_la_visite": 54,
+            "Prix": 54,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "mardi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1891,8 +2395,17 @@ var data=[
                 0.23767
             ],
             "longitude": 0.23767,
-            "note": 1.2,
-            "Temps_de_la_visite": 30
+            "note": 4.8,
+            "Temps_de_la_visite": 48,
+            "Prix": 41,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "vendredi",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1924,8 +2437,17 @@ var data=[
                 0.699988
             ],
             "longitude": 0.699988,
-            "note": 0.2,
-            "Temps_de_la_visite": 52
+            "note": 4.0,
+            "Temps_de_la_visite": 21,
+            "Prix": 55,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "samedi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1958,8 +2480,17 @@ var data=[
                 0.800711
             ],
             "longitude": 0.800711,
-            "note": 4.1,
-            "Temps_de_la_visite": 48
+            "note": 4.2,
+            "Temps_de_la_visite": 52,
+            "Prix": 22,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "samedi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -1992,8 +2523,17 @@ var data=[
                 0.179096
             ],
             "longitude": 0.179096,
-            "note": 2.5,
-            "Temps_de_la_visite": 38
+            "note": 4.1,
+            "Temps_de_la_visite": 26,
+            "Prix": 22,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "mercredi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2026,8 +2566,17 @@ var data=[
                 2.219187
             ],
             "longitude": 2.219187,
-            "note": 3.8,
-            "Temps_de_la_visite": 25
+            "note": 3.6,
+            "Temps_de_la_visite": 33,
+            "Prix": 31,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "dimanche",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2060,8 +2609,17 @@ var data=[
                 2.844906
             ],
             "longitude": 2.844906,
-            "note": 0.1,
-            "Temps_de_la_visite": 59
+            "note": 1.8,
+            "Temps_de_la_visite": 27,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "samedi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2092,8 +2650,17 @@ var data=[
                 2.729233
             ],
             "longitude": 2.729233,
-            "note": 1.4,
-            "Temps_de_la_visite": 45
+            "note": 3.1,
+            "Temps_de_la_visite": 39,
+            "Prix": 41,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "jeudi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2126,8 +2693,17 @@ var data=[
                 2.737205
             ],
             "longitude": 2.737205,
-            "note": 0.4,
-            "Temps_de_la_visite": 53
+            "note": 2.0,
+            "Temps_de_la_visite": 44,
+            "Prix": 39,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "lundi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2160,8 +2736,17 @@ var data=[
                 1.905193
             ],
             "longitude": 1.905193,
-            "note": 4.9,
-            "Temps_de_la_visite": 58
+            "note": 2.8,
+            "Temps_de_la_visite": 42,
+            "Prix": 18,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "dimanche",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2194,8 +2779,17 @@ var data=[
                 1.306555055404134
             ],
             "longitude": 1.306555055404134,
-            "note": 0.8,
-            "Temps_de_la_visite": 42
+            "note": 0.2,
+            "Temps_de_la_visite": 45,
+            "Prix": 51,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "mardi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2226,8 +2820,17 @@ var data=[
                 4.705996
             ],
             "longitude": 4.705996,
-            "note": 2.0,
-            "Temps_de_la_visite": 52
+            "note": 3.5,
+            "Temps_de_la_visite": 46,
+            "Prix": 50,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "lundi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2260,8 +2863,17 @@ var data=[
                 4.072849
             ],
             "longitude": 4.072849,
-            "note": 4.5,
-            "Temps_de_la_visite": 26
+            "note": 4.1,
+            "Temps_de_la_visite": 41,
+            "Prix": 17,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "vendredi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2293,8 +2905,17 @@ var data=[
                 7.791481
             ],
             "longitude": 7.791481,
-            "note": 3.4,
-            "Temps_de_la_visite": 52
+            "note": 0.8,
+            "Temps_de_la_visite": 41,
+            "Prix": 22,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "dimanche",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2326,8 +2947,17 @@ var data=[
                 7.611365
             ],
             "longitude": 7.611365,
-            "note": 3.1,
-            "Temps_de_la_visite": 49
+            "note": 2.3,
+            "Temps_de_la_visite": 40,
+            "Prix": 21,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "dimanche",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2359,8 +2989,17 @@ var data=[
                 7.750484
             ],
             "longitude": 7.750484,
-            "note": 2.4,
-            "Temps_de_la_visite": 22
+            "note": 4.9,
+            "Temps_de_la_visite": 51,
+            "Prix": 45,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "mardi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2392,8 +3031,17 @@ var data=[
                 7.75151
             ],
             "longitude": 7.75151,
-            "note": 0.3,
-            "Temps_de_la_visite": 43
+            "note": 2.3,
+            "Temps_de_la_visite": 59,
+            "Prix": 29,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mercredi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2426,8 +3074,17 @@ var data=[
                 7.755028
             ],
             "longitude": 7.755028,
-            "note": 3.5,
-            "Temps_de_la_visite": 38
+            "note": 2.9,
+            "Temps_de_la_visite": 44,
+            "Prix": 59,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "lundi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2459,8 +3116,17 @@ var data=[
                 7.214925
             ],
             "longitude": 7.214925,
-            "note": 3.6,
-            "Temps_de_la_visite": 59
+            "note": 1.4,
+            "Temps_de_la_visite": 32,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "dimanche",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2492,8 +3158,17 @@ var data=[
                 7.361922
             ],
             "longitude": 7.361922,
-            "note": 4.6,
-            "Temps_de_la_visite": 42
+            "note": 1.9,
+            "Temps_de_la_visite": 44,
+            "Prix": 43,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "mercredi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2525,8 +3200,17 @@ var data=[
                 7.944344
             ],
             "longitude": 7.944344,
-            "note": 0.3,
-            "Temps_de_la_visite": 35
+            "note": 1.9,
+            "Temps_de_la_visite": 20,
+            "Prix": 39,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "jeudi",
+                "mercredi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2558,8 +3242,17 @@ var data=[
                 5.732204
             ],
             "longitude": 5.732204,
-            "note": 0.6,
-            "Temps_de_la_visite": 51
+            "note": 3.5,
+            "Temps_de_la_visite": 39,
+            "Prix": 22,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "lundi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2591,8 +3284,17 @@ var data=[
                 5.333286
             ],
             "longitude": 5.333286,
-            "note": 4.2,
-            "Temps_de_la_visite": 30
+            "note": 1.6,
+            "Temps_de_la_visite": 47,
+            "Prix": 44,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "jeudi",
+                "mercredi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2624,8 +3326,17 @@ var data=[
                 4.948277733396815
             ],
             "longitude": 4.948277733396815,
-            "note": 0.9,
-            "Temps_de_la_visite": 52
+            "note": 0.5,
+            "Temps_de_la_visite": 23,
+            "Prix": 52,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "dimanche",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2658,8 +3369,17 @@ var data=[
                 7.280128
             ],
             "longitude": 7.280128,
-            "note": 0.0,
-            "Temps_de_la_visite": 21
+            "note": 3.1,
+            "Temps_de_la_visite": 60,
+            "Prix": 17,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mercredi",
+                "dimanche",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2691,8 +3411,17 @@ var data=[
                 7.101737
             ],
             "longitude": 7.101737,
-            "note": 2.4,
-            "Temps_de_la_visite": 58
+            "note": 4.9,
+            "Temps_de_la_visite": 43,
+            "Prix": 30,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "dimanche",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2722,8 +3451,17 @@ var data=[
             ],
             "longitude": 4.364203,
             "ref_deps": "5110804",
-            "note": 0.1,
-            "Temps_de_la_visite": 44
+            "note": 0.5,
+            "Temps_de_la_visite": 31,
+            "Prix": 46,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "dimanche",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2756,8 +3494,17 @@ var data=[
                 4.030921
             ],
             "longitude": 4.030921,
-            "note": 0.5,
-            "Temps_de_la_visite": 29
+            "note": 4.4,
+            "Temps_de_la_visite": 43,
+            "Prix": 41,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "vendredi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2790,8 +3537,17 @@ var data=[
                 4.034043
             ],
             "longitude": 4.034043,
-            "note": 1.4,
-            "Temps_de_la_visite": 26
+            "note": 1.9,
+            "Temps_de_la_visite": 57,
+            "Prix": 21,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "dimanche",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2823,8 +3579,17 @@ var data=[
                 4.897997
             ],
             "longitude": 4.897997,
-            "note": 2.3,
-            "Temps_de_la_visite": 57
+            "note": 4.5,
+            "Temps_de_la_visite": 59,
+            "Prix": 50,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "dimanche",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2856,8 +3621,17 @@ var data=[
                 6.208769
             ],
             "longitude": 6.208769,
-            "note": 5.0,
-            "Temps_de_la_visite": 35
+            "note": 0.6,
+            "Temps_de_la_visite": 37,
+            "Prix": 43,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "mercredi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2889,8 +3663,17 @@ var data=[
                 6.215554
             ],
             "longitude": 6.215554,
-            "note": 2.5,
-            "Temps_de_la_visite": 47
+            "note": 0.3,
+            "Temps_de_la_visite": 36,
+            "Prix": 39,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "vendredi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2923,8 +3706,17 @@ var data=[
                 6.505708
             ],
             "longitude": 6.505708,
-            "note": 3.0,
-            "Temps_de_la_visite": 31
+            "note": 3.8,
+            "Temps_de_la_visite": 43,
+            "Prix": 39,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "lundi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2956,8 +3748,17 @@ var data=[
                 6.182435
             ],
             "longitude": 6.182435,
-            "note": 4.0,
-            "Temps_de_la_visite": 36
+            "note": 4.8,
+            "Temps_de_la_visite": 37,
+            "Prix": 15,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mardi",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -2990,8 +3791,17 @@ var data=[
                 6.179154
             ],
             "longitude": 6.179154,
-            "note": 3.8,
-            "Temps_de_la_visite": 48
+            "note": 2.8,
+            "Temps_de_la_visite": 29,
+            "Prix": 54,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "vendredi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3023,8 +3833,17 @@ var data=[
                 5.541165
             ],
             "longitude": 5.541165,
-            "note": 2.3,
-            "Temps_de_la_visite": 31
+            "note": 3.5,
+            "Temps_de_la_visite": 24,
+            "Prix": 48,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "samedi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3056,8 +3875,17 @@ var data=[
                 5.382439
             ],
             "longitude": 5.382439,
-            "note": 3.0,
-            "Temps_de_la_visite": 50
+            "note": 4.9,
+            "Temps_de_la_visite": 37,
+            "Prix": 52,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3090,8 +3918,17 @@ var data=[
                 6.027572
             ],
             "longitude": 6.027572,
-            "note": 1.5,
-            "Temps_de_la_visite": 21
+            "note": 1.3,
+            "Temps_de_la_visite": 45,
+            "Prix": 34,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "mercredi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3123,8 +3960,17 @@ var data=[
                 7.070473
             ],
             "longitude": 7.070473,
-            "note": 0.6,
-            "Temps_de_la_visite": 46
+            "note": 3.1,
+            "Temps_de_la_visite": 36,
+            "Prix": 17,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "lundi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3156,8 +4002,17 @@ var data=[
                 6.531429
             ],
             "longitude": 6.531429,
-            "note": 0.6,
-            "Temps_de_la_visite": 60
+            "note": 2.9,
+            "Temps_de_la_visite": 58,
+            "Prix": 24,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "dimanche",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3189,8 +4044,17 @@ var data=[
                 6.445992
             ],
             "longitude": 6.445992,
-            "note": 4.8,
-            "Temps_de_la_visite": 21
+            "note": 1.0,
+            "Temps_de_la_visite": 27,
+            "Prix": 34,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "samedi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3222,8 +4086,17 @@ var data=[
                 6.590031
             ],
             "longitude": 6.590031,
-            "note": 4.5,
-            "Temps_de_la_visite": 43
+            "note": 0.6,
+            "Temps_de_la_visite": 38,
+            "Prix": 50,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "mercredi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3256,8 +4129,17 @@ var data=[
                 3.216814
             ],
             "longitude": 3.216814,
-            "note": 1.1,
-            "Temps_de_la_visite": 47
+            "note": 2.7,
+            "Temps_de_la_visite": 22,
+            "Prix": 39,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "lundi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3290,8 +4172,17 @@ var data=[
                 3.626529
             ],
             "longitude": 3.626529,
-            "note": 4.2,
-            "Temps_de_la_visite": 41
+            "note": 2.2,
+            "Temps_de_la_visite": 51,
+            "Prix": 54,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "lundi",
+                "mercredi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3323,8 +4214,17 @@ var data=[
                 3.285398
             ],
             "longitude": 3.285398,
-            "note": 2.6,
-            "Temps_de_la_visite": 33
+            "note": 0.4,
+            "Temps_de_la_visite": 27,
+            "Prix": 38,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "mercredi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3356,8 +4256,17 @@ var data=[
                 3.288944
             ],
             "longitude": 3.288944,
-            "note": 2.7,
-            "Temps_de_la_visite": 31
+            "note": 0.3,
+            "Temps_de_la_visite": 46,
+            "Prix": 60,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "dimanche",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3389,8 +4298,17 @@ var data=[
                 3.315011
             ],
             "longitude": 3.315011,
-            "note": 2.1,
-            "Temps_de_la_visite": 50
+            "note": 1.9,
+            "Temps_de_la_visite": 35,
+            "Prix": 23,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "vendredi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3422,8 +4340,17 @@ var data=[
                 3.924751
             ],
             "longitude": 3.924751,
-            "note": 4.4,
-            "Temps_de_la_visite": 44
+            "note": 4.8,
+            "Temps_de_la_visite": 38,
+            "Prix": 15,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "vendredi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3455,8 +4382,17 @@ var data=[
                 3.400973
             ],
             "longitude": 3.400973,
-            "note": 4.3,
-            "Temps_de_la_visite": 34
+            "note": 2.5,
+            "Temps_de_la_visite": 25,
+            "Prix": 17,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "lundi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3488,8 +4424,17 @@ var data=[
                 2.372174
             ],
             "longitude": 2.372174,
-            "note": 3.6,
-            "Temps_de_la_visite": 32
+            "note": 2.5,
+            "Temps_de_la_visite": 48,
+            "Prix": 50,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "lundi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3522,8 +4467,17 @@ var data=[
                 3.168419
             ],
             "longitude": 3.168419,
-            "note": 4.9,
-            "Temps_de_la_visite": 37
+            "note": 0.4,
+            "Temps_de_la_visite": 22,
+            "Prix": 21,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "dimanche",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3555,8 +4509,17 @@ var data=[
                 3.06294
             ],
             "longitude": 3.06294,
-            "note": 2.4,
-            "Temps_de_la_visite": 21
+            "note": 4.2,
+            "Temps_de_la_visite": 35,
+            "Prix": 55,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "jeudi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3588,8 +4551,17 @@ var data=[
                 3.16791
             ],
             "longitude": 3.16791,
-            "note": 3.6,
-            "Temps_de_la_visite": 57
+            "note": 2.3,
+            "Temps_de_la_visite": 24,
+            "Prix": 15,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "dimanche",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3622,8 +4594,17 @@ var data=[
                 2.821526
             ],
             "longitude": 2.821526,
-            "note": 1.6,
-            "Temps_de_la_visite": 34
+            "note": 0.4,
+            "Temps_de_la_visite": 25,
+            "Prix": 57,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "dimanche",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3656,8 +4637,17 @@ var data=[
                 2.8314909345640866
             ],
             "longitude": 2.8314909345640866,
-            "note": 1.1,
-            "Temps_de_la_visite": 34
+            "note": 4.8,
+            "Temps_de_la_visite": 20,
+            "Prix": 17,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "vendredi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3689,8 +4679,17 @@ var data=[
                 2.139609
             ],
             "longitude": 2.139609,
-            "note": 3.7,
-            "Temps_de_la_visite": 60
+            "note": 4.1,
+            "Temps_de_la_visite": 57,
+            "Prix": 49,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "samedi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3723,8 +4722,17 @@ var data=[
                 2.999742
             ],
             "longitude": 2.999742,
-            "note": 1.5,
-            "Temps_de_la_visite": 43
+            "note": 4.0,
+            "Temps_de_la_visite": 41,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "samedi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3757,8 +4765,17 @@ var data=[
                 2.772987
             ],
             "longitude": 2.772987,
-            "note": 2.9,
-            "Temps_de_la_visite": 44
+            "note": 3.2,
+            "Temps_de_la_visite": 34,
+            "Prix": 25,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "samedi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3790,8 +4807,17 @@ var data=[
                 1.851871
             ],
             "longitude": 1.851871,
-            "note": 4.8,
-            "Temps_de_la_visite": 60
+            "note": 3.5,
+            "Temps_de_la_visite": 26,
+            "Prix": 28,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "mercredi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3823,8 +4849,17 @@ var data=[
                 1.763832
             ],
             "longitude": 1.763832,
-            "note": 4.9,
-            "Temps_de_la_visite": 55
+            "note": 3.9,
+            "Temps_de_la_visite": 60,
+            "Prix": 34,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "jeudi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3857,8 +4892,17 @@ var data=[
                 2.302463
             ],
             "longitude": 2.302463,
-            "note": 4.5,
-            "Temps_de_la_visite": 42
+            "note": 0.4,
+            "Temps_de_la_visite": 37,
+            "Prix": 22,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "mardi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3890,8 +4934,17 @@ var data=[
                 2.530019
             ],
             "longitude": 2.530019,
-            "note": 3.4,
-            "Temps_de_la_visite": 42
+            "note": 4.4,
+            "Temps_de_la_visite": 34,
+            "Prix": 42,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "mercredi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3924,8 +4977,17 @@ var data=[
                 2.011803
             ],
             "longitude": 2.011803,
-            "note": 2.0,
-            "Temps_de_la_visite": 49
+            "note": 2.7,
+            "Temps_de_la_visite": 40,
+            "Prix": 50,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "vendredi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3957,8 +5019,17 @@ var data=[
                 2.252039
             ],
             "longitude": 2.252039,
-            "note": 2.2,
-            "Temps_de_la_visite": 36
+            "note": 0.3,
+            "Temps_de_la_visite": 36,
+            "Prix": 27,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "dimanche",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -3988,8 +5059,17 @@ var data=[
             ],
             "longitude": 2.2579850008669635,
             "ref_deps": "9202602",
-            "note": 2.2,
-            "Temps_de_la_visite": 48
+            "note": 1.1,
+            "Temps_de_la_visite": 24,
+            "Prix": 31,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "mardi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4022,8 +5102,17 @@ var data=[
                 2.299024
             ],
             "longitude": 2.299024,
-            "note": 0.6,
-            "Temps_de_la_visite": 36
+            "note": 4.8,
+            "Temps_de_la_visite": 48,
+            "Prix": 24,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "vendredi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4055,8 +5144,17 @@ var data=[
                 2.31883
             ],
             "longitude": 2.31883,
-            "note": 1.8,
-            "Temps_de_la_visite": 24
+            "note": 3.7,
+            "Temps_de_la_visite": 26,
+            "Prix": 37,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "mardi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4088,8 +5186,17 @@ var data=[
                 2.29843234195393
             ],
             "longitude": 2.29843234195393,
-            "note": 1.2,
-            "Temps_de_la_visite": 31
+            "note": 3.5,
+            "Temps_de_la_visite": 24,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "dimanche",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4121,8 +5228,17 @@ var data=[
                 2.29771
             ],
             "longitude": 2.29771,
-            "note": 1.8,
-            "Temps_de_la_visite": 37
+            "note": 4.9,
+            "Temps_de_la_visite": 56,
+            "Prix": 36,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mardi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4154,8 +5270,17 @@ var data=[
                 2.281997
             ],
             "longitude": 2.281997,
-            "note": 1.5,
-            "Temps_de_la_visite": 60
+            "note": 3.3,
+            "Temps_de_la_visite": 30,
+            "Prix": 49,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "mardi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4188,8 +5313,17 @@ var data=[
                 2.393807
             ],
             "longitude": 2.393807,
-            "note": 4.5,
-            "Temps_de_la_visite": 45
+            "note": 0.7,
+            "Temps_de_la_visite": 50,
+            "Prix": 26,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "mardi",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4222,8 +5356,17 @@ var data=[
                 2.358608
             ],
             "longitude": 2.358608,
-            "note": 3.5,
-            "Temps_de_la_visite": 30
+            "note": 2.7,
+            "Temps_de_la_visite": 59,
+            "Prix": 25,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "dimanche",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4256,8 +5399,17 @@ var data=[
                 2.362644
             ],
             "longitude": 2.362644,
-            "note": 1.3,
-            "Temps_de_la_visite": 44
+            "note": 1.1,
+            "Temps_de_la_visite": 31,
+            "Prix": 41,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "samedi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4290,8 +5442,17 @@ var data=[
                 2.312885
             ],
             "longitude": 2.312885,
-            "note": 3.7,
-            "Temps_de_la_visite": 55
+            "note": 0.9,
+            "Temps_de_la_visite": 26,
+            "Prix": 31,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "lundi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4324,8 +5485,17 @@ var data=[
                 2.312855
             ],
             "longitude": 2.312855,
-            "note": 4.7,
-            "Temps_de_la_visite": 28
+            "note": 3.9,
+            "Temps_de_la_visite": 33,
+            "Prix": 17,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "lundi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4357,8 +5527,17 @@ var data=[
                 2.334383
             ],
             "longitude": 2.334383,
-            "note": 2.1,
-            "Temps_de_la_visite": 50
+            "note": 2.2,
+            "Temps_de_la_visite": 33,
+            "Prix": 52,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mardi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4390,8 +5569,17 @@ var data=[
                 2.651583
             ],
             "longitude": 2.651583,
-            "note": 5.0,
-            "Temps_de_la_visite": 43
+            "note": 3.3,
+            "Temps_de_la_visite": 44,
+            "Prix": 22,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "jeudi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4422,8 +5610,17 @@ var data=[
                 2.570872
             ],
             "longitude": 2.570872,
-            "note": 4.2,
-            "Temps_de_la_visite": 26
+            "note": 4.3,
+            "Temps_de_la_visite": 35,
+            "Prix": 39,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "mardi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4455,8 +5652,17 @@ var data=[
                 48.98651569144933
             ],
             "longitude": 48.98651569144933,
-            "note": 4.2,
-            "Temps_de_la_visite": 44
+            "note": 2.6,
+            "Temps_de_la_visite": 56,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "mardi",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4489,8 +5695,17 @@ var data=[
                 2.042664
             ],
             "longitude": 2.042664,
-            "note": 1.6,
-            "Temps_de_la_visite": 25
+            "note": 1.4,
+            "Temps_de_la_visite": 55,
+            "Prix": 41,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "jeudi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4523,8 +5738,17 @@ var data=[
                 -0.3838400268165697
             ],
             "longitude": -0.3838400268165697,
-            "note": 0.7,
-            "Temps_de_la_visite": 43
+            "note": 2.6,
+            "Temps_de_la_visite": 38,
+            "Prix": 32,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mardi",
+                "dimanche",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4557,8 +5781,17 @@ var data=[
                 -0.34514
             ],
             "longitude": -0.34514,
-            "note": 0.7,
-            "Temps_de_la_visite": 42
+            "note": 1.9,
+            "Temps_de_la_visite": 27,
+            "Prix": 51,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "lundi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4591,8 +5824,17 @@ var data=[
                 -0.36122381941157106
             ],
             "longitude": -0.36122381941157106,
-            "note": 0.6,
-            "Temps_de_la_visite": 53
+            "note": 3.7,
+            "Temps_de_la_visite": 46,
+            "Prix": 16,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mercredi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4624,8 +5866,17 @@ var data=[
                 0.233625
             ],
             "longitude": 0.233625,
-            "note": 0.4,
-            "Temps_de_la_visite": 40
+            "note": 3.3,
+            "Temps_de_la_visite": 25,
+            "Prix": 33,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "jeudi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4658,8 +5909,17 @@ var data=[
                 0.2308667345641918
             ],
             "longitude": 0.2308667345641918,
-            "note": 1.7,
-            "Temps_de_la_visite": 27
+            "note": 0.0,
+            "Temps_de_la_visite": 52,
+            "Prix": 51,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "mardi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4691,8 +5951,17 @@ var data=[
                 -0.877058
             ],
             "longitude": -0.877058,
-            "note": 0.3,
-            "Temps_de_la_visite": 60
+            "note": 2.9,
+            "Temps_de_la_visite": 45,
+            "Prix": 20,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "dimanche",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4724,8 +5993,17 @@ var data=[
                 0.935945
             ],
             "longitude": 0.935945,
-            "note": 3.9,
-            "Temps_de_la_visite": 33
+            "note": 0.1,
+            "Temps_de_la_visite": 32,
+            "Prix": 48,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "samedi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4757,8 +6035,17 @@ var data=[
                 0.515774
             ],
             "longitude": 0.515774,
-            "note": 4.1,
-            "Temps_de_la_visite": 44
+            "note": 3.9,
+            "Temps_de_la_visite": 35,
+            "Prix": 23,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "mardi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4791,8 +6078,17 @@ var data=[
                 -1.616324
             ],
             "longitude": -1.616324,
-            "note": 3.4,
-            "Temps_de_la_visite": 59
+            "note": 3.0,
+            "Temps_de_la_visite": 32,
+            "Prix": 59,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "dimanche",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4824,8 +6120,17 @@ var data=[
                 -1.446668
             ],
             "longitude": -1.446668,
-            "note": 0.5,
-            "Temps_de_la_visite": 43
+            "note": 3.9,
+            "Temps_de_la_visite": 20,
+            "Prix": 37,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "mardi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4857,8 +6162,17 @@ var data=[
                 -1.600543
             ],
             "longitude": -1.600543,
-            "note": 1.8,
-            "Temps_de_la_visite": 33
+            "note": 2.8,
+            "Temps_de_la_visite": 53,
+            "Prix": 58,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "mardi",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4891,8 +6205,17 @@ var data=[
                 0.168325
             ],
             "longitude": 0.168325,
-            "note": 1.4,
-            "Temps_de_la_visite": 39
+            "note": 4.3,
+            "Temps_de_la_visite": 29,
+            "Prix": 49,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "samedi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4924,8 +6247,17 @@ var data=[
                 0.102188
             ],
             "longitude": 0.102188,
-            "note": 2.4,
-            "Temps_de_la_visite": 56
+            "note": 0.3,
+            "Temps_de_la_visite": 35,
+            "Prix": 38,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "vendredi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4958,8 +6290,17 @@ var data=[
                 1.292253
             ],
             "longitude": 1.292253,
-            "note": 3.0,
-            "Temps_de_la_visite": 33
+            "note": 1.2,
+            "Temps_de_la_visite": 51,
+            "Prix": 45,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "vendredi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -4992,8 +6333,17 @@ var data=[
                 0.757352
             ],
             "longitude": 0.757352,
-            "note": 2.0,
-            "Temps_de_la_visite": 38
+            "note": 0.5,
+            "Temps_de_la_visite": 21,
+            "Prix": 22,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "lundi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5025,8 +6375,17 @@ var data=[
                 1.0216
             ],
             "longitude": 1.0216,
-            "note": 0.8,
-            "Temps_de_la_visite": 26
+            "note": 3.6,
+            "Temps_de_la_visite": 26,
+            "Prix": 35,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "samedi",
+                "dimanche",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5059,8 +6418,17 @@ var data=[
                 1.094521
             ],
             "longitude": 1.094521,
-            "note": 4.8,
-            "Temps_de_la_visite": 48
+            "note": 3.5,
+            "Temps_de_la_visite": 56,
+            "Prix": 15,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "jeudi",
+                "mercredi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5093,8 +6461,17 @@ var data=[
                 -1.0969227906624868
             ],
             "longitude": -1.0969227906624868,
-            "note": 4.9,
-            "Temps_de_la_visite": 49
+            "note": 2.2,
+            "Temps_de_la_visite": 36,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5126,8 +6503,17 @@ var data=[
                 -1.176477
             ],
             "longitude": -1.176477,
-            "note": 1.1,
-            "Temps_de_la_visite": 40
+            "note": 0.3,
+            "Temps_de_la_visite": 38,
+            "Prix": 54,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "lundi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5159,8 +6545,17 @@ var data=[
                 -1.151552
             ],
             "longitude": -1.151552,
-            "note": 1.7,
-            "Temps_de_la_visite": 55
+            "note": 2.0,
+            "Temps_de_la_visite": 30,
+            "Prix": 46,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "jeudi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5193,8 +6588,17 @@ var data=[
                 -1.151157
             ],
             "longitude": -1.151157,
-            "note": 0.7,
-            "Temps_de_la_visite": 50
+            "note": 1.8,
+            "Temps_de_la_visite": 46,
+            "Prix": 57,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "jeudi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5226,8 +6630,17 @@ var data=[
                 -1.151488
             ],
             "longitude": -1.151488,
-            "note": 0.3,
-            "Temps_de_la_visite": 29
+            "note": 2.4,
+            "Temps_de_la_visite": 41,
+            "Prix": 56,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "dimanche",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5259,8 +6672,17 @@ var data=[
                 1.940079
             ],
             "longitude": 1.940079,
-            "note": 3.7,
-            "Temps_de_la_visite": 30
+            "note": 2.5,
+            "Temps_de_la_visite": 42,
+            "Prix": 24,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "vendredi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5292,8 +6714,17 @@ var data=[
                 1.751522
             ],
             "longitude": 1.751522,
-            "note": 1.6,
-            "Temps_de_la_visite": 46
+            "note": 4.8,
+            "Temps_de_la_visite": 21,
+            "Prix": 18,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "dimanche",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5326,8 +6757,17 @@ var data=[
                 2.308435548614703
             ],
             "longitude": 2.308435548614703,
-            "note": 3.4,
-            "Temps_de_la_visite": 57
+            "note": 4.5,
+            "Temps_de_la_visite": 35,
+            "Prix": 44,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "lundi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5359,8 +6799,17 @@ var data=[
                 2.169905
             ],
             "longitude": 2.169905,
-            "note": 4.8,
-            "Temps_de_la_visite": 58
+            "note": 4.0,
+            "Temps_de_la_visite": 47,
+            "Prix": 54,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "mardi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5393,8 +6842,17 @@ var data=[
                 0.483469
             ],
             "longitude": 0.483469,
-            "note": 2.8,
-            "Temps_de_la_visite": 56
+            "note": 3.9,
+            "Temps_de_la_visite": 33,
+            "Prix": 17,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "samedi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5425,8 +6883,17 @@ var data=[
                 0.586014
             ],
             "longitude": 0.586014,
-            "note": 3.3,
-            "Temps_de_la_visite": 43
+            "note": 0.2,
+            "Temps_de_la_visite": 34,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "jeudi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5458,8 +6925,17 @@ var data=[
                 1.2330483275891506
             ],
             "longitude": 1.2330483275891506,
-            "note": 3.9,
-            "Temps_de_la_visite": 25
+            "note": 3.2,
+            "Temps_de_la_visite": 40,
+            "Prix": 55,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "mardi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5491,8 +6967,17 @@ var data=[
                 0.056581
             ],
             "longitude": 0.056581,
-            "note": 1.5,
-            "Temps_de_la_visite": 39
+            "note": 3.4,
+            "Temps_de_la_visite": 59,
+            "Prix": 39,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "samedi",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5522,8 +7007,17 @@ var data=[
                 -0.5434896909627212
             ],
             "longitude": -0.5434896909627212,
-            "note": 3.7,
-            "Temps_de_la_visite": 47
+            "note": 3.9,
+            "Temps_de_la_visite": 30,
+            "Prix": 24,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "lundi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5556,7 +7050,16 @@ var data=[
             ],
             "longitude": -0.572137,
             "note": 3.2,
-            "Temps_de_la_visite": 58
+            "Temps_de_la_visite": 27,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "samedi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5589,7 +7092,16 @@ var data=[
             ],
             "longitude": -0.575205,
             "note": 4.4,
-            "Temps_de_la_visite": 50
+            "Temps_de_la_visite": 25,
+            "Prix": 43,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5622,8 +7134,17 @@ var data=[
                 -0.55971
             ],
             "longitude": -0.55971,
-            "note": 0.6,
-            "Temps_de_la_visite": 46
+            "note": 1.1,
+            "Temps_de_la_visite": 35,
+            "Prix": 23,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "samedi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5655,8 +7176,17 @@ var data=[
                 1.265445
             ],
             "longitude": 1.265445,
-            "note": 0.5,
-            "Temps_de_la_visite": 20
+            "note": 3.6,
+            "Temps_de_la_visite": 51,
+            "Prix": 52,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "jeudi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5688,8 +7218,17 @@ var data=[
                 1.3822826090754192
             ],
             "longitude": 1.3822826090754192,
-            "note": 4.9,
-            "Temps_de_la_visite": 32
+            "note": 3.4,
+            "Temps_de_la_visite": 30,
+            "Prix": 25,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "vendredi",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5719,8 +7258,17 @@ var data=[
             ],
             "longitude": -0.520865,
             "ref_deps": "4016701",
-            "note": 1.1,
-            "Temps_de_la_visite": 34
+            "note": 2.9,
+            "Temps_de_la_visite": 20,
+            "Prix": 50,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "jeudi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5752,8 +7300,17 @@ var data=[
                 -0.510832
             ],
             "longitude": -0.510832,
-            "note": 4.4,
-            "Temps_de_la_visite": 52
+            "note": 2.4,
+            "Temps_de_la_visite": 21,
+            "Prix": 34,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "mardi",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5785,8 +7342,17 @@ var data=[
                 -1.472299
             ],
             "longitude": -1.472299,
-            "note": 3.6,
-            "Temps_de_la_visite": 48
+            "note": 2.6,
+            "Temps_de_la_visite": 59,
+            "Prix": 56,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "vendredi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5818,8 +7384,17 @@ var data=[
                 -0.372526
             ],
             "longitude": -0.372526,
-            "note": 1.2,
-            "Temps_de_la_visite": 60
+            "note": 1.0,
+            "Temps_de_la_visite": 25,
+            "Prix": 54,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "lundi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5851,8 +7426,17 @@ var data=[
                 -0.364384
             ],
             "longitude": -0.364384,
-            "note": 1.2,
-            "Temps_de_la_visite": 26
+            "note": 0.4,
+            "Temps_de_la_visite": 33,
+            "Prix": 41,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "samedi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5885,8 +7469,17 @@ var data=[
                 0.725666
             ],
             "longitude": 0.725666,
-            "note": 4.5,
-            "Temps_de_la_visite": 45
+            "note": 2.2,
+            "Temps_de_la_visite": 32,
+            "Prix": 39,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "vendredi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5918,8 +7511,17 @@ var data=[
                 0.872962
             ],
             "longitude": 0.872962,
-            "note": 1.5,
-            "Temps_de_la_visite": 33
+            "note": 1.2,
+            "Temps_de_la_visite": 39,
+            "Prix": 17,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "samedi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5951,8 +7553,17 @@ var data=[
                 0.359509
             ],
             "longitude": 0.359509,
-            "note": 4.6,
-            "Temps_de_la_visite": 37
+            "note": 4.7,
+            "Temps_de_la_visite": 36,
+            "Prix": 57,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "lundi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -5984,8 +7595,17 @@ var data=[
                 0.337972
             ],
             "longitude": 0.337972,
-            "note": 0.4,
-            "Temps_de_la_visite": 23
+            "note": 4.2,
+            "Temps_de_la_visite": 50,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "samedi",
+                "mercredi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6018,8 +7638,17 @@ var data=[
                 1.6053
             ],
             "longitude": 1.6053,
-            "note": 0.5,
-            "Temps_de_la_visite": 49
+            "note": 1.1,
+            "Temps_de_la_visite": 31,
+            "Prix": 45,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "samedi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6051,8 +7680,17 @@ var data=[
                 1.630459
             ],
             "longitude": 1.630459,
-            "note": 1.7,
-            "Temps_de_la_visite": 45
+            "note": 3.3,
+            "Temps_de_la_visite": 56,
+            "Prix": 26,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "dimanche",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6084,8 +7722,17 @@ var data=[
                 1.143469
             ],
             "longitude": 1.143469,
-            "note": 2.7,
-            "Temps_de_la_visite": 22
+            "note": 4.3,
+            "Temps_de_la_visite": 20,
+            "Prix": 16,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "vendredi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6118,8 +7765,17 @@ var data=[
                 3.00427053368551
             ],
             "longitude": 3.00427053368551,
-            "note": 2.6,
-            "Temps_de_la_visite": 40
+            "note": 4.0,
+            "Temps_de_la_visite": 45,
+            "Prix": 53,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "dimanche",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6151,8 +7807,17 @@ var data=[
                 2.979275
             ],
             "longitude": 2.979275,
-            "note": 2.3,
-            "Temps_de_la_visite": 53
+            "note": 0.9,
+            "Temps_de_la_visite": 39,
+            "Prix": 18,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6185,8 +7850,17 @@ var data=[
                 3.080595
             ],
             "longitude": 3.080595,
-            "note": 4.7,
-            "Temps_de_la_visite": 45
+            "note": 2.3,
+            "Temps_de_la_visite": 45,
+            "Prix": 48,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "samedi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6218,8 +7892,17 @@ var data=[
                 2.578079
             ],
             "longitude": 2.578079,
-            "note": 0.4,
-            "Temps_de_la_visite": 46
+            "note": 4.3,
+            "Temps_de_la_visite": 59,
+            "Prix": 52,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "dimanche",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6251,8 +7934,17 @@ var data=[
                 2.5679787878647
             ],
             "longitude": 2.5679787878647,
-            "note": 3.6,
-            "Temps_de_la_visite": 50
+            "note": 3.3,
+            "Temps_de_la_visite": 37,
+            "Prix": 34,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "lundi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6285,8 +7977,17 @@ var data=[
                 4.619843
             ],
             "longitude": 4.619843,
-            "note": 0.9,
-            "Temps_de_la_visite": 53
+            "note": 0.0,
+            "Temps_de_la_visite": 53,
+            "Prix": 35,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "vendredi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6318,8 +8019,17 @@ var data=[
                 0.372858
             ],
             "longitude": 0.372858,
-            "note": 2.8,
-            "Temps_de_la_visite": 36
+            "note": 1.0,
+            "Temps_de_la_visite": 44,
+            "Prix": 21,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "samedi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6350,8 +8060,17 @@ var data=[
                 0.160982
             ],
             "longitude": 0.160982,
-            "note": 4.0,
-            "Temps_de_la_visite": 50
+            "note": 1.6,
+            "Temps_de_la_visite": 56,
+            "Prix": 54,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "jeudi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6384,8 +8103,17 @@ var data=[
                 0.579433
             ],
             "longitude": 0.579433,
-            "note": 1.7,
-            "Temps_de_la_visite": 47
+            "note": 0.8,
+            "Temps_de_la_visite": 39,
+            "Prix": 38,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "mardi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6417,8 +8145,17 @@ var data=[
                 0.725714913499697
             ],
             "longitude": 0.725714913499697,
-            "note": 3.7,
-            "Temps_de_la_visite": 36
+            "note": 4.3,
+            "Temps_de_la_visite": 35,
+            "Prix": 50,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "lundi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6450,8 +8187,17 @@ var data=[
                 1.428998
             ],
             "longitude": 1.428998,
-            "note": 4.4,
-            "Temps_de_la_visite": 54
+            "note": 3.5,
+            "Temps_de_la_visite": 23,
+            "Prix": 50,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "mardi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6483,8 +8229,17 @@ var data=[
                 1.4584
             ],
             "longitude": 1.4584,
-            "note": 2.9,
-            "Temps_de_la_visite": 21
+            "note": 4.8,
+            "Temps_de_la_visite": 56,
+            "Prix": 54,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "samedi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6516,8 +8271,17 @@ var data=[
                 0.146227
             ],
             "longitude": 0.146227,
-            "note": 4.0,
-            "Temps_de_la_visite": 47
+            "note": 3.6,
+            "Temps_de_la_visite": 33,
+            "Prix": 38,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "samedi",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6550,8 +8314,17 @@ var data=[
                 -0.048462
             ],
             "longitude": -0.048462,
-            "note": 0.7,
-            "Temps_de_la_visite": 47
+            "note": 0.0,
+            "Temps_de_la_visite": 59,
+            "Prix": 56,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "vendredi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6584,8 +8357,17 @@ var data=[
                 3.210533
             ],
             "longitude": 3.210533,
-            "note": 0.1,
-            "Temps_de_la_visite": 31
+            "note": 1.2,
+            "Temps_de_la_visite": 31,
+            "Prix": 21,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "dimanche",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6618,8 +8400,17 @@ var data=[
                 3.215208
             ],
             "longitude": 3.215208,
-            "note": 2.3,
-            "Temps_de_la_visite": 51
+            "note": 0.8,
+            "Temps_de_la_visite": 46,
+            "Prix": 41,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "dimanche",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6651,8 +8442,17 @@ var data=[
                 3.1132995755196746
             ],
             "longitude": 3.1132995755196746,
-            "note": 3.1,
-            "Temps_de_la_visite": 38
+            "note": 4.7,
+            "Temps_de_la_visite": 21,
+            "Prix": 32,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "lundi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6684,8 +8484,17 @@ var data=[
                 3.90858
             ],
             "longitude": 3.90858,
-            "note": 3.8,
-            "Temps_de_la_visite": 46
+            "note": 1.8,
+            "Temps_de_la_visite": 27,
+            "Prix": 52,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "vendredi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6718,8 +8527,17 @@ var data=[
                 3.319595
             ],
             "longitude": 3.319595,
-            "note": 2.0,
-            "Temps_de_la_visite": 55
+            "note": 1.8,
+            "Temps_de_la_visite": 32,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "jeudi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6751,8 +8569,17 @@ var data=[
                 3.736827
             ],
             "longitude": 3.736827,
-            "note": 4.8,
-            "Temps_de_la_visite": 38
+            "note": 3.4,
+            "Temps_de_la_visite": 35,
+            "Prix": 31,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "samedi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6784,8 +8611,17 @@ var data=[
                 2.761809
             ],
             "longitude": 2.761809,
-            "note": 2.1,
-            "Temps_de_la_visite": 44
+            "note": 3.8,
+            "Temps_de_la_visite": 53,
+            "Prix": 18,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "mercredi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6817,8 +8653,17 @@ var data=[
                 2.034599
             ],
             "longitude": 2.034599,
-            "note": 4.8,
-            "Temps_de_la_visite": 36
+            "note": 0.7,
+            "Temps_de_la_visite": 21,
+            "Prix": 52,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "vendredi",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6849,8 +8694,17 @@ var data=[
                 1.6175266643276274
             ],
             "longitude": 1.6175266643276274,
-            "note": 2.3,
-            "Temps_de_la_visite": 29
+            "note": 3.2,
+            "Temps_de_la_visite": 28,
+            "Prix": 41,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "vendredi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6882,8 +8736,17 @@ var data=[
                 2.892984
             ],
             "longitude": 2.892984,
-            "note": 4.0,
-            "Temps_de_la_visite": 48
+            "note": 0.5,
+            "Temps_de_la_visite": 26,
+            "Prix": 28,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "jeudi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6915,8 +8778,17 @@ var data=[
                 2.002067
             ],
             "longitude": 2.002067,
-            "note": 3.4,
-            "Temps_de_la_visite": 48
+            "note": 5.0,
+            "Temps_de_la_visite": 39,
+            "Prix": 43,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "dimanche",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6948,8 +8820,17 @@ var data=[
                 2.747533
             ],
             "longitude": 2.747533,
-            "note": 3.3,
-            "Temps_de_la_visite": 42
+            "note": 2.7,
+            "Temps_de_la_visite": 48,
+            "Prix": 28,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "mercredi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -6982,8 +8863,17 @@ var data=[
                 2.239888
             ],
             "longitude": 2.239888,
-            "note": 1.7,
-            "Temps_de_la_visite": 40
+            "note": 2.5,
+            "Temps_de_la_visite": 60,
+            "Prix": 27,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "vendredi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7015,8 +8905,17 @@ var data=[
                 2.240474
             ],
             "longitude": 2.240474,
-            "note": 2.1,
-            "Temps_de_la_visite": 26
+            "note": 3.0,
+            "Temps_de_la_visite": 46,
+            "Prix": 32,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "lundi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7049,8 +8948,17 @@ var data=[
                 1.820763
             ],
             "longitude": 1.820763,
-            "note": 0.4,
-            "Temps_de_la_visite": 57
+            "note": 1.5,
+            "Temps_de_la_visite": 53,
+            "Prix": 25,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "mercredi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7081,8 +8989,17 @@ var data=[
                 1.885602
             ],
             "longitude": 1.885602,
-            "note": 2.9,
-            "Temps_de_la_visite": 55
+            "note": 3.2,
+            "Temps_de_la_visite": 35,
+            "Prix": 52,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "vendredi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7114,8 +9031,17 @@ var data=[
                 1.724791
             ],
             "longitude": 1.724791,
-            "note": 0.1,
-            "Temps_de_la_visite": 46
+            "note": 3.3,
+            "Temps_de_la_visite": 50,
+            "Prix": 48,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "mardi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7147,8 +9073,17 @@ var data=[
                 -1.764575
             ],
             "longitude": -1.764575,
-            "note": 1.9,
-            "Temps_de_la_visite": 29
+            "note": 2.0,
+            "Temps_de_la_visite": 33,
+            "Prix": 49,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "dimanche",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7180,8 +9115,17 @@ var data=[
                 -1.952164
             ],
             "longitude": -1.952164,
-            "note": 3.6,
-            "Temps_de_la_visite": 36
+            "note": 2.9,
+            "Temps_de_la_visite": 36,
+            "Prix": 28,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "samedi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7211,8 +9155,17 @@ var data=[
             ],
             "longitude": -1.3758648096623352,
             "ref_deps": "4403601",
-            "note": 0.5,
-            "Temps_de_la_visite": 31
+            "note": 1.8,
+            "Temps_de_la_visite": 57,
+            "Prix": 22,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "samedi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7245,8 +9198,17 @@ var data=[
                 -2.4263477594064646
             ],
             "longitude": -2.4263477594064646,
-            "note": 1.3,
-            "Temps_de_la_visite": 49
+            "note": 4.0,
+            "Temps_de_la_visite": 51,
+            "Prix": 46,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7279,8 +9241,17 @@ var data=[
                 -0.635024
             ],
             "longitude": -0.635024,
-            "note": 3.0,
-            "Temps_de_la_visite": 31
+            "note": 3.4,
+            "Temps_de_la_visite": 22,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "dimanche",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7312,8 +9283,17 @@ var data=[
                 -0.906893
             ],
             "longitude": -0.906893,
-            "note": 3.5,
-            "Temps_de_la_visite": 54
+            "note": 1.2,
+            "Temps_de_la_visite": 56,
+            "Prix": 59,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "mercredi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7346,7 +9326,16 @@ var data=[
             ],
             "longitude": -1.059417,
             "note": 0.5,
-            "Temps_de_la_visite": 26
+            "Temps_de_la_visite": 30,
+            "Prix": 37,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "mardi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7378,8 +9367,17 @@ var data=[
                 -1.292607
             ],
             "longitude": -1.292607,
-            "note": 2.9,
-            "Temps_de_la_visite": 32
+            "note": 2.7,
+            "Temps_de_la_visite": 40,
+            "Prix": 58,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "mercredi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7411,8 +9409,17 @@ var data=[
                 -1.777309
             ],
             "longitude": -1.777309,
-            "note": 1.9,
-            "Temps_de_la_visite": 49
+            "note": 0.8,
+            "Temps_de_la_visite": 39,
+            "Prix": 51,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "mercredi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7444,8 +9451,17 @@ var data=[
                 -1.909718
             ],
             "longitude": -1.909718,
-            "note": 1.3,
-            "Temps_de_la_visite": 45
+            "note": 0.5,
+            "Temps_de_la_visite": 54,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "lundi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7477,8 +9493,17 @@ var data=[
                 6.235077
             ],
             "longitude": 6.235077,
-            "note": 2.9,
-            "Temps_de_la_visite": 48
+            "note": 3.7,
+            "Temps_de_la_visite": 44,
+            "Prix": 26,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "jeudi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7511,8 +9536,17 @@ var data=[
                 5.774406171816429
             ],
             "longitude": 5.774406171816429,
-            "note": 0.8,
-            "Temps_de_la_visite": 34
+            "note": 3.2,
+            "Temps_de_la_visite": 59,
+            "Prix": 31,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "samedi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7545,8 +9579,17 @@ var data=[
                 7.044228
             ],
             "longitude": 7.044228,
-            "note": 2.1,
-            "Temps_de_la_visite": 54
+            "note": 4.7,
+            "Temps_de_la_visite": 41,
+            "Prix": 17,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "samedi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7578,8 +9621,17 @@ var data=[
                 7.279572
             ],
             "longitude": 7.279572,
-            "note": 0.0,
-            "Temps_de_la_visite": 38
+            "note": 1.7,
+            "Temps_de_la_visite": 21,
+            "Prix": 35,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "mardi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7611,8 +9663,17 @@ var data=[
                 5.446601
             ],
             "longitude": 5.446601,
-            "note": 4.7,
-            "Temps_de_la_visite": 52
+            "note": 1.8,
+            "Temps_de_la_visite": 22,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "jeudi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7644,8 +9705,17 @@ var data=[
                 5.439915
             ],
             "longitude": 5.439915,
-            "note": 3.1,
-            "Temps_de_la_visite": 54
+            "note": 3.7,
+            "Temps_de_la_visite": 27,
+            "Prix": 39,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "vendredi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7678,8 +9748,17 @@ var data=[
                 5.447432
             ],
             "longitude": 5.447432,
-            "note": 3.6,
-            "Temps_de_la_visite": 57
+            "note": 2.9,
+            "Temps_de_la_visite": 31,
+            "Prix": 39,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "dimanche",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7711,8 +9790,17 @@ var data=[
                 4.627903
             ],
             "longitude": 4.627903,
-            "note": 1.5,
-            "Temps_de_la_visite": 24
+            "note": 4.0,
+            "Temps_de_la_visite": 57,
+            "Prix": 46,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "dimanche",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7744,8 +9832,17 @@ var data=[
                 4.676089
             ],
             "longitude": 4.676089,
-            "note": 1.2,
-            "Temps_de_la_visite": 56
+            "note": 2.8,
+            "Temps_de_la_visite": 36,
+            "Prix": 43,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "mardi",
+                "dimanche",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7778,8 +9875,17 @@ var data=[
                 5.553768624612289
             ],
             "longitude": 5.553768624612289,
-            "note": 1.9,
-            "Temps_de_la_visite": 44
+            "note": 1.4,
+            "Temps_de_la_visite": 43,
+            "Prix": 42,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "lundi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7811,8 +9917,17 @@ var data=[
                 5.679968
             ],
             "longitude": 5.679968,
-            "note": 4.4,
-            "Temps_de_la_visite": 20
+            "note": 3.5,
+            "Temps_de_la_visite": 46,
+            "Prix": 25,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "mercredi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7843,8 +9958,17 @@ var data=[
                 4.794938
             ],
             "longitude": 4.794938,
-            "note": 2.1,
-            "Temps_de_la_visite": 57
+            "note": 1.6,
+            "Temps_de_la_visite": 43,
+            "Prix": 45,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "vendredi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7877,8 +10001,17 @@ var data=[
                 4.795333
             ],
             "longitude": 4.795333,
-            "note": 2.7,
-            "Temps_de_la_visite": 34
+            "note": 3.1,
+            "Temps_de_la_visite": 26,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "samedi",
+                "dimanche",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7910,8 +10043,17 @@ var data=[
                 5.384175
             ],
             "longitude": 5.384175,
-            "note": 3.6,
-            "Temps_de_la_visite": 37
+            "note": 0.8,
+            "Temps_de_la_visite": 57,
+            "Prix": 26,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "jeudi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7943,8 +10085,17 @@ var data=[
                 5.367908
             ],
             "longitude": 5.367908,
-            "note": 3.3,
-            "Temps_de_la_visite": 54
+            "note": 2.0,
+            "Temps_de_la_visite": 60,
+            "Prix": 38,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "lundi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -7977,8 +10128,17 @@ var data=[
                 5.394121
             ],
             "longitude": 5.394121,
-            "note": 1.5,
-            "Temps_de_la_visite": 29
+            "note": 3.7,
+            "Temps_de_la_visite": 28,
+            "Prix": 46,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "vendredi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8010,8 +10170,17 @@ var data=[
                 6.243581
             ],
             "longitude": 6.243581,
-            "note": 2.5,
-            "Temps_de_la_visite": 55
+            "note": 1.8,
+            "Temps_de_la_visite": 21,
+            "Prix": 51,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "jeudi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8042,8 +10211,17 @@ var data=[
                 6.461588
             ],
             "longitude": 6.461588,
-            "note": 0.5,
-            "Temps_de_la_visite": 33
+            "note": 3.7,
+            "Temps_de_la_visite": 23,
+            "Prix": 30,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "mardi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8075,8 +10253,17 @@ var data=[
                 6.637291
             ],
             "longitude": 6.637291,
-            "note": 2.0,
-            "Temps_de_la_visite": 42
+            "note": 0.4,
+            "Temps_de_la_visite": 48,
+            "Prix": 21,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "jeudi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8108,8 +10295,17 @@ var data=[
                 5.927245
             ],
             "longitude": 5.927245,
-            "note": 3.7,
-            "Temps_de_la_visite": 52
+            "note": 0.6,
+            "Temps_de_la_visite": 36,
+            "Prix": 47,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "mercredi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8140,8 +10336,17 @@ var data=[
                 5.397687
             ],
             "longitude": 5.397687,
-            "note": 2.4,
-            "Temps_de_la_visite": 41
+            "note": 3.6,
+            "Temps_de_la_visite": 22,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "lundi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8173,8 +10378,17 @@ var data=[
                 4.803397
             ],
             "longitude": 4.803397,
-            "note": 3.8,
-            "Temps_de_la_visite": 23
+            "note": 1.3,
+            "Temps_de_la_visite": 28,
+            "Prix": 17,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "lundi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8206,8 +10420,17 @@ var data=[
                 5.046763
             ],
             "longitude": 5.046763,
-            "note": 2.9,
-            "Temps_de_la_visite": 50
+            "note": 2.3,
+            "Temps_de_la_visite": 30,
+            "Prix": 29,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "vendredi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8239,8 +10462,17 @@ var data=[
                 4.987351
             ],
             "longitude": 4.987351,
-            "note": 0.2,
-            "Temps_de_la_visite": 30
+            "note": 4.2,
+            "Temps_de_la_visite": 49,
+            "Prix": 38,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "dimanche",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8272,8 +10504,17 @@ var data=[
                 55.296082
             ],
             "longitude": 55.296082,
-            "note": 1.5,
-            "Temps_de_la_visite": 40
+            "note": 4.3,
+            "Temps_de_la_visite": 47,
+            "Prix": 36,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "mardi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8305,8 +10546,17 @@ var data=[
                 -56.175795
             ],
             "longitude": -56.175795,
-            "note": 0.8,
-            "Temps_de_la_visite": 59
+            "note": 1.3,
+            "Temps_de_la_visite": 23,
+            "Prix": 34,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "samedi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8338,8 +10588,17 @@ var data=[
                 5.219217
             ],
             "longitude": 5.219217,
-            "note": 3.4,
-            "Temps_de_la_visite": 45
+            "note": 1.5,
+            "Temps_de_la_visite": 31,
+            "Prix": 50,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "jeudi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8371,8 +10630,17 @@ var data=[
                 5.727664
             ],
             "longitude": 5.727664,
-            "note": 1.2,
-            "Temps_de_la_visite": 34
+            "note": 2.4,
+            "Temps_de_la_visite": 42,
+            "Prix": 54,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "lundi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8404,8 +10672,17 @@ var data=[
                 5.608744
             ],
             "longitude": 5.608744,
-            "note": 1.4,
-            "Temps_de_la_visite": 46
+            "note": 4.9,
+            "Temps_de_la_visite": 45,
+            "Prix": 37,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "vendredi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8436,8 +10713,17 @@ var data=[
                 4.131418
             ],
             "longitude": 4.131418,
-            "note": 2.4,
-            "Temps_de_la_visite": 36
+            "note": 4.1,
+            "Temps_de_la_visite": 50,
+            "Prix": 55,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "dimanche",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8470,8 +10756,17 @@ var data=[
                 4.763253
             ],
             "longitude": 4.763253,
-            "note": 4.6,
-            "Temps_de_la_visite": 46
+            "note": 3.7,
+            "Temps_de_la_visite": 40,
+            "Prix": 59,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "vendredi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8503,8 +10798,17 @@ var data=[
                 4.873189
             ],
             "longitude": 4.873189,
-            "note": 1.6,
-            "Temps_de_la_visite": 32
+            "note": 3.1,
+            "Temps_de_la_visite": 28,
+            "Prix": 58,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "samedi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8537,8 +10841,17 @@ var data=[
                 4.889563
             ],
             "longitude": 4.889563,
-            "note": 3.9,
-            "Temps_de_la_visite": 28
+            "note": 4.4,
+            "Temps_de_la_visite": 47,
+            "Prix": 26,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "mardi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8570,8 +10883,17 @@ var data=[
                 3.402324
             ],
             "longitude": 3.402324,
-            "note": 0.9,
-            "Temps_de_la_visite": 20
+            "note": 0.4,
+            "Temps_de_la_visite": 58,
+            "Prix": 34,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "lundi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8604,8 +10926,17 @@ var data=[
                 6.871049
             ],
             "longitude": 6.871049,
-            "note": 4.4,
-            "Temps_de_la_visite": 45
+            "note": 0.9,
+            "Temps_de_la_visite": 46,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "vendredi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8638,8 +10969,17 @@ var data=[
                 6.48177
             ],
             "longitude": 6.48177,
-            "note": 3.3,
-            "Temps_de_la_visite": 23
+            "note": 1.7,
+            "Temps_de_la_visite": 48,
+            "Prix": 42,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "mercredi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8671,8 +11011,17 @@ var data=[
                 5.60661
             ],
             "longitude": 5.60661,
-            "note": 2.7,
-            "Temps_de_la_visite": 54
+            "note": 4.5,
+            "Temps_de_la_visite": 42,
+            "Prix": 51,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "vendredi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8704,8 +11053,17 @@ var data=[
                 5.699614
             ],
             "longitude": 5.699614,
-            "note": 4.2,
-            "Temps_de_la_visite": 57
+            "note": 3.4,
+            "Temps_de_la_visite": 20,
+            "Prix": 21,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "lundi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8737,8 +11095,17 @@ var data=[
                 5.735245
             ],
             "longitude": 5.735245,
-            "note": 1.8,
-            "Temps_de_la_visite": 24
+            "note": 2.8,
+            "Temps_de_la_visite": 26,
+            "Prix": 43,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "jeudi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8770,8 +11137,17 @@ var data=[
                 5.728083
             ],
             "longitude": 5.728083,
-            "note": 0.9,
-            "Temps_de_la_visite": 39
+            "note": 2.7,
+            "Temps_de_la_visite": 57,
+            "Prix": 50,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8804,7 +11180,16 @@ var data=[
             ],
             "longitude": 5.751334,
             "note": 0.1,
-            "Temps_de_la_visite": 56
+            "Temps_de_la_visite": 47,
+            "Prix": 37,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "mercredi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8837,8 +11222,17 @@ var data=[
                 4.376487
             ],
             "longitude": 4.376487,
-            "note": 2.1,
-            "Temps_de_la_visite": 47
+            "note": 2.9,
+            "Temps_de_la_visite": 55,
+            "Prix": 44,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "mercredi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8870,8 +11264,17 @@ var data=[
                 4.242057
             ],
             "longitude": 4.242057,
-            "note": 3.6,
-            "Temps_de_la_visite": 52
+            "note": 3.0,
+            "Temps_de_la_visite": 52,
+            "Prix": 54,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "mardi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8903,8 +11306,17 @@ var data=[
                 3.943885
             ],
             "longitude": 3.943885,
-            "note": 2.0,
-            "Temps_de_la_visite": 39
+            "note": 0.5,
+            "Temps_de_la_visite": 52,
+            "Prix": 45,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "samedi",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8937,8 +11349,17 @@ var data=[
                 3.724421
             ],
             "longitude": 3.724421,
-            "note": 4.5,
-            "Temps_de_la_visite": 42
+            "note": 0.2,
+            "Temps_de_la_visite": 30,
+            "Prix": 24,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "lundi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -8971,8 +11392,17 @@ var data=[
                 3.088299
             ],
             "longitude": 3.088299,
-            "note": 2.5,
-            "Temps_de_la_visite": 41
+            "note": 3.1,
+            "Temps_de_la_visite": 23,
+            "Prix": 24,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "mardi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9005,8 +11435,17 @@ var data=[
                 3.094609
             ],
             "longitude": 3.094609,
-            "note": 1.2,
-            "Temps_de_la_visite": 21
+            "note": 0.0,
+            "Temps_de_la_visite": 21,
+            "Prix": 58,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "mardi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9039,8 +11478,17 @@ var data=[
                 4.797411
             ],
             "longitude": 4.797411,
-            "note": 1.1,
-            "Temps_de_la_visite": 52
+            "note": 4.4,
+            "Temps_de_la_visite": 55,
+            "Prix": 38,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "mercredi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9073,8 +11521,17 @@ var data=[
                 4.827749
             ],
             "longitude": 4.827749,
-            "note": 1.2,
-            "Temps_de_la_visite": 49
+            "note": 0.9,
+            "Temps_de_la_visite": 21,
+            "Prix": 40,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mercredi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9105,8 +11562,17 @@ var data=[
                 5.916266
             ],
             "longitude": 5.916266,
-            "note": 0.5,
-            "Temps_de_la_visite": 35
+            "note": 2.2,
+            "Temps_de_la_visite": 44,
+            "Prix": 45,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "mercredi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9138,8 +11604,17 @@ var data=[
                 4.260891
             ],
             "longitude": 4.260891,
-            "note": 0.7,
-            "Temps_de_la_visite": 53
+            "note": 1.0,
+            "Temps_de_la_visite": 20,
+            "Prix": 37,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "mercredi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9172,8 +11647,17 @@ var data=[
                 4.962515
             ],
             "longitude": 4.962515,
-            "note": 4.2,
-            "Temps_de_la_visite": 30
+            "note": 0.6,
+            "Temps_de_la_visite": 50,
+            "Prix": 40,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "samedi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9206,8 +11690,17 @@ var data=[
                 4.950405
             ],
             "longitude": 4.950405,
-            "note": 3.5,
-            "Temps_de_la_visite": 22
+            "note": 1.0,
+            "Temps_de_la_visite": 34,
+            "Prix": 42,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "lundi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9238,8 +11731,17 @@ var data=[
                 4.895293
             ],
             "longitude": 4.895293,
-            "note": 0.2,
-            "Temps_de_la_visite": 31
+            "note": 1.4,
+            "Temps_de_la_visite": 53,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "jeudi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9271,8 +11773,17 @@ var data=[
                 5.517093
             ],
             "longitude": 5.517093,
-            "note": 0.6,
-            "Temps_de_la_visite": 46
+            "note": 3.8,
+            "Temps_de_la_visite": 35,
+            "Prix": 21,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "samedi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9305,8 +11816,17 @@ var data=[
                 6.734944
             ],
             "longitude": 6.734944,
-            "note": 3.3,
-            "Temps_de_la_visite": 26
+            "note": 4.3,
+            "Temps_de_la_visite": 37,
+            "Prix": 56,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "mardi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9339,8 +11859,17 @@ var data=[
                 6.380482
             ],
             "longitude": 6.380482,
-            "note": 0.1,
-            "Temps_de_la_visite": 34
+            "note": 2.6,
+            "Temps_de_la_visite": 45,
+            "Prix": 36,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "mercredi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9371,8 +11900,17 @@ var data=[
                 5.648585
             ],
             "longitude": 5.648585,
-            "note": 1.5,
-            "Temps_de_la_visite": 20
+            "note": 0.9,
+            "Temps_de_la_visite": 24,
+            "Prix": 15,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "lundi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9404,8 +11942,17 @@ var data=[
                 4.300179
             ],
             "longitude": 4.300179,
-            "note": 4.2,
-            "Temps_de_la_visite": 51
+            "note": 0.1,
+            "Temps_de_la_visite": 29,
+            "Prix": 57,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "vendredi",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9437,8 +11984,17 @@ var data=[
                 4.853082
             ],
             "longitude": 4.853082,
-            "note": 2.6,
-            "Temps_de_la_visite": 45
+            "note": 1.6,
+            "Temps_de_la_visite": 48,
+            "Prix": 53,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "samedi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9470,8 +12026,17 @@ var data=[
                 4.273059
             ],
             "longitude": 4.273059,
-            "note": 2.0,
-            "Temps_de_la_visite": 43
+            "note": 0.8,
+            "Temps_de_la_visite": 33,
+            "Prix": 39,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "lundi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9503,8 +12068,17 @@ var data=[
                 4.044451
             ],
             "longitude": 4.044451,
-            "note": 1.5,
-            "Temps_de_la_visite": 22
+            "note": 0.3,
+            "Temps_de_la_visite": 30,
+            "Prix": 33,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9537,8 +12111,17 @@ var data=[
                 5.261603
             ],
             "longitude": 5.261603,
-            "note": 4.3,
-            "Temps_de_la_visite": 44
+            "note": 0.5,
+            "Temps_de_la_visite": 48,
+            "Prix": 48,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "samedi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9570,8 +12153,17 @@ var data=[
                 5.024918
             ],
             "longitude": 5.024918,
-            "note": 0.9,
-            "Temps_de_la_visite": 28
+            "note": 2.1,
+            "Temps_de_la_visite": 26,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "mercredi",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9603,8 +12195,17 @@ var data=[
                 6.920842
             ],
             "longitude": 6.920842,
-            "note": 4.1,
-            "Temps_de_la_visite": 43
+            "note": 2.1,
+            "Temps_de_la_visite": 40,
+            "Prix": 26,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "lundi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9636,8 +12237,17 @@ var data=[
                 -2.515800988211214
             ],
             "longitude": -2.515800988211214,
-            "note": 3.2,
-            "Temps_de_la_visite": 51
+            "note": 3.4,
+            "Temps_de_la_visite": 52,
+            "Prix": 60,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "vendredi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9669,8 +12279,17 @@ var data=[
                 -3.747155
             ],
             "longitude": -3.747155,
-            "note": 4.6,
-            "Temps_de_la_visite": 37
+            "note": 2.9,
+            "Temps_de_la_visite": 26,
+            "Prix": 17,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "jeudi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9703,8 +12322,17 @@ var data=[
                 2.398494
             ],
             "longitude": 2.398494,
-            "note": 3.3,
-            "Temps_de_la_visite": 44
+            "note": 0.2,
+            "Temps_de_la_visite": 34,
+            "Prix": 16,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "dimanche",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9736,8 +12364,17 @@ var data=[
                 0.981446
             ],
             "longitude": 0.981446,
-            "note": 3.1,
-            "Temps_de_la_visite": 38
+            "note": 0.2,
+            "Temps_de_la_visite": 44,
+            "Prix": 27,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "mercredi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9769,8 +12406,17 @@ var data=[
                 0.68388
             ],
             "longitude": 0.68388,
-            "note": 3.8,
-            "Temps_de_la_visite": 45
+            "note": 0.0,
+            "Temps_de_la_visite": 29,
+            "Prix": 35,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "samedi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9801,8 +12447,17 @@ var data=[
                 0.869839
             ],
             "longitude": 0.869839,
-            "note": 3.0,
-            "Temps_de_la_visite": 45
+            "note": 2.8,
+            "Temps_de_la_visite": 45,
+            "Prix": 56,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "mercredi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9835,8 +12490,17 @@ var data=[
                 1.633585
             ],
             "longitude": 1.633585,
-            "note": 3.7,
-            "Temps_de_la_visite": 22
+            "note": 0.4,
+            "Temps_de_la_visite": 56,
+            "Prix": 42,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "dimanche",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9868,8 +12532,17 @@ var data=[
                 2.3864524975252785
             ],
             "longitude": 2.3864524975252785,
-            "note": 0.3,
-            "Temps_de_la_visite": 48
+            "note": 3.6,
+            "Temps_de_la_visite": 51,
+            "Prix": 27,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "lundi",
+                "mercredi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9902,8 +12575,17 @@ var data=[
                 1.331665
             ],
             "longitude": 1.331665,
-            "note": 2.1,
-            "Temps_de_la_visite": 58
+            "note": 2.9,
+            "Temps_de_la_visite": 25,
+            "Prix": 35,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "vendredi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9934,8 +12616,17 @@ var data=[
                 1.04019
             ],
             "longitude": 1.04019,
-            "note": 1.0,
-            "Temps_de_la_visite": 28
+            "note": 0.2,
+            "Temps_de_la_visite": 44,
+            "Prix": 24,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "dimanche",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -9968,8 +12659,17 @@ var data=[
                 8.73795
             ],
             "longitude": 8.73795,
-            "note": 3.5,
-            "Temps_de_la_visite": 58
+            "note": 4.1,
+            "Temps_de_la_visite": 33,
+            "Prix": 23,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "mardi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10001,8 +12701,17 @@ var data=[
                 9.125161
             ],
             "longitude": 9.125161,
-            "note": 4.9,
-            "Temps_de_la_visite": 59
+            "note": 1.8,
+            "Temps_de_la_visite": 33,
+            "Prix": 47,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10035,8 +12744,17 @@ var data=[
                 4.08003
             ],
             "longitude": 4.08003,
-            "note": 0.4,
-            "Temps_de_la_visite": 23
+            "note": 0.5,
+            "Temps_de_la_visite": 44,
+            "Prix": 60,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "mardi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10068,8 +12786,17 @@ var data=[
                 7.764645
             ],
             "longitude": 7.764645,
-            "note": 2.5,
-            "Temps_de_la_visite": 38
+            "note": 4.4,
+            "Temps_de_la_visite": 25,
+            "Prix": 15,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "samedi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10101,8 +12828,17 @@ var data=[
                 5.331753
             ],
             "longitude": 5.331753,
-            "note": 2.2,
-            "Temps_de_la_visite": 37
+            "note": 4.6,
+            "Temps_de_la_visite": 21,
+            "Prix": 21,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "dimanche",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10134,8 +12870,17 @@ var data=[
                 5.341424
             ],
             "longitude": 5.341424,
-            "note": 2.9,
-            "Temps_de_la_visite": 48
+            "note": 4.9,
+            "Temps_de_la_visite": 44,
+            "Prix": 56,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "dimanche",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10168,7 +12913,16 @@ var data=[
             ],
             "longitude": 7.35872,
             "note": 2.6,
-            "Temps_de_la_visite": 56
+            "Temps_de_la_visite": 41,
+            "Prix": 45,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "samedi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10200,8 +12954,17 @@ var data=[
                 7.312824
             ],
             "longitude": 7.312824,
-            "note": 0.9,
-            "Temps_de_la_visite": 25
+            "note": 2.0,
+            "Temps_de_la_visite": 32,
+            "Prix": 21,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "vendredi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10233,8 +12996,17 @@ var data=[
                 7.525674
             ],
             "longitude": 7.525674,
-            "note": 3.3,
-            "Temps_de_la_visite": 53
+            "note": 3.2,
+            "Temps_de_la_visite": 53,
+            "Prix": 45,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "jeudi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10267,8 +13039,17 @@ var data=[
                 4.029412
             ],
             "longitude": 4.029412,
-            "note": 3.3,
-            "Temps_de_la_visite": 35
+            "note": 2.5,
+            "Temps_de_la_visite": 50,
+            "Prix": 34,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "vendredi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10301,8 +13082,17 @@ var data=[
                 4.040351
             ],
             "longitude": 4.040351,
-            "note": 2.0,
-            "Temps_de_la_visite": 37
+            "note": 2.6,
+            "Temps_de_la_visite": 24,
+            "Prix": 55,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "dimanche",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10334,8 +13124,17 @@ var data=[
                 6.188467
             ],
             "longitude": 6.188467,
-            "note": 1.3,
-            "Temps_de_la_visite": 50
+            "note": 3.9,
+            "Temps_de_la_visite": 54,
+            "Prix": 24,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "mardi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10367,8 +13166,17 @@ var data=[
                 5.89134
             ],
             "longitude": 5.89134,
-            "note": 1.4,
-            "Temps_de_la_visite": 28
+            "note": 1.6,
+            "Temps_de_la_visite": 54,
+            "Prix": 48,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "mardi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10400,8 +13208,17 @@ var data=[
                 7.352438
             ],
             "longitude": 7.352438,
-            "note": 0.2,
-            "Temps_de_la_visite": 33
+            "note": 1.8,
+            "Temps_de_la_visite": 55,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "lundi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10433,8 +13250,17 @@ var data=[
                 6.458494
             ],
             "longitude": 6.458494,
-            "note": 0.0,
-            "Temps_de_la_visite": 24
+            "note": 0.7,
+            "Temps_de_la_visite": 31,
+            "Prix": 18,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "mardi",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10466,8 +13292,17 @@ var data=[
                 6.947961
             ],
             "longitude": 6.947961,
-            "note": 1.6,
-            "Temps_de_la_visite": 26
+            "note": 3.8,
+            "Temps_de_la_visite": 38,
+            "Prix": 46,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "dimanche",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10499,8 +13334,17 @@ var data=[
                 3.367748
             ],
             "longitude": 3.367748,
-            "note": 2.8,
-            "Temps_de_la_visite": 37
+            "note": 1.1,
+            "Temps_de_la_visite": 30,
+            "Prix": 57,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "lundi",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10532,8 +13376,17 @@ var data=[
                 3.229635
             ],
             "longitude": 3.229635,
-            "note": 1.4,
-            "Temps_de_la_visite": 38
+            "note": 0.2,
+            "Temps_de_la_visite": 59,
+            "Prix": 26,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "mercredi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10566,8 +13419,17 @@ var data=[
                 2.48621
             ],
             "longitude": 2.48621,
-            "note": 2.6,
-            "Temps_de_la_visite": 46
+            "note": 4.6,
+            "Temps_de_la_visite": 49,
+            "Prix": 43,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "dimanche",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10597,8 +13459,17 @@ var data=[
             ],
             "longitude": 3.410691,
             "ref_deps": "5913901",
-            "note": 3.1,
-            "Temps_de_la_visite": 30
+            "note": 4.1,
+            "Temps_de_la_visite": 27,
+            "Prix": 46,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "mercredi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10630,8 +13501,17 @@ var data=[
                 2.383243784876889
             ],
             "longitude": 2.383243784876889,
-            "note": 4.3,
-            "Temps_de_la_visite": 23
+            "note": 3.2,
+            "Temps_de_la_visite": 51,
+            "Prix": 45,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "vendredi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10662,8 +13542,17 @@ var data=[
                 2.375518
             ],
             "longitude": 2.375518,
-            "note": 2.9,
-            "Temps_de_la_visite": 45
+            "note": 1.5,
+            "Temps_de_la_visite": 33,
+            "Prix": 23,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "mercredi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10695,8 +13584,17 @@ var data=[
                 3.068387
             ],
             "longitude": 3.068387,
-            "note": 4.8,
-            "Temps_de_la_visite": 46
+            "note": 1.0,
+            "Temps_de_la_visite": 42,
+            "Prix": 18,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "dimanche",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10729,8 +13627,17 @@ var data=[
                 3.427672
             ],
             "longitude": 3.427672,
-            "note": 3.9,
-            "Temps_de_la_visite": 21
+            "note": 2.8,
+            "Temps_de_la_visite": 31,
+            "Prix": 24,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "mardi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10762,8 +13669,17 @@ var data=[
                 3.53105
             ],
             "longitude": 3.53105,
-            "note": 3.0,
-            "Temps_de_la_visite": 52
+            "note": 4.8,
+            "Temps_de_la_visite": 27,
+            "Prix": 58,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "dimanche",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10794,8 +13710,17 @@ var data=[
                 1.99164
             ],
             "longitude": 1.99164,
-            "note": 3.2,
-            "Temps_de_la_visite": 30
+            "note": 4.7,
+            "Temps_de_la_visite": 35,
+            "Prix": 29,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "jeudi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10827,8 +13752,17 @@ var data=[
                 2.473388
             ],
             "longitude": 2.473388,
-            "note": 1.2,
-            "Temps_de_la_visite": 47
+            "note": 4.3,
+            "Temps_de_la_visite": 40,
+            "Prix": 16,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "vendredi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10860,8 +13794,17 @@ var data=[
                 2.585615
             ],
             "longitude": 2.585615,
-            "note": 1.8,
-            "Temps_de_la_visite": 48
+            "note": 1.9,
+            "Temps_de_la_visite": 41,
+            "Prix": 58,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "mercredi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10893,8 +13836,17 @@ var data=[
                 2.316919
             ],
             "longitude": 2.316919,
-            "note": 2.4,
-            "Temps_de_la_visite": 53
+            "note": 2.2,
+            "Temps_de_la_visite": 31,
+            "Prix": 52,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "lundi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10926,8 +13878,17 @@ var data=[
                 2.648177
             ],
             "longitude": 2.648177,
-            "note": 1.5,
-            "Temps_de_la_visite": 28
+            "note": 2.8,
+            "Temps_de_la_visite": 37,
+            "Prix": 21,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "jeudi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10959,8 +13920,17 @@ var data=[
                 1.860013
             ],
             "longitude": 1.860013,
-            "note": 2.9,
-            "Temps_de_la_visite": 56
+            "note": 0.2,
+            "Temps_de_la_visite": 52,
+            "Prix": 50,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "mardi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -10993,8 +13963,17 @@ var data=[
                 1.83876
             ],
             "longitude": 1.83876,
-            "note": 0.8,
-            "Temps_de_la_visite": 26
+            "note": 4.2,
+            "Temps_de_la_visite": 43,
+            "Prix": 53,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "jeudi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11026,8 +14005,17 @@ var data=[
                 1.637621
             ],
             "longitude": 1.637621,
-            "note": 2.0,
-            "Temps_de_la_visite": 53
+            "note": 0.0,
+            "Temps_de_la_visite": 25,
+            "Prix": 36,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "lundi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11060,8 +14048,17 @@ var data=[
                 2.903226
             ],
             "longitude": 2.903226,
-            "note": 4.4,
-            "Temps_de_la_visite": 29
+            "note": 2.5,
+            "Temps_de_la_visite": 38,
+            "Prix": 20,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "mercredi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11093,8 +14090,17 @@ var data=[
                 2.251197
             ],
             "longitude": 2.251197,
-            "note": 1.9,
-            "Temps_de_la_visite": 34
+            "note": 3.4,
+            "Temps_de_la_visite": 57,
+            "Prix": 39,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "mercredi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11127,8 +14133,17 @@ var data=[
                 2.337066
             ],
             "longitude": 2.337066,
-            "note": 2.3,
-            "Temps_de_la_visite": 26
+            "note": 2.4,
+            "Temps_de_la_visite": 52,
+            "Prix": 33,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "mardi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11161,8 +14176,17 @@ var data=[
                 1.946543
             ],
             "longitude": 1.946543,
-            "note": 3.3,
-            "Temps_de_la_visite": 55
+            "note": 4.7,
+            "Temps_de_la_visite": 31,
+            "Prix": 21,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "vendredi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11194,8 +14218,17 @@ var data=[
                 2.273453
             ],
             "longitude": 2.273453,
-            "note": 3.3,
-            "Temps_de_la_visite": 28
+            "note": 3.6,
+            "Temps_de_la_visite": 39,
+            "Prix": 33,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "mardi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11227,8 +14260,17 @@ var data=[
                 2.252754
             ],
             "longitude": 2.252754,
-            "note": 4.2,
-            "Temps_de_la_visite": 29
+            "note": 4.1,
+            "Temps_de_la_visite": 32,
+            "Prix": 33,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "vendredi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11259,8 +14301,17 @@ var data=[
                 2.205733
             ],
             "longitude": 2.205733,
-            "note": 2.3,
-            "Temps_de_la_visite": 22
+            "note": 4.7,
+            "Temps_de_la_visite": 45,
+            "Prix": 24,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "mercredi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11293,8 +14344,17 @@ var data=[
                 2.366232
             ],
             "longitude": 2.366232,
-            "note": 0.5,
-            "Temps_de_la_visite": 44
+            "note": 4.0,
+            "Temps_de_la_visite": 52,
+            "Prix": 32,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "dimanche",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11327,8 +14387,17 @@ var data=[
                 2.362856
             ],
             "longitude": 2.362856,
-            "note": 2.6,
-            "Temps_de_la_visite": 41
+            "note": 1.5,
+            "Temps_de_la_visite": 23,
+            "Prix": 22,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "mardi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11359,8 +14428,17 @@ var data=[
                 2.280339
             ],
             "longitude": 2.280339,
-            "note": 2.0,
-            "Temps_de_la_visite": 59
+            "note": 4.7,
+            "Temps_de_la_visite": 37,
+            "Prix": 41,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "dimanche",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11393,8 +14471,17 @@ var data=[
                 2.313763
             ],
             "longitude": 2.313763,
-            "note": 1.0,
-            "Temps_de_la_visite": 46
+            "note": 3.4,
+            "Temps_de_la_visite": 30,
+            "Prix": 58,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "mardi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11426,8 +14513,17 @@ var data=[
                 2.293754
             ],
             "longitude": 2.293754,
-            "note": 4.2,
-            "Temps_de_la_visite": 56
+            "note": 0.5,
+            "Temps_de_la_visite": 41,
+            "Prix": 53,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "vendredi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11459,8 +14555,17 @@ var data=[
                 2.324768
             ],
             "longitude": 2.324768,
-            "note": 1.0,
-            "Temps_de_la_visite": 40
+            "note": 4.0,
+            "Temps_de_la_visite": 59,
+            "Prix": 20,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "mardi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11493,8 +14598,17 @@ var data=[
                 2.602464
             ],
             "longitude": 2.602464,
-            "note": 2.6,
-            "Temps_de_la_visite": 36
+            "note": 4.3,
+            "Temps_de_la_visite": 34,
+            "Prix": 35,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "mercredi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11526,8 +14640,17 @@ var data=[
                 2.591845
             ],
             "longitude": 2.591845,
-            "note": 4.7,
-            "Temps_de_la_visite": 41
+            "note": 4.2,
+            "Temps_de_la_visite": 22,
+            "Prix": 39,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "lundi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11560,8 +14683,17 @@ var data=[
                 2.696858
             ],
             "longitude": 2.696858,
-            "note": 3.7,
-            "Temps_de_la_visite": 22
+            "note": 0.9,
+            "Temps_de_la_visite": 55,
+            "Prix": 32,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "dimanche",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11594,8 +14726,17 @@ var data=[
                 2.87061
             ],
             "longitude": 2.87061,
-            "note": 2.9,
-            "Temps_de_la_visite": 43
+            "note": 0.9,
+            "Temps_de_la_visite": 42,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "samedi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11627,8 +14768,17 @@ var data=[
                 2.901461
             ],
             "longitude": 2.901461,
-            "note": 4.1,
-            "Temps_de_la_visite": 44
+            "note": 0.8,
+            "Temps_de_la_visite": 55,
+            "Prix": 26,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "samedi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11659,8 +14809,17 @@ var data=[
                 2.815046
             ],
             "longitude": 2.815046,
-            "note": 2.4,
-            "Temps_de_la_visite": 44
+            "note": 1.3,
+            "Temps_de_la_visite": 60,
+            "Prix": 59,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "lundi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11692,8 +14851,17 @@ var data=[
                 2.714321
             ],
             "longitude": 2.714321,
-            "note": 4.1,
-            "Temps_de_la_visite": 22
+            "note": 1.6,
+            "Temps_de_la_visite": 41,
+            "Prix": 42,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "mercredi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11725,8 +14893,17 @@ var data=[
                 2.249331
             ],
             "longitude": 2.249331,
-            "note": 4.4,
-            "Temps_de_la_visite": 20
+            "note": 3.5,
+            "Temps_de_la_visite": 49,
+            "Prix": 56,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "mercredi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11758,8 +14935,17 @@ var data=[
                 1.849395
             ],
             "longitude": 1.849395,
-            "note": 4.5,
-            "Temps_de_la_visite": 45
+            "note": 2.1,
+            "Temps_de_la_visite": 43,
+            "Prix": 56,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "lundi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11791,8 +14977,17 @@ var data=[
                 2.21638
             ],
             "longitude": 2.21638,
-            "note": 1.1,
-            "Temps_de_la_visite": 26
+            "note": 2.6,
+            "Temps_de_la_visite": 39,
+            "Prix": 36,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "jeudi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11825,8 +15020,17 @@ var data=[
                 2.320916
             ],
             "longitude": 2.320916,
-            "note": 1.5,
-            "Temps_de_la_visite": 22
+            "note": 2.6,
+            "Temps_de_la_visite": 39,
+            "Prix": 38,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "samedi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11858,8 +15062,17 @@ var data=[
                 2.099776
             ],
             "longitude": 2.099776,
-            "note": 4.6,
-            "Temps_de_la_visite": 39
+            "note": 3.5,
+            "Temps_de_la_visite": 40,
+            "Prix": 48,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "mardi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11891,8 +15104,17 @@ var data=[
                 2.543144
             ],
             "longitude": 2.543144,
-            "note": 2.7,
-            "Temps_de_la_visite": 29
+            "note": 3.7,
+            "Temps_de_la_visite": 50,
+            "Prix": 21,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "vendredi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11925,8 +15147,17 @@ var data=[
                 1.805464
             ],
             "longitude": 1.805464,
-            "note": 2.8,
-            "Temps_de_la_visite": 49
+            "note": 4.2,
+            "Temps_de_la_visite": 51,
+            "Prix": 33,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "mercredi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11958,8 +15189,17 @@ var data=[
                 2.127681
             ],
             "longitude": 2.127681,
-            "note": 0.2,
-            "Temps_de_la_visite": 47
+            "note": 0.6,
+            "Temps_de_la_visite": 56,
+            "Prix": 40,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "dimanche",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -11991,8 +15231,17 @@ var data=[
                 2.134053
             ],
             "longitude": 2.134053,
-            "note": 1.5,
-            "Temps_de_la_visite": 50
+            "note": 3.5,
+            "Temps_de_la_visite": 25,
+            "Prix": 46,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12025,8 +15274,17 @@ var data=[
                 -0.7030630310500277
             ],
             "longitude": -0.7030630310500277,
-            "note": 0.7,
-            "Temps_de_la_visite": 30
+            "note": 3.8,
+            "Temps_de_la_visite": 32,
+            "Prix": 59,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "dimanche",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12057,8 +15315,17 @@ var data=[
                 0.107383
             ],
             "longitude": 0.107383,
-            "note": 0.9,
-            "Temps_de_la_visite": 53
+            "note": 3.5,
+            "Temps_de_la_visite": 28,
+            "Prix": 33,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "dimanche",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12091,8 +15358,17 @@ var data=[
                 1.420009
             ],
             "longitude": 1.420009,
-            "note": 4.8,
-            "Temps_de_la_visite": 44
+            "note": 1.4,
+            "Temps_de_la_visite": 26,
+            "Prix": 17,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "samedi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12124,8 +15400,17 @@ var data=[
                 -1.363384
             ],
             "longitude": -1.363384,
-            "note": 0.8,
-            "Temps_de_la_visite": 39
+            "note": 0.3,
+            "Temps_de_la_visite": 28,
+            "Prix": 20,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "dimanche",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12158,8 +15443,17 @@ var data=[
                 -1.087574
             ],
             "longitude": -1.087574,
-            "note": 1.0,
-            "Temps_de_la_visite": 36
+            "note": 4.0,
+            "Temps_de_la_visite": 56,
+            "Prix": 56,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "vendredi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12191,8 +15485,17 @@ var data=[
                 0.725967
             ],
             "longitude": 0.725967,
-            "note": 0.3,
-            "Temps_de_la_visite": 49
+            "note": 3.2,
+            "Temps_de_la_visite": 22,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "samedi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12224,8 +15527,17 @@ var data=[
                 1.031203
             ],
             "longitude": 1.031203,
-            "note": 2.5,
-            "Temps_de_la_visite": 36
+            "note": 0.6,
+            "Temps_de_la_visite": 31,
+            "Prix": 20,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "mercredi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12258,8 +15570,17 @@ var data=[
                 1.418369
             ],
             "longitude": 1.418369,
-            "note": 1.8,
-            "Temps_de_la_visite": 49
+            "note": 2.6,
+            "Temps_de_la_visite": 27,
+            "Prix": 30,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "mercredi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12291,8 +15612,17 @@ var data=[
                 0.112815
             ],
             "longitude": 0.112815,
-            "note": 3.5,
-            "Temps_de_la_visite": 54
+            "note": 0.4,
+            "Temps_de_la_visite": 39,
+            "Prix": 40,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "mercredi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12324,8 +15654,17 @@ var data=[
                 1.436734
             ],
             "longitude": 1.436734,
-            "note": 3.9,
-            "Temps_de_la_visite": 31
+            "note": 0.6,
+            "Temps_de_la_visite": 41,
+            "Prix": 40,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "dimanche",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12358,8 +15697,17 @@ var data=[
                 1.093846
             ],
             "longitude": 1.093846,
-            "note": 1.2,
-            "Temps_de_la_visite": 30
+            "note": 0.9,
+            "Temps_de_la_visite": 53,
+            "Prix": 28,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "samedi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12391,8 +15739,17 @@ var data=[
                 1.09396
             ],
             "longitude": 1.09396,
-            "note": 1.5,
-            "Temps_de_la_visite": 45
+            "note": 2.2,
+            "Temps_de_la_visite": 32,
+            "Prix": 21,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "jeudi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12424,8 +15781,17 @@ var data=[
                 0.673374
             ],
             "longitude": 0.673374,
-            "note": 0.1,
-            "Temps_de_la_visite": 45
+            "note": 1.4,
+            "Temps_de_la_visite": 59,
+            "Prix": 35,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "lundi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12458,8 +15824,17 @@ var data=[
                 -0.326186
             ],
             "longitude": -0.326186,
-            "note": 2.0,
-            "Temps_de_la_visite": 40
+            "note": 3.6,
+            "Temps_de_la_visite": 41,
+            "Prix": 43,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "lundi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12492,8 +15867,17 @@ var data=[
                 -1.150024
             ],
             "longitude": -1.150024,
-            "note": 4.0,
-            "Temps_de_la_visite": 58
+            "note": 4.9,
+            "Temps_de_la_visite": 46,
+            "Prix": 42,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "lundi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12524,8 +15908,17 @@ var data=[
                 -0.991941
             ],
             "longitude": -0.991941,
-            "note": 0.5,
-            "Temps_de_la_visite": 47
+            "note": 3.7,
+            "Temps_de_la_visite": 59,
+            "Prix": 42,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "dimanche",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12557,8 +15950,17 @@ var data=[
                 -0.633096
             ],
             "longitude": -0.633096,
-            "note": 0.6,
-            "Temps_de_la_visite": 34
+            "note": 2.6,
+            "Temps_de_la_visite": 26,
+            "Prix": 42,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "mercredi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12590,8 +15992,17 @@ var data=[
                 -1.307498
             ],
             "longitude": -1.307498,
-            "note": 3.4,
-            "Temps_de_la_visite": 31
+            "note": 3.8,
+            "Temps_de_la_visite": 59,
+            "Prix": 57,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "jeudi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12624,8 +16035,17 @@ var data=[
                 1.870758
             ],
             "longitude": 1.870758,
-            "note": 4.3,
-            "Temps_de_la_visite": 48
+            "note": 3.8,
+            "Temps_de_la_visite": 47,
+            "Prix": 33,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "jeudi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12657,8 +16077,17 @@ var data=[
                 -0.493243
             ],
             "longitude": -0.493243,
-            "note": 3.1,
-            "Temps_de_la_visite": 48
+            "note": 1.9,
+            "Temps_de_la_visite": 43,
+            "Prix": 34,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "mercredi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12690,8 +16119,17 @@ var data=[
                 -0.509253
             ],
             "longitude": -0.509253,
-            "note": 4.7,
-            "Temps_de_la_visite": 56
+            "note": 2.9,
+            "Temps_de_la_visite": 43,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "dimanche",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12723,8 +16161,17 @@ var data=[
                 1.01363
             ],
             "longitude": 1.01363,
-            "note": 4.9,
-            "Temps_de_la_visite": 38
+            "note": 3.9,
+            "Temps_de_la_visite": 24,
+            "Prix": 54,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "jeudi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12756,8 +16203,17 @@ var data=[
                 1.163336
             ],
             "longitude": 1.163336,
-            "note": 1.9,
-            "Temps_de_la_visite": 50
+            "note": 2.9,
+            "Temps_de_la_visite": 58,
+            "Prix": 43,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "mardi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12790,8 +16246,17 @@ var data=[
                 0.72395
             ],
             "longitude": 0.72395,
-            "note": 4.0,
-            "Temps_de_la_visite": 49
+            "note": 4.1,
+            "Temps_de_la_visite": 40,
+            "Prix": 49,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "vendredi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12824,8 +16289,17 @@ var data=[
                 -0.66364
             ],
             "longitude": -0.66364,
-            "note": 1.6,
-            "Temps_de_la_visite": 26
+            "note": 3.8,
+            "Temps_de_la_visite": 30,
+            "Prix": 41,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "lundi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12858,8 +16332,17 @@ var data=[
                 -0.579686
             ],
             "longitude": -0.579686,
-            "note": 2.7,
-            "Temps_de_la_visite": 49
+            "note": 0.1,
+            "Temps_de_la_visite": 30,
+            "Prix": 32,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "lundi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12890,8 +16373,17 @@ var data=[
                 -0.041074
             ],
             "longitude": -0.041074,
-            "note": 4.4,
-            "Temps_de_la_visite": 39
+            "note": 4.1,
+            "Temps_de_la_visite": 48,
+            "Prix": 24,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "samedi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12924,8 +16416,17 @@ var data=[
                 -0.245068
             ],
             "longitude": -0.245068,
-            "note": 0.1,
-            "Temps_de_la_visite": 41
+            "note": 3.5,
+            "Temps_de_la_visite": 39,
+            "Prix": 23,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "lundi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12957,8 +16458,17 @@ var data=[
                 -0.15570843063469111
             ],
             "longitude": -0.15570843063469111,
-            "note": 5.0,
-            "Temps_de_la_visite": 40
+            "note": 3.5,
+            "Temps_de_la_visite": 56,
+            "Prix": 23,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "jeudi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -12991,8 +16501,17 @@ var data=[
                 -1.12142
             ],
             "longitude": -1.12142,
-            "note": 2.7,
-            "Temps_de_la_visite": 39
+            "note": 2.8,
+            "Temps_de_la_visite": 59,
+            "Prix": 35,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "vendredi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13024,8 +16543,17 @@ var data=[
                 -0.749433
             ],
             "longitude": -0.749433,
-            "note": 4.0,
-            "Temps_de_la_visite": 38
+            "note": 1.5,
+            "Temps_de_la_visite": 36,
+            "Prix": 49,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "jeudi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13057,8 +16585,17 @@ var data=[
                 0.166067
             ],
             "longitude": 0.166067,
-            "note": 3.7,
-            "Temps_de_la_visite": 38
+            "note": 1.8,
+            "Temps_de_la_visite": 60,
+            "Prix": 52,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "vendredi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13091,8 +16628,17 @@ var data=[
                 1.017451
             ],
             "longitude": 1.017451,
-            "note": 4.7,
-            "Temps_de_la_visite": 36
+            "note": 0.3,
+            "Temps_de_la_visite": 20,
+            "Prix": 18,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "lundi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13124,8 +16670,17 @@ var data=[
                 0.707815
             ],
             "longitude": 0.707815,
-            "note": 1.8,
-            "Temps_de_la_visite": 53
+            "note": 0.5,
+            "Temps_de_la_visite": 27,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "mardi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13157,8 +16712,17 @@ var data=[
                 1.845351
             ],
             "longitude": 1.845351,
-            "note": 0.7,
-            "Temps_de_la_visite": 53
+            "note": 2.9,
+            "Temps_de_la_visite": 44,
+            "Prix": 42,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "mardi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13190,8 +16754,17 @@ var data=[
                 1.360358
             ],
             "longitude": 1.360358,
-            "note": 0.3,
-            "Temps_de_la_visite": 34
+            "note": 2.9,
+            "Temps_de_la_visite": 20,
+            "Prix": 47,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "mardi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13223,8 +16796,17 @@ var data=[
                 2.2143
             ],
             "longitude": 2.2143,
-            "note": 2.9,
-            "Temps_de_la_visite": 30
+            "note": 0.8,
+            "Temps_de_la_visite": 52,
+            "Prix": 24,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "samedi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13256,8 +16838,17 @@ var data=[
                 2.762702
             ],
             "longitude": 2.762702,
-            "note": 0.0,
-            "Temps_de_la_visite": 51
+            "note": 1.9,
+            "Temps_de_la_visite": 42,
+            "Prix": 56,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "jeudi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13290,8 +16881,17 @@ var data=[
                 4.070265
             ],
             "longitude": 4.070265,
-            "note": 0.5,
-            "Temps_de_la_visite": 51
+            "note": 3.2,
+            "Temps_de_la_visite": 33,
+            "Prix": 57,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "mercredi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13323,8 +16923,17 @@ var data=[
                 4.642712
             ],
             "longitude": 4.642712,
-            "note": 2.0,
-            "Temps_de_la_visite": 59
+            "note": 2.4,
+            "Temps_de_la_visite": 43,
+            "Prix": 34,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "mardi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13356,8 +16965,17 @@ var data=[
                 3.887004
             ],
             "longitude": 3.887004,
-            "note": 3.0,
-            "Temps_de_la_visite": 57
+            "note": 2.1,
+            "Temps_de_la_visite": 45,
+            "Prix": 36,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "lundi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13390,8 +17008,17 @@ var data=[
                 0.638007
             ],
             "longitude": 0.638007,
-            "note": 1.2,
-            "Temps_de_la_visite": 29
+            "note": 1.0,
+            "Temps_de_la_visite": 40,
+            "Prix": 38,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "vendredi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13422,8 +17049,17 @@ var data=[
                 1.010287
             ],
             "longitude": 1.010287,
-            "note": 3.0,
-            "Temps_de_la_visite": 54
+            "note": 2.5,
+            "Temps_de_la_visite": 38,
+            "Prix": 59,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "samedi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13455,8 +17091,17 @@ var data=[
                 1.441776
             ],
             "longitude": 1.441776,
-            "note": 3.2,
-            "Temps_de_la_visite": 44
+            "note": 4.0,
+            "Temps_de_la_visite": 23,
+            "Prix": 30,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "vendredi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13489,8 +17134,17 @@ var data=[
                 1.448945
             ],
             "longitude": 1.448945,
-            "note": 0.2,
-            "Temps_de_la_visite": 52
+            "note": 1.9,
+            "Temps_de_la_visite": 56,
+            "Prix": 53,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "jeudi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13522,8 +17176,17 @@ var data=[
                 0.282555
             ],
             "longitude": 0.282555,
-            "note": 2.7,
-            "Temps_de_la_visite": 41
+            "note": 5.0,
+            "Temps_de_la_visite": 33,
+            "Prix": 46,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "mercredi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13555,8 +17218,17 @@ var data=[
                 3.660714
             ],
             "longitude": 3.660714,
-            "note": 3.2,
-            "Temps_de_la_visite": 43
+            "note": 1.6,
+            "Temps_de_la_visite": 22,
+            "Prix": 56,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "samedi",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13588,8 +17260,17 @@ var data=[
                 2.746165
             ],
             "longitude": 2.746165,
-            "note": 1.3,
-            "Temps_de_la_visite": 31
+            "note": 4.3,
+            "Temps_de_la_visite": 51,
+            "Prix": 34,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "samedi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13622,8 +17303,17 @@ var data=[
                 1.438286
             ],
             "longitude": 1.438286,
-            "note": 3.5,
-            "Temps_de_la_visite": 53
+            "note": 1.1,
+            "Temps_de_la_visite": 37,
+            "Prix": 43,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "vendredi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13655,8 +17345,17 @@ var data=[
                 2.016469
             ],
             "longitude": 2.016469,
-            "note": 3.6,
-            "Temps_de_la_visite": 40
+            "note": 0.9,
+            "Temps_de_la_visite": 29,
+            "Prix": 25,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "dimanche",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13689,8 +17388,17 @@ var data=[
                 1.609271436294827
             ],
             "longitude": 1.609271436294827,
-            "note": 3.4,
-            "Temps_de_la_visite": 31
+            "note": 2.2,
+            "Temps_de_la_visite": 49,
+            "Prix": 20,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "jeudi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13722,8 +17430,17 @@ var data=[
                 1.703507
             ],
             "longitude": 1.703507,
-            "note": 0.1,
-            "Temps_de_la_visite": 56
+            "note": 4.1,
+            "Temps_de_la_visite": 34,
+            "Prix": 26,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "mercredi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13756,8 +17473,17 @@ var data=[
                 2.945875
             ],
             "longitude": 2.945875,
-            "note": 1.0,
-            "Temps_de_la_visite": 21
+            "note": 4.6,
+            "Temps_de_la_visite": 49,
+            "Prix": 20,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "lundi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13789,8 +17515,17 @@ var data=[
                 1.899025
             ],
             "longitude": 1.899025,
-            "note": 0.0,
-            "Temps_de_la_visite": 43
+            "note": 3.1,
+            "Temps_de_la_visite": 41,
+            "Prix": 35,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "jeudi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13822,8 +17557,17 @@ var data=[
                 1.895761
             ],
             "longitude": 1.895761,
-            "note": 0.8,
-            "Temps_de_la_visite": 60
+            "note": 4.8,
+            "Temps_de_la_visite": 40,
+            "Prix": 19,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "dimanche",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13855,8 +17599,17 @@ var data=[
                 -2.478054
             ],
             "longitude": -2.478054,
-            "note": 2.1,
-            "Temps_de_la_visite": 38
+            "note": 1.7,
+            "Temps_de_la_visite": 30,
+            "Prix": 22,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "vendredi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13889,8 +17642,17 @@ var data=[
                 -1.566123
             ],
             "longitude": -1.566123,
-            "note": 0.2,
-            "Temps_de_la_visite": 37
+            "note": 1.4,
+            "Temps_de_la_visite": 31,
+            "Prix": 55,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "vendredi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13923,7 +17685,16 @@ var data=[
             ],
             "longitude": -1.564652,
             "note": 3.3,
-            "Temps_de_la_visite": 38
+            "Temps_de_la_visite": 21,
+            "Prix": 59,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "mercredi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13955,8 +17726,17 @@ var data=[
                 -2.198174
             ],
             "longitude": -2.198174,
-            "note": 4.9,
-            "Temps_de_la_visite": 31
+            "note": 3.1,
+            "Temps_de_la_visite": 21,
+            "Prix": 49,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "mardi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -13989,7 +17769,16 @@ var data=[
             ],
             "longitude": -0.882284,
             "note": 3.3,
-            "Temps_de_la_visite": 36
+            "Temps_de_la_visite": 51,
+            "Prix": 56,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "mercredi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14021,8 +17810,17 @@ var data=[
                 -0.897677
             ],
             "longitude": -0.897677,
-            "note": 0.4,
-            "Temps_de_la_visite": 26
+            "note": 0.1,
+            "Temps_de_la_visite": 56,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "lundi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14055,8 +17853,17 @@ var data=[
                 -0.07191750412095592
             ],
             "longitude": -0.07191750412095592,
-            "note": 2.0,
-            "Temps_de_la_visite": 27
+            "note": 1.7,
+            "Temps_de_la_visite": 33,
+            "Prix": 35,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "vendredi",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14087,8 +17894,17 @@ var data=[
                 -0.933518
             ],
             "longitude": -0.933518,
-            "note": 1.2,
-            "Temps_de_la_visite": 48
+            "note": 1.1,
+            "Temps_de_la_visite": 32,
+            "Prix": 32,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14121,8 +17937,17 @@ var data=[
                 -0.77221
             ],
             "longitude": -0.77221,
-            "note": 3.8,
-            "Temps_de_la_visite": 31
+            "note": 1.1,
+            "Temps_de_la_visite": 34,
+            "Prix": 51,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "lundi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14154,8 +17979,17 @@ var data=[
                 -1.953276
             ],
             "longitude": -1.953276,
-            "note": 1.9,
-            "Temps_de_la_visite": 54
+            "note": 0.1,
+            "Temps_de_la_visite": 58,
+            "Prix": 59,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "mardi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14187,8 +18021,17 @@ var data=[
                 6.655077
             ],
             "longitude": 6.655077,
-            "note": 2.7,
-            "Temps_de_la_visite": 57
+            "note": 0.2,
+            "Temps_de_la_visite": 21,
+            "Prix": 53,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "lundi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14220,8 +18063,17 @@ var data=[
                 6.220175
             ],
             "longitude": 6.220175,
-            "note": 3.7,
-            "Temps_de_la_visite": 49
+            "note": 3.8,
+            "Temps_de_la_visite": 53,
+            "Prix": 54,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "lundi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14253,8 +18105,17 @@ var data=[
                 6.08717
             ],
             "longitude": 6.08717,
-            "note": 1.2,
-            "Temps_de_la_visite": 48
+            "note": 1.5,
+            "Temps_de_la_visite": 33,
+            "Prix": 31,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "vendredi",
+                "dimanche",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14286,8 +18147,17 @@ var data=[
                 7.098469
             ],
             "longitude": 7.098469,
-            "note": 3.8,
-            "Temps_de_la_visite": 31
+            "note": 4.0,
+            "Temps_de_la_visite": 54,
+            "Prix": 49,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "jeudi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14320,8 +18190,17 @@ var data=[
                 7.4884
             ],
             "longitude": 7.4884,
-            "note": 2.4,
-            "Temps_de_la_visite": 47
+            "note": 4.7,
+            "Temps_de_la_visite": 25,
+            "Prix": 29,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "samedi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14354,8 +18233,17 @@ var data=[
                 7.259251
             ],
             "longitude": 7.259251,
-            "note": 4.4,
-            "Temps_de_la_visite": 29
+            "note": 1.3,
+            "Temps_de_la_visite": 47,
+            "Prix": 37,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "vendredi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14387,8 +18275,17 @@ var data=[
                 7.2688
             ],
             "longitude": 7.2688,
-            "note": 1.7,
-            "Temps_de_la_visite": 28
+            "note": 3.6,
+            "Temps_de_la_visite": 35,
+            "Prix": 21,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "mardi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14421,8 +18318,17 @@ var data=[
                 5.410889
             ],
             "longitude": 5.410889,
-            "note": 1.7,
-            "Temps_de_la_visite": 29
+            "note": 2.9,
+            "Temps_de_la_visite": 21,
+            "Prix": 53,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "vendredi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14454,8 +18360,17 @@ var data=[
                 5.449931
             ],
             "longitude": 5.449931,
-            "note": 0.4,
-            "Temps_de_la_visite": 43
+            "note": 1.0,
+            "Temps_de_la_visite": 46,
+            "Prix": 57,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "jeudi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14487,8 +18402,17 @@ var data=[
                 4.782653
             ],
             "longitude": 4.782653,
-            "note": 3.2,
-            "Temps_de_la_visite": 56
+            "note": 1.3,
+            "Temps_de_la_visite": 51,
+            "Prix": 42,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "vendredi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14520,8 +18444,17 @@ var data=[
                 5.054107
             ],
             "longitude": 5.054107,
-            "note": 2.6,
-            "Temps_de_la_visite": 46
+            "note": 1.1,
+            "Temps_de_la_visite": 23,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "dimanche",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14554,8 +18487,17 @@ var data=[
                 4.831075
             ],
             "longitude": 4.831075,
-            "note": 4.7,
-            "Temps_de_la_visite": 49
+            "note": 4.0,
+            "Temps_de_la_visite": 47,
+            "Prix": 31,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "vendredi",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14587,8 +18529,17 @@ var data=[
                 5.096576
             ],
             "longitude": 5.096576,
-            "note": 0.2,
-            "Temps_de_la_visite": 25
+            "note": 1.7,
+            "Temps_de_la_visite": 46,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "lundi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14620,8 +18571,17 @@ var data=[
                 6.085573
             ],
             "longitude": 6.085573,
-            "note": 3.4,
-            "Temps_de_la_visite": 25
+            "note": 4.6,
+            "Temps_de_la_visite": 50,
+            "Prix": 44,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14654,8 +18614,17 @@ var data=[
                 6.495058
             ],
             "longitude": 6.495058,
-            "note": 1.3,
-            "Temps_de_la_visite": 21
+            "note": 2.0,
+            "Temps_de_la_visite": 51,
+            "Prix": 35,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "samedi",
+                "dimanche",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14687,8 +18656,17 @@ var data=[
                 6.736721
             ],
             "longitude": 6.736721,
-            "note": 0.9,
-            "Temps_de_la_visite": 20
+            "note": 0.3,
+            "Temps_de_la_visite": 24,
+            "Prix": 54,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "dimanche",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14721,8 +18699,17 @@ var data=[
                 6.769881214825955
             ],
             "longitude": 6.769881214825955,
-            "note": 1.7,
-            "Temps_de_la_visite": 25
+            "note": 2.2,
+            "Temps_de_la_visite": 45,
+            "Prix": 25,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "vendredi",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14754,8 +18741,17 @@ var data=[
                 4.806317
             ],
             "longitude": 4.806317,
-            "note": 0.0,
-            "Temps_de_la_visite": 41
+            "note": 3.1,
+            "Temps_de_la_visite": 22,
+            "Prix": 35,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "dimanche",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14787,8 +18783,17 @@ var data=[
                 5.045479
             ],
             "longitude": 5.045479,
-            "note": 2.2,
-            "Temps_de_la_visite": 32
+            "note": 1.7,
+            "Temps_de_la_visite": 55,
+            "Prix": 21,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14820,8 +18825,17 @@ var data=[
                 5.038776
             ],
             "longitude": 5.038776,
-            "note": 3.1,
-            "Temps_de_la_visite": 25
+            "note": 4.0,
+            "Temps_de_la_visite": 36,
+            "Prix": 45,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "dimanche",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14853,8 +18867,17 @@ var data=[
                 5.056541
             ],
             "longitude": 5.056541,
-            "note": 2.4,
-            "Temps_de_la_visite": 55
+            "note": 0.9,
+            "Temps_de_la_visite": 23,
+            "Prix": 31,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "lundi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14887,8 +18910,17 @@ var data=[
                 4.807526
             ],
             "longitude": 4.807526,
-            "note": 1.2,
-            "Temps_de_la_visite": 52
+            "note": 1.8,
+            "Temps_de_la_visite": 29,
+            "Prix": 29,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "dimanche",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14921,8 +18953,17 @@ var data=[
                 -61.298004
             ],
             "longitude": -61.298004,
-            "note": 2.5,
-            "Temps_de_la_visite": 42
+            "note": 1.8,
+            "Temps_de_la_visite": 31,
+            "Prix": 53,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "vendredi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14954,8 +18995,17 @@ var data=[
                 -52.334359
             ],
             "longitude": -52.334359,
-            "note": 3.2,
-            "Temps_de_la_visite": 57
+            "note": 3.3,
+            "Temps_de_la_visite": 45,
+            "Prix": 55,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "jeudi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -14987,8 +19037,17 @@ var data=[
                 55.450251
             ],
             "longitude": 55.450251,
-            "note": 4.3,
-            "Temps_de_la_visite": 38
+            "note": 4.6,
+            "Temps_de_la_visite": 41,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "mardi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15021,8 +19080,17 @@ var data=[
                 -61.068675
             ],
             "longitude": -61.068675,
-            "note": 1.2,
-            "Temps_de_la_visite": 42
+            "note": 0.4,
+            "Temps_de_la_visite": 58,
+            "Prix": 31,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "samedi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15053,8 +19121,17 @@ var data=[
                 -61.049824
             ],
             "longitude": -61.049824,
-            "note": 2.3,
-            "Temps_de_la_visite": 56
+            "note": 4.0,
+            "Temps_de_la_visite": 48,
+            "Prix": 55,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "samedi",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15086,8 +19163,17 @@ var data=[
                 5.458569
             ],
             "longitude": 5.458569,
-            "note": 1.0,
-            "Temps_de_la_visite": 32
+            "note": 1.7,
+            "Temps_de_la_visite": 59,
+            "Prix": 38,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "samedi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15119,8 +19205,17 @@ var data=[
                 4.986729
             ],
             "longitude": 4.986729,
-            "note": 0.1,
-            "Temps_de_la_visite": 56
+            "note": 3.8,
+            "Temps_de_la_visite": 29,
+            "Prix": 53,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "mercredi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15153,8 +19248,17 @@ var data=[
                 5.243955
             ],
             "longitude": 5.243955,
-            "note": 4.5,
-            "Temps_de_la_visite": 56
+            "note": 4.9,
+            "Temps_de_la_visite": 23,
+            "Prix": 49,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "samedi",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15187,8 +19291,17 @@ var data=[
                 3.331218
             ],
             "longitude": 3.331218,
-            "note": 2.2,
-            "Temps_de_la_visite": 44
+            "note": 4.3,
+            "Temps_de_la_visite": 48,
+            "Prix": 24,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "mercredi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15220,8 +19333,17 @@ var data=[
                 4.850777
             ],
             "longitude": 4.850777,
-            "note": 1.5,
-            "Temps_de_la_visite": 24
+            "note": 2.5,
+            "Temps_de_la_visite": 40,
+            "Prix": 56,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "mardi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15253,8 +19375,17 @@ var data=[
                 3.224427
             ],
             "longitude": 3.224427,
-            "note": 3.2,
-            "Temps_de_la_visite": 34
+            "note": 2.5,
+            "Temps_de_la_visite": 44,
+            "Prix": 27,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "vendredi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15287,8 +19418,17 @@ var data=[
                 3.092979
             ],
             "longitude": 3.092979,
-            "note": 3.6,
-            "Temps_de_la_visite": 50
+            "note": 2.2,
+            "Temps_de_la_visite": 51,
+            "Prix": 16,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "vendredi",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15321,8 +19461,17 @@ var data=[
                 5.369785
             ],
             "longitude": 5.369785,
-            "note": 0.8,
-            "Temps_de_la_visite": 29
+            "note": 3.3,
+            "Temps_de_la_visite": 34,
+            "Prix": 19,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "lundi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15354,8 +19503,17 @@ var data=[
                 4.750056
             ],
             "longitude": 4.750056,
-            "note": 2.8,
-            "Temps_de_la_visite": 58
+            "note": 2.6,
+            "Temps_de_la_visite": 34,
+            "Prix": 24,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "mardi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15387,8 +19545,17 @@ var data=[
                 4.768163
             ],
             "longitude": 4.768163,
-            "note": 4.3,
-            "Temps_de_la_visite": 22
+            "note": 0.1,
+            "Temps_de_la_visite": 31,
+            "Prix": 32,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "dimanche",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15420,8 +19587,17 @@ var data=[
                 4.035268
             ],
             "longitude": 4.035268,
-            "note": 1.1,
-            "Temps_de_la_visite": 37
+            "note": 0.2,
+            "Temps_de_la_visite": 30,
+            "Prix": 23,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "samedi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15451,8 +19627,17 @@ var data=[
             ],
             "longitude": 3.548896,
             "ref_deps": "4316701",
-            "note": 3.9,
-            "Temps_de_la_visite": 59
+            "note": 3.3,
+            "Temps_de_la_visite": 26,
+            "Prix": 45,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "vendredi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15484,8 +19669,17 @@ var data=[
                 5.279159
             ],
             "longitude": 5.279159,
-            "note": 3.9,
-            "Temps_de_la_visite": 60
+            "note": 4.5,
+            "Temps_de_la_visite": 32,
+            "Prix": 27,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "mardi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15518,7 +19712,16 @@ var data=[
             ],
             "longitude": 6.049634,
             "note": 3.1,
-            "Temps_de_la_visite": 34
+            "Temps_de_la_visite": 31,
+            "Prix": 30,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "vendredi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15551,8 +19754,17 @@ var data=[
                 5.726944536301466
             ],
             "longitude": 5.726944536301466,
-            "note": 4.9,
-            "Temps_de_la_visite": 30
+            "note": 2.1,
+            "Temps_de_la_visite": 58,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "mercredi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15584,8 +19796,17 @@ var data=[
                 5.732094
             ],
             "longitude": 5.732094,
-            "note": 4.3,
-            "Temps_de_la_visite": 39
+            "note": 2.5,
+            "Temps_de_la_visite": 29,
+            "Prix": 57,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "mardi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15617,8 +19838,17 @@ var data=[
                 5.731922
             ],
             "longitude": 5.731922,
-            "note": 3.2,
-            "Temps_de_la_visite": 51
+            "note": 1.2,
+            "Temps_de_la_visite": 54,
+            "Prix": 20,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "jeudi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15650,8 +19880,17 @@ var data=[
                 5.735163
             ],
             "longitude": 5.735163,
-            "note": 4.2,
-            "Temps_de_la_visite": 28
+            "note": 2.8,
+            "Temps_de_la_visite": 38,
+            "Prix": 58,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "dimanche",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15683,8 +19922,17 @@ var data=[
                 5.292625
             ],
             "longitude": 5.292625,
-            "note": 1.4,
-            "Temps_de_la_visite": 48
+            "note": 3.0,
+            "Temps_de_la_visite": 59,
+            "Prix": 39,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "mercredi",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15717,8 +19965,17 @@ var data=[
                 5.784427
             ],
             "longitude": 5.784427,
-            "note": 3.8,
-            "Temps_de_la_visite": 54
+            "note": 2.9,
+            "Temps_de_la_visite": 27,
+            "Prix": 16,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "dimanche",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15750,8 +20007,17 @@ var data=[
                 6.068988
             ],
             "longitude": 6.068988,
-            "note": 3.4,
-            "Temps_de_la_visite": 56
+            "note": 3.7,
+            "Temps_de_la_visite": 56,
+            "Prix": 43,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "mardi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15783,8 +20049,17 @@ var data=[
                 4.17052
             ],
             "longitude": 4.17052,
-            "note": 4.6,
-            "Temps_de_la_visite": 45
+            "note": 4.8,
+            "Temps_de_la_visite": 38,
+            "Prix": 16,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "lundi",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15817,8 +20092,17 @@ var data=[
                 4.394089
             ],
             "longitude": 4.394089,
-            "note": 4.3,
-            "Temps_de_la_visite": 49
+            "note": 2.7,
+            "Temps_de_la_visite": 23,
+            "Prix": 47,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "lundi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15850,8 +20134,17 @@ var data=[
                 4.104776
             ],
             "longitude": 4.104776,
-            "note": 2.8,
-            "Temps_de_la_visite": 44
+            "note": 2.9,
+            "Temps_de_la_visite": 41,
+            "Prix": 45,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "mercredi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15884,7 +20177,16 @@ var data=[
             ],
             "longitude": 4.078512,
             "note": 3.8,
-            "Temps_de_la_visite": 31
+            "Temps_de_la_visite": 20,
+            "Prix": 32,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "dimanche",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15915,8 +20217,17 @@ var data=[
                 4.010608
             ],
             "longitude": 4.010608,
-            "note": 1.2,
-            "Temps_de_la_visite": 47
+            "note": 1.3,
+            "Temps_de_la_visite": 44,
+            "Prix": 35,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "samedi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15948,8 +20259,17 @@ var data=[
                 3.116254
             ],
             "longitude": 3.116254,
-            "note": 4.9,
-            "Temps_de_la_visite": 29
+            "note": 4.2,
+            "Temps_de_la_visite": 51,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "mercredi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -15983,7 +20303,16 @@ var data=[
             ],
             "longitude": 3.548029,
             "note": 4.5,
-            "Temps_de_la_visite": 59
+            "Temps_de_la_visite": 32,
+            "Prix": 34,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "samedi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16015,8 +20344,17 @@ var data=[
                 4.331417
             ],
             "longitude": 4.331417,
-            "note": 0.8,
-            "Temps_de_la_visite": 55
+            "note": 2.4,
+            "Temps_de_la_visite": 58,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "lundi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16048,8 +20386,17 @@ var data=[
                 4.587482
             ],
             "longitude": 4.587482,
-            "note": 1.4,
-            "Temps_de_la_visite": 56
+            "note": 2.6,
+            "Temps_de_la_visite": 31,
+            "Prix": 52,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "mercredi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16082,8 +20429,17 @@ var data=[
                 4.852921
             ],
             "longitude": 4.852921,
-            "note": 2.9,
-            "Temps_de_la_visite": 43
+            "note": 0.1,
+            "Temps_de_la_visite": 26,
+            "Prix": 57,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16115,8 +20471,17 @@ var data=[
                 4.831492
             ],
             "longitude": 4.831492,
-            "note": 3.7,
-            "Temps_de_la_visite": 50
+            "note": 4.9,
+            "Temps_de_la_visite": 21,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "mardi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16148,8 +20513,17 @@ var data=[
                 4.8731588394774645
             ],
             "longitude": 4.8731588394774645,
-            "note": 3.4,
-            "Temps_de_la_visite": 41
+            "note": 3.2,
+            "Temps_de_la_visite": 29,
+            "Prix": 16,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "dimanche",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16181,8 +20555,17 @@ var data=[
                 6.760997
             ],
             "longitude": 6.760997,
-            "note": 3.5,
-            "Temps_de_la_visite": 49
+            "note": 0.5,
+            "Temps_de_la_visite": 51,
+            "Prix": 25,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "mercredi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16215,8 +20598,17 @@ var data=[
                 5.919306
             ],
             "longitude": 5.919306,
-            "note": 0.8,
-            "Temps_de_la_visite": 30
+            "note": 4.4,
+            "Temps_de_la_visite": 57,
+            "Prix": 45,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mardi",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16249,8 +20641,17 @@ var data=[
                 4.837574
             ],
             "longitude": 4.837574,
-            "note": 0.4,
-            "Temps_de_la_visite": 39
+            "note": 0.3,
+            "Temps_de_la_visite": 50,
+            "Prix": 43,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "samedi",
+                "mercredi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16283,8 +20684,17 @@ var data=[
                 5.037131
             ],
             "longitude": 5.037131,
-            "note": 0.9,
-            "Temps_de_la_visite": 46
+            "note": 1.8,
+            "Temps_de_la_visite": 55,
+            "Prix": 31,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "jeudi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16316,8 +20726,17 @@ var data=[
                 5.042189
             ],
             "longitude": 5.042189,
-            "note": 1.5,
-            "Temps_de_la_visite": 46
+            "note": 2.8,
+            "Temps_de_la_visite": 36,
+            "Prix": 44,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "vendredi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16350,8 +20769,17 @@ var data=[
                 5.043978
             ],
             "longitude": 5.043978,
-            "note": 3.2,
-            "Temps_de_la_visite": 32
+            "note": 0.9,
+            "Temps_de_la_visite": 22,
+            "Prix": 37,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "dimanche",
+                "mercredi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16384,8 +20812,17 @@ var data=[
                 5.025636
             ],
             "longitude": 5.025636,
-            "note": 0.2,
-            "Temps_de_la_visite": 30
+            "note": 4.7,
+            "Temps_de_la_visite": 55,
+            "Prix": 48,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "dimanche",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16417,8 +20854,17 @@ var data=[
                 4.229714
             ],
             "longitude": 4.229714,
-            "note": 3.6,
-            "Temps_de_la_visite": 33
+            "note": 2.2,
+            "Temps_de_la_visite": 31,
+            "Prix": 46,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "dimanche",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16450,8 +20896,17 @@ var data=[
                 4.336452
             ],
             "longitude": 4.336452,
-            "note": 2.7,
-            "Temps_de_la_visite": 41
+            "note": 4.3,
+            "Temps_de_la_visite": 51,
+            "Prix": 52,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "samedi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16484,8 +20939,17 @@ var data=[
                 6.800857556367602
             ],
             "longitude": 6.800857556367602,
-            "note": 2.0,
-            "Temps_de_la_visite": 39
+            "note": 3.2,
+            "Temps_de_la_visite": 30,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "dimanche",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16517,8 +20981,17 @@ var data=[
                 6.18963
             ],
             "longitude": 6.18963,
-            "note": 4.2,
-            "Temps_de_la_visite": 31
+            "note": 1.5,
+            "Temps_de_la_visite": 22,
+            "Prix": 43,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "samedi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16551,8 +21024,17 @@ var data=[
                 5.488205
             ],
             "longitude": 5.488205,
-            "note": 4.0,
-            "Temps_de_la_visite": 23
+            "note": 1.0,
+            "Temps_de_la_visite": 27,
+            "Prix": 26,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "jeudi",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16585,8 +21067,17 @@ var data=[
                 5.553907
             ],
             "longitude": 5.553907,
-            "note": 0.9,
-            "Temps_de_la_visite": 22
+            "note": 0.2,
+            "Temps_de_la_visite": 31,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "mercredi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16618,8 +21109,17 @@ var data=[
                 5.726307
             ],
             "longitude": 5.726307,
-            "note": 3.2,
-            "Temps_de_la_visite": 48
+            "note": 4.4,
+            "Temps_de_la_visite": 45,
+            "Prix": 21,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "mardi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16651,8 +21151,17 @@ var data=[
                 3.934311
             ],
             "longitude": 3.934311,
-            "note": 4.2,
-            "Temps_de_la_visite": 41
+            "note": 1.7,
+            "Temps_de_la_visite": 52,
+            "Prix": 35,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "vendredi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16684,8 +21193,17 @@ var data=[
                 2.922768
             ],
             "longitude": 2.922768,
-            "note": 4.9,
-            "Temps_de_la_visite": 46
+            "note": 1.8,
+            "Temps_de_la_visite": 51,
+            "Prix": 16,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "dimanche",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16718,8 +21236,17 @@ var data=[
                 3.154223
             ],
             "longitude": 3.154223,
-            "note": 4.6,
-            "Temps_de_la_visite": 20
+            "note": 0.8,
+            "Temps_de_la_visite": 25,
+            "Prix": 56,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "lundi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16751,8 +21278,17 @@ var data=[
                 3.386114
             ],
             "longitude": 3.386114,
-            "note": 0.7,
-            "Temps_de_la_visite": 34
+            "note": 0.8,
+            "Temps_de_la_visite": 30,
+            "Prix": 24,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "dimanche",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16785,8 +21321,17 @@ var data=[
                 3.768545
             ],
             "longitude": 3.768545,
-            "note": 2.0,
-            "Temps_de_la_visite": 42
+            "note": 3.4,
+            "Temps_de_la_visite": 31,
+            "Prix": 31,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "jeudi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16819,8 +21364,17 @@ var data=[
                 4.279872
             ],
             "longitude": 4.279872,
-            "note": 3.2,
-            "Temps_de_la_visite": 54
+            "note": 2.8,
+            "Temps_de_la_visite": 31,
+            "Prix": 37,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "jeudi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16852,8 +21406,17 @@ var data=[
                 4.123021
             ],
             "longitude": 4.123021,
-            "note": 1.7,
-            "Temps_de_la_visite": 49
+            "note": 3.8,
+            "Temps_de_la_visite": 58,
+            "Prix": 44,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16885,8 +21448,17 @@ var data=[
                 5.067591
             ],
             "longitude": 5.067591,
-            "note": 1.1,
-            "Temps_de_la_visite": 42
+            "note": 1.7,
+            "Temps_de_la_visite": 24,
+            "Prix": 35,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "vendredi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16918,8 +21490,17 @@ var data=[
                 6.855466
             ],
             "longitude": 6.855466,
-            "note": 1.2,
-            "Temps_de_la_visite": 25
+            "note": 3.4,
+            "Temps_de_la_visite": 46,
+            "Prix": 20,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "samedi",
+                "mercredi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16951,8 +21532,17 @@ var data=[
                 3.566248
             ],
             "longitude": 3.566248,
-            "note": 0.7,
-            "Temps_de_la_visite": 47
+            "note": 2.4,
+            "Temps_de_la_visite": 29,
+            "Prix": 21,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "vendredi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -16984,8 +21574,17 @@ var data=[
                 3.966518
             ],
             "longitude": 3.966518,
-            "note": 4.4,
-            "Temps_de_la_visite": 34
+            "note": 0.8,
+            "Temps_de_la_visite": 27,
+            "Prix": 55,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "dimanche",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17015,8 +21614,17 @@ var data=[
             ],
             "longitude": 3.070586,
             "ref_deps": "8934401",
-            "note": 3.3,
-            "Temps_de_la_visite": 21
+            "note": 0.9,
+            "Temps_de_la_visite": 29,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "mercredi",
+                "dimanche",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17049,8 +21657,17 @@ var data=[
                 3.97555
             ],
             "longitude": 3.97555,
-            "note": 2.7,
-            "Temps_de_la_visite": 53
+            "note": 4.4,
+            "Temps_de_la_visite": 45,
+            "Prix": 37,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "mardi",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17083,8 +21700,17 @@ var data=[
                 3.74361
             ],
             "longitude": 3.74361,
-            "note": 4.3,
-            "Temps_de_la_visite": 21
+            "note": 3.5,
+            "Temps_de_la_visite": 55,
+            "Prix": 16,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "vendredi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17117,8 +21743,17 @@ var data=[
                 3.294126
             ],
             "longitude": 3.294126,
-            "note": 3.0,
-            "Temps_de_la_visite": 47
+            "note": 4.5,
+            "Temps_de_la_visite": 34,
+            "Prix": 48,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "samedi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17150,8 +21785,17 @@ var data=[
                 -2.762171
             ],
             "longitude": -2.762171,
-            "note": 3.2,
-            "Temps_de_la_visite": 53
+            "note": 1.6,
+            "Temps_de_la_visite": 37,
+            "Prix": 34,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "mardi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17183,8 +21827,17 @@ var data=[
                 -4.489963
             ],
             "longitude": -4.489963,
-            "note": 1.3,
-            "Temps_de_la_visite": 21
+            "note": 0.6,
+            "Temps_de_la_visite": 40,
+            "Prix": 42,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "jeudi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17216,8 +21869,17 @@ var data=[
                 -4.006272428689588
             ],
             "longitude": -4.006272428689588,
-            "note": 1.7,
-            "Temps_de_la_visite": 24
+            "note": 3.0,
+            "Temps_de_la_visite": 45,
+            "Prix": 40,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "samedi",
+                "vendredi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17250,8 +21912,17 @@ var data=[
                 -1.665571
             ],
             "longitude": -1.665571,
-            "note": 4.9,
-            "Temps_de_la_visite": 47
+            "note": 4.6,
+            "Temps_de_la_visite": 32,
+            "Prix": 43,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "mardi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17284,8 +21955,17 @@ var data=[
                 -1.674922
             ],
             "longitude": -1.674922,
-            "note": 1.4,
-            "Temps_de_la_visite": 23
+            "note": 3.3,
+            "Temps_de_la_visite": 21,
+            "Prix": 40,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "lundi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17318,8 +21998,17 @@ var data=[
                 -1.169805
             ],
             "longitude": -1.169805,
-            "note": 0.8,
-            "Temps_de_la_visite": 47
+            "note": 2.0,
+            "Temps_de_la_visite": 48,
+            "Prix": 42,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "dimanche",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17352,8 +22041,17 @@ var data=[
                 -1.211799050981162
             ],
             "longitude": -1.211799050981162,
-            "note": 1.7,
-            "Temps_de_la_visite": 31
+            "note": 4.2,
+            "Temps_de_la_visite": 46,
+            "Prix": 41,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "dimanche",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17386,8 +22084,17 @@ var data=[
                 -3.016911
             ],
             "longitude": -3.016911,
-            "note": 1.9,
-            "Temps_de_la_visite": 36
+            "note": 2.7,
+            "Temps_de_la_visite": 53,
+            "Prix": 37,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "jeudi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17420,8 +22127,17 @@ var data=[
                 -3.362581
             ],
             "longitude": -3.362581,
-            "note": 4.5,
-            "Temps_de_la_visite": 37
+            "note": 1.4,
+            "Temps_de_la_visite": 23,
+            "Prix": 28,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "mercredi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17453,8 +22169,17 @@ var data=[
                 -2.432273
             ],
             "longitude": -2.432273,
-            "note": 4.0,
-            "Temps_de_la_visite": 42
+            "note": 0.4,
+            "Temps_de_la_visite": 35,
+            "Prix": 19,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "mercredi",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17487,8 +22212,17 @@ var data=[
                 2.398383
             ],
             "longitude": 2.398383,
-            "note": 0.4,
-            "Temps_de_la_visite": 58
+            "note": 3.1,
+            "Temps_de_la_visite": 54,
+            "Prix": 43,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "vendredi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17519,8 +22253,17 @@ var data=[
                 1.490983
             ],
             "longitude": 1.490983,
-            "note": 3.4,
-            "Temps_de_la_visite": 31
+            "note": 3.3,
+            "Temps_de_la_visite": 38,
+            "Prix": 34,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "mardi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17553,8 +22296,17 @@ var data=[
                 1.4768748419423503
             ],
             "longitude": 1.4768748419423503,
-            "note": 3.0,
-            "Temps_de_la_visite": 23
+            "note": 4.6,
+            "Temps_de_la_visite": 23,
+            "Prix": 30,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "samedi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17586,8 +22338,17 @@ var data=[
                 1.694262
             ],
             "longitude": 1.694262,
-            "note": 3.9,
-            "Temps_de_la_visite": 38
+            "note": 0.5,
+            "Temps_de_la_visite": 39,
+            "Prix": 57,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "samedi",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17619,8 +22380,17 @@ var data=[
                 1.994379
             ],
             "longitude": 1.994379,
-            "note": 0.4,
-            "Temps_de_la_visite": 46
+            "note": 4.8,
+            "Temps_de_la_visite": 59,
+            "Prix": 54,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "lundi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17653,8 +22423,17 @@ var data=[
                 1.989964
             ],
             "longitude": 1.989964,
-            "note": 0.8,
-            "Temps_de_la_visite": 44
+            "note": 1.2,
+            "Temps_de_la_visite": 58,
+            "Prix": 39,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "dimanche",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17684,8 +22463,17 @@ var data=[
             ],
             "longitude": 1.513405,
             "ref_deps": "3609201",
-            "note": 2.5,
-            "Temps_de_la_visite": 48
+            "note": 0.7,
+            "Temps_de_la_visite": 44,
+            "Prix": 54,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "samedi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17715,8 +22503,17 @@ var data=[
             ],
             "longitude": 0.994671,
             "ref_deps": "3713202",
-            "note": 1.4,
-            "Temps_de_la_visite": 44
+            "note": 1.9,
+            "Temps_de_la_visite": 45,
+            "Prix": 54,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "vendredi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17748,8 +22545,17 @@ var data=[
                 0.619769
             ],
             "longitude": 0.619769,
-            "note": 2.4,
-            "Temps_de_la_visite": 33
+            "note": 0.6,
+            "Temps_de_la_visite": 20,
+            "Prix": 48,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "mardi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17782,8 +22588,17 @@ var data=[
                 0.684809
             ],
             "longitude": 0.684809,
-            "note": 3.6,
-            "Temps_de_la_visite": 37
+            "note": 0.1,
+            "Temps_de_la_visite": 24,
+            "Prix": 25,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "dimanche",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17815,8 +22630,17 @@ var data=[
                 0.694004
             ],
             "longitude": 0.694004,
-            "note": 4.5,
-            "Temps_de_la_visite": 30
+            "note": 4.2,
+            "Temps_de_la_visite": 38,
+            "Prix": 17,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "vendredi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17849,8 +22673,17 @@ var data=[
                 2.630092
             ],
             "longitude": 2.630092,
-            "note": 4.5,
-            "Temps_de_la_visite": 49
+            "note": 5.0,
+            "Temps_de_la_visite": 54,
+            "Prix": 28,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "vendredi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17883,8 +22716,17 @@ var data=[
                 1.503586
             ],
             "longitude": 1.503586,
-            "note": 1.2,
-            "Temps_de_la_visite": 52
+            "note": 3.4,
+            "Temps_de_la_visite": 42,
+            "Prix": 19,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "samedi",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17917,8 +22759,17 @@ var data=[
                 8.973941
             ],
             "longitude": 8.973941,
-            "note": 0.3,
-            "Temps_de_la_visite": 39
+            "note": 3.4,
+            "Temps_de_la_visite": 46,
+            "Prix": 25,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "samedi",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17950,8 +22801,17 @@ var data=[
                 9.512108
             ],
             "longitude": 9.512108,
-            "note": 2.0,
-            "Temps_de_la_visite": 59
+            "note": 2.1,
+            "Temps_de_la_visite": 36,
+            "Prix": 39,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "mercredi",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -17981,8 +22841,17 @@ var data=[
             ],
             "longitude": 4.824527313060885,
             "ref_deps": "0819001",
-            "note": 0.4,
-            "Temps_de_la_visite": 60
+            "note": 4.0,
+            "Temps_de_la_visite": 51,
+            "Prix": 20,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "samedi",
+                "mardi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18015,8 +22884,17 @@ var data=[
                 4.919074
             ],
             "longitude": 4.919074,
-            "note": 2.3,
-            "Temps_de_la_visite": 25
+            "note": 4.3,
+            "Temps_de_la_visite": 28,
+            "Prix": 43,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "samedi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18048,8 +22926,17 @@ var data=[
                 4.498923
             ],
             "longitude": 4.498923,
-            "note": 2.0,
-            "Temps_de_la_visite": 59
+            "note": 2.8,
+            "Temps_de_la_visite": 28,
+            "Prix": 24,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "jeudi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18081,8 +22968,17 @@ var data=[
                 3.500892
             ],
             "longitude": 3.500892,
-            "note": 1.0,
-            "Temps_de_la_visite": 21
+            "note": 4.5,
+            "Temps_de_la_visite": 54,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "mardi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18115,8 +23011,17 @@ var data=[
                 4.071824
             ],
             "longitude": 4.071824,
-            "note": 4.6,
-            "Temps_de_la_visite": 34
+            "note": 0.2,
+            "Temps_de_la_visite": 33,
+            "Prix": 28,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "dimanche",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18149,8 +23054,17 @@ var data=[
                 4.08003
             ],
             "longitude": 4.08003,
-            "note": 0.4,
-            "Temps_de_la_visite": 28
+            "note": 0.5,
+            "Temps_de_la_visite": 29,
+            "Prix": 33,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "vendredi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18182,8 +23096,17 @@ var data=[
                 7.914409
             ],
             "longitude": 7.914409,
-            "note": 3.8,
-            "Temps_de_la_visite": 57
+            "note": 3.4,
+            "Temps_de_la_visite": 41,
+            "Prix": 46,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "mardi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18216,8 +23139,17 @@ var data=[
                 7.751984
             ],
             "longitude": 7.751984,
-            "note": 4.0,
-            "Temps_de_la_visite": 36
+            "note": 0.5,
+            "Temps_de_la_visite": 31,
+            "Prix": 46,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "jeudi",
+                "mercredi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18250,8 +23182,17 @@ var data=[
                 7.751984
             ],
             "longitude": 7.751984,
-            "note": 1.7,
-            "Temps_de_la_visite": 23
+            "note": 0.7,
+            "Temps_de_la_visite": 35,
+            "Prix": 53,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "jeudi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18284,8 +23225,17 @@ var data=[
                 7.747992
             ],
             "longitude": 7.747992,
-            "note": 3.2,
-            "Temps_de_la_visite": 22
+            "note": 3.6,
+            "Temps_de_la_visite": 24,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "mercredi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18317,8 +23267,17 @@ var data=[
                 5.137331
             ],
             "longitude": 5.137331,
-            "note": 3.5,
-            "Temps_de_la_visite": 59
+            "note": 3.7,
+            "Temps_de_la_visite": 59,
+            "Prix": 20,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18350,8 +23309,17 @@ var data=[
                 7.174264
             ],
             "longitude": 7.174264,
-            "note": 0.2,
-            "Temps_de_la_visite": 47
+            "note": 1.3,
+            "Temps_de_la_visite": 50,
+            "Prix": 43,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "mardi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18383,8 +23351,17 @@ var data=[
                 7.355464
             ],
             "longitude": 7.355464,
-            "note": 3.7,
-            "Temps_de_la_visite": 55
+            "note": 1.6,
+            "Temps_de_la_visite": 54,
+            "Prix": 57,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "vendredi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18416,8 +23393,17 @@ var data=[
                 7.345379580548642
             ],
             "longitude": 7.345379580548642,
-            "note": 0.0,
-            "Temps_de_la_visite": 34
+            "note": 1.2,
+            "Temps_de_la_visite": 57,
+            "Prix": 38,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "dimanche",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18450,8 +23436,17 @@ var data=[
                 7.304287
             ],
             "longitude": 7.304287,
-            "note": 2.3,
-            "Temps_de_la_visite": 21
+            "note": 0.8,
+            "Temps_de_la_visite": 41,
+            "Prix": 41,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "jeudi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18484,8 +23479,17 @@ var data=[
                 7.310303
             ],
             "longitude": 7.310303,
-            "note": 2.2,
-            "Temps_de_la_visite": 46
+            "note": 3.1,
+            "Temps_de_la_visite": 50,
+            "Prix": 31,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "mercredi",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18518,8 +23522,17 @@ var data=[
                 7.397424
             ],
             "longitude": 7.397424,
-            "note": 2.3,
-            "Temps_de_la_visite": 48
+            "note": 2.8,
+            "Temps_de_la_visite": 23,
+            "Prix": 39,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "vendredi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18551,8 +23564,17 @@ var data=[
                 7.304447
             ],
             "longitude": 7.304447,
-            "note": 3.7,
-            "Temps_de_la_visite": 36
+            "note": 0.1,
+            "Temps_de_la_visite": 22,
+            "Prix": 41,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "vendredi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18584,8 +23606,17 @@ var data=[
                 4.366501
             ],
             "longitude": 4.366501,
-            "note": 1.5,
-            "Temps_de_la_visite": 24
+            "note": 0.0,
+            "Temps_de_la_visite": 57,
+            "Prix": 18,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "mardi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18617,8 +23648,17 @@ var data=[
                 6.734719
             ],
             "longitude": 6.734719,
-            "note": 4.0,
-            "Temps_de_la_visite": 48
+            "note": 3.9,
+            "Temps_de_la_visite": 29,
+            "Prix": 37,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "mardi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18650,8 +23690,17 @@ var data=[
                 6.166351
             ],
             "longitude": 6.166351,
-            "note": 1.6,
-            "Temps_de_la_visite": 56
+            "note": 2.5,
+            "Temps_de_la_visite": 27,
+            "Prix": 59,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "lundi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18683,8 +23732,17 @@ var data=[
                 5.58962
             ],
             "longitude": 5.58962,
-            "note": 1.1,
-            "Temps_de_la_visite": 59
+            "note": 0.1,
+            "Temps_de_la_visite": 55,
+            "Prix": 22,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "jeudi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18716,8 +23774,17 @@ var data=[
                 5.348511
             ],
             "longitude": 5.348511,
-            "note": 3.2,
-            "Temps_de_la_visite": 20
+            "note": 0.7,
+            "Temps_de_la_visite": 39,
+            "Prix": 54,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "vendredi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18749,8 +23816,17 @@ var data=[
                 5.186786
             ],
             "longitude": 5.186786,
-            "note": 4.9,
-            "Temps_de_la_visite": 57
+            "note": 4.7,
+            "Temps_de_la_visite": 25,
+            "Prix": 28,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "jeudi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18782,8 +23858,17 @@ var data=[
                 5.033072
             ],
             "longitude": 5.033072,
-            "note": 1.5,
-            "Temps_de_la_visite": 32
+            "note": 1.6,
+            "Temps_de_la_visite": 24,
+            "Prix": 36,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "lundi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18815,8 +23900,17 @@ var data=[
                 6.029871
             ],
             "longitude": 6.029871,
-            "note": 3.0,
-            "Temps_de_la_visite": 56
+            "note": 1.3,
+            "Temps_de_la_visite": 43,
+            "Prix": 50,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18848,8 +23942,17 @@ var data=[
                 6.848979
             ],
             "longitude": 6.848979,
-            "note": 2.1,
-            "Temps_de_la_visite": 38
+            "note": 0.8,
+            "Temps_de_la_visite": 30,
+            "Prix": 16,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "samedi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18882,8 +23985,17 @@ var data=[
                 6.169267003245504
             ],
             "longitude": 6.169267003245504,
-            "note": 0.3,
-            "Temps_de_la_visite": 34
+            "note": 4.4,
+            "Temps_de_la_visite": 50,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "mardi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18915,8 +24027,17 @@ var data=[
                 6.135440439964067
             ],
             "longitude": 6.135440439964067,
-            "note": 2.6,
-            "Temps_de_la_visite": 28
+            "note": 1.5,
+            "Temps_de_la_visite": 53,
+            "Prix": 47,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "dimanche",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18948,8 +24069,17 @@ var data=[
                 3.150459
             ],
             "longitude": 3.150459,
-            "note": 3.7,
-            "Temps_de_la_visite": 21
+            "note": 0.2,
+            "Temps_de_la_visite": 44,
+            "Prix": 59,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "mardi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -18981,8 +24111,17 @@ var data=[
                 4.083876
             ],
             "longitude": 4.083876,
-            "note": 3.7,
-            "Temps_de_la_visite": 37
+            "note": 1.0,
+            "Temps_de_la_visite": 46,
+            "Prix": 41,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "mercredi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19013,8 +24152,17 @@ var data=[
                 3.502134
             ],
             "longitude": 3.502134,
-            "note": 1.7,
-            "Temps_de_la_visite": 50
+            "note": 0.5,
+            "Temps_de_la_visite": 40,
+            "Prix": 40,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "lundi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19046,8 +24194,17 @@ var data=[
                 2.734399
             ],
             "longitude": 2.734399,
-            "note": 4.4,
-            "Temps_de_la_visite": 29
+            "note": 0.1,
+            "Temps_de_la_visite": 26,
+            "Prix": 31,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "mardi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19079,8 +24236,17 @@ var data=[
                 3.317909
             ],
             "longitude": 3.317909,
-            "note": 1.2,
-            "Temps_de_la_visite": 31
+            "note": 2.1,
+            "Temps_de_la_visite": 46,
+            "Prix": 42,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "samedi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19112,8 +24278,17 @@ var data=[
                 3.343632
             ],
             "longitude": 3.343632,
-            "note": 3.2,
-            "Temps_de_la_visite": 26
+            "note": 4.8,
+            "Temps_de_la_visite": 30,
+            "Prix": 33,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "vendredi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19146,8 +24321,17 @@ var data=[
                 2.159542
             ],
             "longitude": 2.159542,
-            "note": 2.5,
-            "Temps_de_la_visite": 59
+            "note": 0.7,
+            "Temps_de_la_visite": 48,
+            "Prix": 23,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "lundi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19180,8 +24364,17 @@ var data=[
                 2.535346
             ],
             "longitude": 2.535346,
-            "note": 0.8,
-            "Temps_de_la_visite": 48
+            "note": 0.6,
+            "Temps_de_la_visite": 53,
+            "Prix": 57,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "dimanche",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19212,8 +24405,17 @@ var data=[
                 3.9676830573373683
             ],
             "longitude": 3.9676830573373683,
-            "note": 4.0,
-            "Temps_de_la_visite": 54
+            "note": 0.2,
+            "Temps_de_la_visite": 43,
+            "Prix": 36,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "vendredi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19245,8 +24447,17 @@ var data=[
                 2.48522
             ],
             "longitude": 2.48522,
-            "note": 2.0,
-            "Temps_de_la_visite": 54
+            "note": 3.9,
+            "Temps_de_la_visite": 44,
+            "Prix": 34,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "vendredi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19278,8 +24489,17 @@ var data=[
                 2.826358
             ],
             "longitude": 2.826358,
-            "note": 1.9,
-            "Temps_de_la_visite": 46
+            "note": 0.9,
+            "Temps_de_la_visite": 24,
+            "Prix": 25,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "mardi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19312,7 +24532,16 @@ var data=[
             ],
             "longitude": 1.567687,
             "note": 1.0,
-            "Temps_de_la_visite": 49
+            "Temps_de_la_visite": 34,
+            "Prix": 60,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "vendredi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19344,8 +24573,17 @@ var data=[
                 1.616349
             ],
             "longitude": 1.616349,
-            "note": 1.0,
-            "Temps_de_la_visite": 32
+            "note": 3.8,
+            "Temps_de_la_visite": 33,
+            "Prix": 20,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "lundi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19378,8 +24616,17 @@ var data=[
                 1.830274
             ],
             "longitude": 1.830274,
-            "note": 3.5,
-            "Temps_de_la_visite": 22
+            "note": 2.3,
+            "Temps_de_la_visite": 48,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "mardi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19411,8 +24658,17 @@ var data=[
                 1.833193
             ],
             "longitude": 1.833193,
-            "note": 3.0,
-            "Temps_de_la_visite": 50
+            "note": 1.5,
+            "Temps_de_la_visite": 59,
+            "Prix": 33,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "lundi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19444,8 +24700,17 @@ var data=[
                 2.343267
             ],
             "longitude": 2.343267,
-            "note": 1.7,
-            "Temps_de_la_visite": 29
+            "note": 1.1,
+            "Temps_de_la_visite": 49,
+            "Prix": 35,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "dimanche",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19477,8 +24742,17 @@ var data=[
                 2.241177
             ],
             "longitude": 2.241177,
-            "note": 1.1,
-            "Temps_de_la_visite": 22
+            "note": 1.5,
+            "Temps_de_la_visite": 51,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "vendredi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19508,8 +24782,17 @@ var data=[
             ],
             "longitude": 2.241177,
             "ref_deps": "9201204",
-            "note": 0.4,
-            "Temps_de_la_visite": 46
+            "note": 4.8,
+            "Temps_de_la_visite": 41,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "samedi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19541,8 +24824,17 @@ var data=[
                 2.603374
             ],
             "longitude": 2.603374,
-            "note": 3.7,
-            "Temps_de_la_visite": 24
+            "note": 0.0,
+            "Temps_de_la_visite": 54,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "mercredi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19574,8 +24866,17 @@ var data=[
                 2.244319
             ],
             "longitude": 2.244319,
-            "note": 0.5,
-            "Temps_de_la_visite": 24
+            "note": 1.5,
+            "Temps_de_la_visite": 32,
+            "Prix": 16,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "lundi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19608,8 +24909,17 @@ var data=[
                 2.1689
             ],
             "longitude": 2.1689,
-            "note": 4.9,
-            "Temps_de_la_visite": 53
+            "note": 2.5,
+            "Temps_de_la_visite": 31,
+            "Prix": 55,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "samedi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19642,8 +24952,17 @@ var data=[
                 2.208286
             ],
             "longitude": 2.208286,
-            "note": 2.8,
-            "Temps_de_la_visite": 42
+            "note": 2.1,
+            "Temps_de_la_visite": 39,
+            "Prix": 52,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "mardi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19676,8 +24995,17 @@ var data=[
                 2.340376
             ],
             "longitude": 2.340376,
-            "note": 4.3,
-            "Temps_de_la_visite": 26
+            "note": 3.2,
+            "Temps_de_la_visite": 49,
+            "Prix": 47,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "jeudi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19709,8 +25037,17 @@ var data=[
                 2.333278
             ],
             "longitude": 2.333278,
-            "note": 1.6,
-            "Temps_de_la_visite": 27
+            "note": 3.3,
+            "Temps_de_la_visite": 35,
+            "Prix": 58,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "dimanche",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19743,8 +25080,17 @@ var data=[
                 2.281879
             ],
             "longitude": 2.281879,
-            "note": 0.3,
-            "Temps_de_la_visite": 26
+            "note": 3.9,
+            "Temps_de_la_visite": 21,
+            "Prix": 57,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "vendredi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19777,8 +25123,17 @@ var data=[
                 2.297248499625773
             ],
             "longitude": 2.297248499625773,
-            "note": 1.7,
-            "Temps_de_la_visite": 28
+            "note": 3.2,
+            "Temps_de_la_visite": 40,
+            "Prix": 60,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "samedi",
+                "mardi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19811,8 +25166,17 @@ var data=[
                 2.3333
             ],
             "longitude": 2.3333,
-            "note": 1.1,
-            "Temps_de_la_visite": 23
+            "note": 0.1,
+            "Temps_de_la_visite": 31,
+            "Prix": 25,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "samedi",
+                "vendredi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19844,8 +25208,17 @@ var data=[
                 2.3378156596817785
             ],
             "longitude": 2.3378156596817785,
-            "note": 4.5,
-            "Temps_de_la_visite": 43
+            "note": 1.2,
+            "Temps_de_la_visite": 47,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "mercredi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19878,8 +25251,17 @@ var data=[
                 2.355608
             ],
             "longitude": 2.355608,
-            "note": 4.4,
-            "Temps_de_la_visite": 41
+            "note": 4.7,
+            "Temps_de_la_visite": 40,
+            "Prix": 46,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "samedi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19912,8 +25294,17 @@ var data=[
                 2.338699
             ],
             "longitude": 2.338699,
-            "note": 3.5,
-            "Temps_de_la_visite": 25
+            "note": 1.6,
+            "Temps_de_la_visite": 28,
+            "Prix": 42,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "mardi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19945,8 +25336,17 @@ var data=[
                 2.322709
             ],
             "longitude": 2.322709,
-            "note": 2.8,
-            "Temps_de_la_visite": 46
+            "note": 0.1,
+            "Temps_de_la_visite": 52,
+            "Prix": 55,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "lundi",
+                "dimanche",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -19978,8 +25378,17 @@ var data=[
                 2.323672
             ],
             "longitude": 2.323672,
-            "note": 4.1,
-            "Temps_de_la_visite": 22
+            "note": 2.5,
+            "Temps_de_la_visite": 47,
+            "Prix": 53,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "vendredi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20011,8 +25420,17 @@ var data=[
                 2.698781
             ],
             "longitude": 2.698781,
-            "note": 0.9,
-            "Temps_de_la_visite": 53
+            "note": 4.8,
+            "Temps_de_la_visite": 40,
+            "Prix": 31,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "samedi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20044,8 +25462,17 @@ var data=[
                 2.635235
             ],
             "longitude": 2.635235,
-            "note": 2.9,
-            "Temps_de_la_visite": 23
+            "note": 1.2,
+            "Temps_de_la_visite": 26,
+            "Prix": 53,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "mercredi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20077,8 +25504,17 @@ var data=[
                 2.171783250055156
             ],
             "longitude": 2.171783250055156,
-            "note": 1.8,
-            "Temps_de_la_visite": 28
+            "note": 2.8,
+            "Temps_de_la_visite": 26,
+            "Prix": 42,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "mardi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20110,8 +25546,17 @@ var data=[
                 2.378424
             ],
             "longitude": 2.378424,
-            "note": 0.1,
-            "Temps_de_la_visite": 30
+            "note": 2.9,
+            "Temps_de_la_visite": 33,
+            "Prix": 26,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "mardi",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20143,8 +25588,17 @@ var data=[
                 2.50695
             ],
             "longitude": 2.50695,
-            "note": 3.1,
-            "Temps_de_la_visite": 28
+            "note": 3.3,
+            "Temps_de_la_visite": 43,
+            "Prix": 57,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "samedi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20177,8 +25631,17 @@ var data=[
                 2.326389
             ],
             "longitude": 2.326389,
-            "note": 5.0,
-            "Temps_de_la_visite": 47
+            "note": 4.5,
+            "Temps_de_la_visite": 57,
+            "Prix": 53,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "jeudi",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20211,8 +25674,17 @@ var data=[
                 2.4233629652344084
             ],
             "longitude": 2.4233629652344084,
-            "note": 4.6,
-            "Temps_de_la_visite": 28
+            "note": 1.0,
+            "Temps_de_la_visite": 50,
+            "Prix": 49,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "jeudi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20245,8 +25717,17 @@ var data=[
                 2.484292
             ],
             "longitude": 2.484292,
-            "note": 0.3,
-            "Temps_de_la_visite": 41
+            "note": 0.4,
+            "Temps_de_la_visite": 24,
+            "Prix": 53,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "dimanche",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20278,8 +25759,17 @@ var data=[
                 2.387072
             ],
             "longitude": 2.387072,
-            "note": 0.5,
-            "Temps_de_la_visite": 48
+            "note": 1.8,
+            "Temps_de_la_visite": 23,
+            "Prix": 53,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "mercredi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20311,8 +25801,17 @@ var data=[
                 2.01579
             ],
             "longitude": 2.01579,
-            "note": 0.6,
-            "Temps_de_la_visite": 59
+            "note": 4.9,
+            "Temps_de_la_visite": 36,
+            "Prix": 29,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "lundi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20344,8 +25843,17 @@ var data=[
                 1.719901
             ],
             "longitude": 1.719901,
-            "note": 0.8,
-            "Temps_de_la_visite": 55
+            "note": 1.4,
+            "Temps_de_la_visite": 21,
+            "Prix": 54,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "mardi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20377,8 +25885,17 @@ var data=[
                 2.109482
             ],
             "longitude": 2.109482,
-            "note": 2.3,
-            "Temps_de_la_visite": 42
+            "note": 2.9,
+            "Temps_de_la_visite": 45,
+            "Prix": 31,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "mardi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20409,8 +25926,17 @@ var data=[
                 1.995035
             ],
             "longitude": 1.995035,
-            "note": 1.7,
-            "Temps_de_la_visite": 44
+            "note": 0.1,
+            "Temps_de_la_visite": 21,
+            "Prix": 56,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "dimanche",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20443,8 +25969,17 @@ var data=[
                 2.094936
             ],
             "longitude": 2.094936,
-            "note": 0.5,
-            "Temps_de_la_visite": 34
+            "note": 4.2,
+            "Temps_de_la_visite": 50,
+            "Prix": 42,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "lundi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20476,8 +26011,17 @@ var data=[
                 2.130624
             ],
             "longitude": 2.130624,
-            "note": 1.2,
-            "Temps_de_la_visite": 47
+            "note": 4.1,
+            "Temps_de_la_visite": 50,
+            "Prix": 37,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "dimanche",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20509,8 +26053,17 @@ var data=[
                 -0.62156
             ],
             "longitude": -0.62156,
-            "note": 0.1,
-            "Temps_de_la_visite": 27
+            "note": 4.7,
+            "Temps_de_la_visite": 41,
+            "Prix": 58,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "vendredi",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20542,8 +26095,17 @@ var data=[
                 -0.904606
             ],
             "longitude": -0.904606,
-            "note": 1.4,
-            "Temps_de_la_visite": 24
+            "note": 0.6,
+            "Temps_de_la_visite": 46,
+            "Prix": 51,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20575,8 +26137,17 @@ var data=[
                 -0.587689
             ],
             "longitude": -0.587689,
-            "note": 2.9,
-            "Temps_de_la_visite": 23
+            "note": 4.8,
+            "Temps_de_la_visite": 51,
+            "Prix": 32,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "dimanche",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20609,8 +26180,17 @@ var data=[
                 0.191032
             ],
             "longitude": 0.191032,
-            "note": 4.3,
-            "Temps_de_la_visite": 45
+            "note": 2.6,
+            "Temps_de_la_visite": 25,
+            "Prix": 41,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "vendredi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20642,7 +26222,16 @@ var data=[
             ],
             "longitude": -0.033249,
             "note": 4.8,
-            "Temps_de_la_visite": 25
+            "Temps_de_la_visite": 45,
+            "Prix": 31,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "mardi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20675,8 +26264,17 @@ var data=[
                 0.598806
             ],
             "longitude": 0.598806,
-            "note": 3.6,
-            "Temps_de_la_visite": 48
+            "note": 0.8,
+            "Temps_de_la_visite": 47,
+            "Prix": 17,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "lundi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20708,8 +26306,17 @@ var data=[
                 1.386877
             ],
             "longitude": 1.386877,
-            "note": 2.1,
-            "Temps_de_la_visite": 53
+            "note": 4.9,
+            "Temps_de_la_visite": 53,
+            "Prix": 18,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "mercredi",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20741,8 +26348,17 @@ var data=[
                 1.168552
             ],
             "longitude": 1.168552,
-            "note": 2.7,
-            "Temps_de_la_visite": 33
+            "note": 1.7,
+            "Temps_de_la_visite": 39,
+            "Prix": 33,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "dimanche",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20775,8 +26391,17 @@ var data=[
                 -0.806137
             ],
             "longitude": -0.806137,
-            "note": 1.4,
-            "Temps_de_la_visite": 29
+            "note": 2.1,
+            "Temps_de_la_visite": 30,
+            "Prix": 31,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "samedi",
+                "jeudi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20809,8 +26434,17 @@ var data=[
                 -1.625439
             ],
             "longitude": -1.625439,
-            "note": 1.8,
-            "Temps_de_la_visite": 57
+            "note": 2.2,
+            "Temps_de_la_visite": 51,
+            "Prix": 53,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "lundi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20843,8 +26477,17 @@ var data=[
                 -1.6526443524701655
             ],
             "longitude": -1.6526443524701655,
-            "note": 1.8,
-            "Temps_de_la_visite": 34
+            "note": 4.4,
+            "Temps_de_la_visite": 29,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "samedi",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20877,8 +26520,17 @@ var data=[
                 -1.074964
             ],
             "longitude": -1.074964,
-            "note": 1.3,
-            "Temps_de_la_visite": 24
+            "note": 4.2,
+            "Temps_de_la_visite": 24,
+            "Prix": 45,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "vendredi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20911,8 +26563,17 @@ var data=[
                 -1.037895
             ],
             "longitude": -1.037895,
-            "note": 0.2,
-            "Temps_de_la_visite": 57
+            "note": 3.3,
+            "Temps_de_la_visite": 29,
+            "Prix": 48,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "jeudi",
+                "mercredi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20945,8 +26606,17 @@ var data=[
                 0.083508
             ],
             "longitude": 0.083508,
-            "note": 2.8,
-            "Temps_de_la_visite": 54
+            "note": 3.8,
+            "Temps_de_la_visite": 28,
+            "Prix": 25,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "lundi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -20979,8 +26649,17 @@ var data=[
                 -0.5149048823720657
             ],
             "longitude": -0.5149048823720657,
-            "note": 3.7,
-            "Temps_de_la_visite": 51
+            "note": 0.1,
+            "Temps_de_la_visite": 38,
+            "Prix": 18,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "lundi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21011,8 +26690,17 @@ var data=[
                 0.547043
             ],
             "longitude": 0.547043,
-            "note": 1.1,
-            "Temps_de_la_visite": 31
+            "note": 4.9,
+            "Temps_de_la_visite": 33,
+            "Prix": 50,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "samedi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21045,8 +26733,17 @@ var data=[
                 0.952073
             ],
             "longitude": 0.952073,
-            "note": 1.8,
-            "Temps_de_la_visite": 40
+            "note": 4.2,
+            "Temps_de_la_visite": 32,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "vendredi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21079,8 +26776,17 @@ var data=[
                 1.071756
             ],
             "longitude": 1.071756,
-            "note": 1.2,
-            "Temps_de_la_visite": 25
+            "note": 3.6,
+            "Temps_de_la_visite": 53,
+            "Prix": 51,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "mardi",
+                "dimanche",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21112,8 +26818,17 @@ var data=[
                 1.006479
             ],
             "longitude": 1.006479,
-            "note": 4.0,
-            "Temps_de_la_visite": 45
+            "note": 0.1,
+            "Temps_de_la_visite": 28,
+            "Prix": 22,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "lundi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21146,8 +26861,17 @@ var data=[
                 1.081736
             ],
             "longitude": 1.081736,
-            "note": 1.7,
-            "Temps_de_la_visite": 48
+            "note": 2.7,
+            "Temps_de_la_visite": 38,
+            "Prix": 55,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "mardi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21180,8 +26904,17 @@ var data=[
                 0.754906
             ],
             "longitude": 0.754906,
-            "note": 4.1,
-            "Temps_de_la_visite": 31
+            "note": 1.1,
+            "Temps_de_la_visite": 60,
+            "Prix": 40,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "mardi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21214,8 +26947,17 @@ var data=[
                 0.149932
             ],
             "longitude": 0.149932,
-            "note": 2.9,
-            "Temps_de_la_visite": 59
+            "note": 2.3,
+            "Temps_de_la_visite": 59,
+            "Prix": 25,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "dimanche",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21247,8 +26989,17 @@ var data=[
                 0.160838
             ],
             "longitude": 0.160838,
-            "note": 3.4,
-            "Temps_de_la_visite": 39
+            "note": 5.0,
+            "Temps_de_la_visite": 21,
+            "Prix": 50,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "mercredi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21281,8 +27032,17 @@ var data=[
                 0.15122268049296822
             ],
             "longitude": 0.15122268049296822,
-            "note": 1.1,
-            "Temps_de_la_visite": 60
+            "note": 0.4,
+            "Temps_de_la_visite": 36,
+            "Prix": 32,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "dimanche",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21314,8 +27074,17 @@ var data=[
                 0.152569
             ],
             "longitude": 0.152569,
-            "note": 4.4,
-            "Temps_de_la_visite": 26
+            "note": 2.3,
+            "Temps_de_la_visite": 31,
+            "Prix": 33,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "mardi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21347,8 +27116,17 @@ var data=[
                 -0.627956
             ],
             "longitude": -0.627956,
-            "note": 0.8,
-            "Temps_de_la_visite": 53
+            "note": 3.2,
+            "Temps_de_la_visite": 22,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "mardi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21381,8 +27159,17 @@ var data=[
                 1.535911
             ],
             "longitude": 1.535911,
-            "note": 3.4,
-            "Temps_de_la_visite": 21
+            "note": 3.8,
+            "Temps_de_la_visite": 53,
+            "Prix": 37,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "dimanche",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21415,8 +27202,17 @@ var data=[
                 1.770791
             ],
             "longitude": 1.770791,
-            "note": 3.0,
-            "Temps_de_la_visite": 59
+            "note": 1.6,
+            "Temps_de_la_visite": 23,
+            "Prix": 17,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "vendredi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21448,8 +27244,17 @@ var data=[
                 -0.454351
             ],
             "longitude": -0.454351,
-            "note": 4.0,
-            "Temps_de_la_visite": 40
+            "note": 1.6,
+            "Temps_de_la_visite": 37,
+            "Prix": 29,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "samedi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21481,8 +27286,17 @@ var data=[
                 0.720943
             ],
             "longitude": 0.720943,
-            "note": 1.8,
-            "Temps_de_la_visite": 60
+            "note": 2.1,
+            "Temps_de_la_visite": 45,
+            "Prix": 33,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "dimanche",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21512,8 +27326,17 @@ var data=[
             ],
             "longitude": 0.815624,
             "ref_deps": "2437901",
-            "note": 3.8,
-            "Temps_de_la_visite": 39
+            "note": 4.9,
+            "Temps_de_la_visite": 33,
+            "Prix": 24,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "mercredi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21546,8 +27369,17 @@ var data=[
                 -0.579413
             ],
             "longitude": -0.579413,
-            "note": 3.5,
-            "Temps_de_la_visite": 43
+            "note": 0.4,
+            "Temps_de_la_visite": 45,
+            "Prix": 28,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "dimanche",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21580,8 +27412,17 @@ var data=[
                 -0.580085
             ],
             "longitude": -0.580085,
-            "note": 2.6,
-            "Temps_de_la_visite": 58
+            "note": 2.9,
+            "Temps_de_la_visite": 53,
+            "Prix": 45,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "lundi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21614,8 +27455,17 @@ var data=[
                 1.274322
             ],
             "longitude": 1.274322,
-            "note": 3.3,
-            "Temps_de_la_visite": 27
+            "note": 2.3,
+            "Temps_de_la_visite": 43,
+            "Prix": 26,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "jeudi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21647,8 +27497,17 @@ var data=[
                 1.252114
             ],
             "longitude": 1.252114,
-            "note": 3.5,
-            "Temps_de_la_visite": 27
+            "note": 1.8,
+            "Temps_de_la_visite": 27,
+            "Prix": 37,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "samedi",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21680,8 +27539,17 @@ var data=[
                 0.256362
             ],
             "longitude": 0.256362,
-            "note": 3.3,
-            "Temps_de_la_visite": 25
+            "note": 0.8,
+            "Temps_de_la_visite": 25,
+            "Prix": 41,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "mercredi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21714,8 +27582,17 @@ var data=[
                 0.339995
             ],
             "longitude": 0.339995,
-            "note": 4.5,
-            "Temps_de_la_visite": 60
+            "note": 5.0,
+            "Temps_de_la_visite": 39,
+            "Prix": 58,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "mercredi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21748,8 +27625,17 @@ var data=[
                 -0.427534
             ],
             "longitude": -0.427534,
-            "note": 2.6,
-            "Temps_de_la_visite": 46
+            "note": 0.3,
+            "Temps_de_la_visite": 44,
+            "Prix": 55,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "dimanche",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21781,8 +27667,17 @@ var data=[
                 -1.41606
             ],
             "longitude": -1.41606,
-            "note": 4.8,
-            "Temps_de_la_visite": 31
+            "note": 1.2,
+            "Temps_de_la_visite": 51,
+            "Prix": 28,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "samedi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21814,8 +27709,17 @@ var data=[
                 -0.303415
             ],
             "longitude": -0.303415,
-            "note": 3.4,
-            "Temps_de_la_visite": 58
+            "note": 0.8,
+            "Temps_de_la_visite": 52,
+            "Prix": 56,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "dimanche",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21847,8 +27751,17 @@ var data=[
                 -1.609198
             ],
             "longitude": -1.609198,
-            "note": 4.1,
-            "Temps_de_la_visite": 30
+            "note": 4.9,
+            "Temps_de_la_visite": 39,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "lundi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21881,8 +27794,17 @@ var data=[
                 0.6478487283875319
             ],
             "longitude": 0.6478487283875319,
-            "note": 4.9,
-            "Temps_de_la_visite": 21
+            "note": 3.3,
+            "Temps_de_la_visite": 45,
+            "Prix": 28,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "samedi",
+                "dimanche",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21914,8 +27836,17 @@ var data=[
                 2.116173
             ],
             "longitude": 2.116173,
-            "note": 2.2,
-            "Temps_de_la_visite": 58
+            "note": 2.3,
+            "Temps_de_la_visite": 51,
+            "Prix": 39,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21947,8 +27878,17 @@ var data=[
                 2.355531
             ],
             "longitude": 2.355531,
-            "note": 2.4,
-            "Temps_de_la_visite": 44
+            "note": 0.1,
+            "Temps_de_la_visite": 45,
+            "Prix": 60,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "lundi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -21980,8 +27920,17 @@ var data=[
                 3.0261852745179603
             ],
             "longitude": 3.0261852745179603,
-            "note": 1.3,
-            "Temps_de_la_visite": 35
+            "note": 2.7,
+            "Temps_de_la_visite": 30,
+            "Prix": 53,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "vendredi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22013,8 +27962,17 @@ var data=[
                 2.576408
             ],
             "longitude": 2.576408,
-            "note": 1.8,
-            "Temps_de_la_visite": 59
+            "note": 1.6,
+            "Temps_de_la_visite": 59,
+            "Prix": 43,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "mardi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22046,8 +28004,17 @@ var data=[
                 2.587674
             ],
             "longitude": 2.587674,
-            "note": 3.5,
-            "Temps_de_la_visite": 51
+            "note": 4.7,
+            "Temps_de_la_visite": 28,
+            "Prix": 60,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "dimanche",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22079,8 +28046,17 @@ var data=[
                 2.036793
             ],
             "longitude": 2.036793,
-            "note": 2.9,
-            "Temps_de_la_visite": 58
+            "note": 1.5,
+            "Temps_de_la_visite": 34,
+            "Prix": 16,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "lundi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22112,8 +28088,17 @@ var data=[
                 3.606934
             ],
             "longitude": 3.606934,
-            "note": 1.4,
-            "Temps_de_la_visite": 28
+            "note": 3.7,
+            "Temps_de_la_visite": 23,
+            "Prix": 29,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "mercredi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22145,8 +28130,17 @@ var data=[
                 4.362815
             ],
             "longitude": 4.362815,
-            "note": 3.1,
-            "Temps_de_la_visite": 49
+            "note": 1.8,
+            "Temps_de_la_visite": 28,
+            "Prix": 27,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "mardi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22179,8 +28173,17 @@ var data=[
                 4.359619
             ],
             "longitude": 4.359619,
-            "note": 2.4,
-            "Temps_de_la_visite": 55
+            "note": 3.4,
+            "Temps_de_la_visite": 26,
+            "Prix": 16,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "dimanche",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22213,8 +28216,17 @@ var data=[
                 4.650869
             ],
             "longitude": 4.650869,
-            "note": 1.3,
-            "Temps_de_la_visite": 57
+            "note": 3.6,
+            "Temps_de_la_visite": 22,
+            "Prix": 46,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "mercredi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22247,8 +28259,17 @@ var data=[
                 4.431238
             ],
             "longitude": 4.431238,
-            "note": 1.2,
-            "Temps_de_la_visite": 40
+            "note": 3.5,
+            "Temps_de_la_visite": 56,
+            "Prix": 17,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "samedi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22281,8 +28302,17 @@ var data=[
                 3.468587
             ],
             "longitude": 3.468587,
-            "note": 1.2,
-            "Temps_de_la_visite": 42
+            "note": 0.4,
+            "Temps_de_la_visite": 50,
+            "Prix": 59,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "samedi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22315,8 +28345,17 @@ var data=[
                 3.215208
             ],
             "longitude": 3.215208,
-            "note": 4.8,
-            "Temps_de_la_visite": 52
+            "note": 1.8,
+            "Temps_de_la_visite": 31,
+            "Prix": 41,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "mercredi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22348,8 +28387,17 @@ var data=[
                 4.133656
             ],
             "longitude": 4.133656,
-            "note": 2.0,
-            "Temps_de_la_visite": 22
+            "note": 0.3,
+            "Temps_de_la_visite": 26,
+            "Prix": 59,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "mercredi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22381,8 +28429,17 @@ var data=[
                 3.880183
             ],
             "longitude": 3.880183,
-            "note": 0.2,
-            "Temps_de_la_visite": 56
+            "note": 4.6,
+            "Temps_de_la_visite": 33,
+            "Prix": 59,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "jeudi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22415,8 +28472,17 @@ var data=[
                 3.878349
             ],
             "longitude": 3.878349,
-            "note": 0.7,
-            "Temps_de_la_visite": 36
+            "note": 3.1,
+            "Temps_de_la_visite": 36,
+            "Prix": 37,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "dimanche",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22448,8 +28514,17 @@ var data=[
                 3.422892
             ],
             "longitude": 3.422892,
-            "note": 1.1,
-            "Temps_de_la_visite": 54
+            "note": 3.9,
+            "Temps_de_la_visite": 24,
+            "Prix": 22,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "samedi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22481,8 +28556,17 @@ var data=[
                 1.653939
             ],
             "longitude": 1.653939,
-            "note": 3.9,
-            "Temps_de_la_visite": 29
+            "note": 1.6,
+            "Temps_de_la_visite": 23,
+            "Prix": 58,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "lundi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22514,8 +28598,17 @@ var data=[
                 1.47721
             ],
             "longitude": 1.47721,
-            "note": 3.7,
-            "Temps_de_la_visite": 52
+            "note": 3.6,
+            "Temps_de_la_visite": 22,
+            "Prix": 59,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "mercredi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22548,8 +28641,17 @@ var data=[
                 3.499291
             ],
             "longitude": 3.499291,
-            "note": 2.2,
-            "Temps_de_la_visite": 43
+            "note": 2.4,
+            "Temps_de_la_visite": 22,
+            "Prix": 30,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "vendredi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22581,8 +28683,17 @@ var data=[
                 2.74849
             ],
             "longitude": 2.74849,
-            "note": 4.1,
-            "Temps_de_la_visite": 29
+            "note": 1.3,
+            "Temps_de_la_visite": 53,
+            "Prix": 47,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "mercredi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22615,8 +28726,17 @@ var data=[
                 3.089905
             ],
             "longitude": 3.089905,
-            "note": 3.3,
-            "Temps_de_la_visite": 27
+            "note": 0.5,
+            "Temps_de_la_visite": 23,
+            "Prix": 47,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "vendredi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22648,8 +28768,17 @@ var data=[
                 2.143551
             ],
             "longitude": 2.143551,
-            "note": 0.2,
-            "Temps_de_la_visite": 60
+            "note": 3.5,
+            "Temps_de_la_visite": 43,
+            "Prix": 45,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "samedi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22681,8 +28810,17 @@ var data=[
                 1.811377
             ],
             "longitude": 1.811377,
-            "note": 3.2,
-            "Temps_de_la_visite": 35
+            "note": 2.4,
+            "Temps_de_la_visite": 46,
+            "Prix": 42,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "jeudi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22714,8 +28852,17 @@ var data=[
                 1.294738
             ],
             "longitude": 1.294738,
-            "note": 3.9,
-            "Temps_de_la_visite": 54
+            "note": 2.8,
+            "Temps_de_la_visite": 32,
+            "Prix": 42,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "samedi",
+                "jeudi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22747,8 +28894,17 @@ var data=[
                 1.085296
             ],
             "longitude": 1.085296,
-            "note": 1.7,
-            "Temps_de_la_visite": 22
+            "note": 1.4,
+            "Temps_de_la_visite": 29,
+            "Prix": 17,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "samedi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22780,8 +28936,17 @@ var data=[
                 1.351385
             ],
             "longitude": 1.351385,
-            "note": 3.1,
-            "Temps_de_la_visite": 21
+            "note": 2.6,
+            "Temps_de_la_visite": 60,
+            "Prix": 55,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "jeudi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22813,8 +28978,17 @@ var data=[
                 1.756727
             ],
             "longitude": 1.756727,
-            "note": 3.8,
-            "Temps_de_la_visite": 46
+            "note": 4.3,
+            "Temps_de_la_visite": 46,
+            "Prix": 39,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "samedi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22847,8 +29021,17 @@ var data=[
                 -0.555485
             ],
             "longitude": -0.555485,
-            "note": 2.7,
-            "Temps_de_la_visite": 40
+            "note": 3.8,
+            "Temps_de_la_visite": 26,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "samedi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22880,8 +29063,17 @@ var data=[
                 -0.551841
             ],
             "longitude": -0.551841,
-            "note": 0.8,
-            "Temps_de_la_visite": 34
+            "note": 1.9,
+            "Temps_de_la_visite": 38,
+            "Prix": 35,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "dimanche",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22913,8 +29105,17 @@ var data=[
                 -0.546399
             ],
             "longitude": -0.546399,
-            "note": 0.0,
-            "Temps_de_la_visite": 41
+            "note": 0.6,
+            "Temps_de_la_visite": 51,
+            "Prix": 56,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "dimanche",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22944,8 +29145,17 @@ var data=[
                 0.05295
             ],
             "longitude": 0.05295,
-            "note": 0.3,
-            "Temps_de_la_visite": 26
+            "note": 2.2,
+            "Temps_de_la_visite": 29,
+            "Prix": 27,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "mercredi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -22977,8 +29187,17 @@ var data=[
                 -0.491518
             ],
             "longitude": -0.491518,
-            "note": 4.3,
-            "Temps_de_la_visite": 23
+            "note": 4.0,
+            "Temps_de_la_visite": 27,
+            "Prix": 19,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "mercredi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23010,8 +29229,17 @@ var data=[
                 -0.630644
             ],
             "longitude": -0.630644,
-            "note": 2.3,
-            "Temps_de_la_visite": 27
+            "note": 3.7,
+            "Temps_de_la_visite": 54,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "dimanche",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23044,8 +29272,17 @@ var data=[
                 -0.7039436064897823
             ],
             "longitude": -0.7039436064897823,
-            "note": 0.9,
-            "Temps_de_la_visite": 49
+            "note": 0.6,
+            "Temps_de_la_visite": 41,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "lundi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23077,8 +29314,17 @@ var data=[
                 0.1977
             ],
             "longitude": 0.1977,
-            "note": 0.2,
-            "Temps_de_la_visite": 21
+            "note": 0.0,
+            "Temps_de_la_visite": 51,
+            "Prix": 27,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "mercredi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23110,8 +29356,17 @@ var data=[
                 0.208417
             ],
             "longitude": 0.208417,
-            "note": 4.7,
-            "Temps_de_la_visite": 53
+            "note": 0.9,
+            "Temps_de_la_visite": 43,
+            "Prix": 59,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23143,8 +29398,17 @@ var data=[
                 -0.630566
             ],
             "longitude": -0.630566,
-            "note": 3.6,
-            "Temps_de_la_visite": 46
+            "note": 2.7,
+            "Temps_de_la_visite": 26,
+            "Prix": 17,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "lundi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23176,8 +29440,17 @@ var data=[
                 -0.806809739064941
             ],
             "longitude": -0.806809739064941,
-            "note": 1.3,
-            "Temps_de_la_visite": 21
+            "note": 2.1,
+            "Temps_de_la_visite": 56,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "mardi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23210,8 +29483,17 @@ var data=[
                 -1.428828
             ],
             "longitude": -1.428828,
-            "note": 1.0,
-            "Temps_de_la_visite": 26
+            "note": 4.3,
+            "Temps_de_la_visite": 31,
+            "Prix": 44,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23244,8 +29526,17 @@ var data=[
                 -0.849535
             ],
             "longitude": -0.849535,
-            "note": 1.7,
-            "Temps_de_la_visite": 25
+            "note": 4.1,
+            "Temps_de_la_visite": 54,
+            "Prix": 40,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "mardi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23278,8 +29569,17 @@ var data=[
                 5.76727
             ],
             "longitude": 5.76727,
-            "note": 4.4,
-            "Temps_de_la_visite": 22
+            "note": 1.8,
+            "Temps_de_la_visite": 33,
+            "Prix": 42,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "vendredi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23312,7 +29612,16 @@ var data=[
             ],
             "longitude": 6.040734,
             "note": 2.5,
-            "Temps_de_la_visite": 53
+            "Temps_de_la_visite": 49,
+            "Prix": 53,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "vendredi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23344,8 +29653,17 @@ var data=[
                 5.654370035822609
             ],
             "longitude": 5.654370035822609,
-            "note": 0.2,
-            "Temps_de_la_visite": 54
+            "note": 3.5,
+            "Temps_de_la_visite": 46,
+            "Prix": 26,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23377,8 +29695,17 @@ var data=[
                 5.944839
             ],
             "longitude": 5.944839,
-            "note": 2.4,
-            "Temps_de_la_visite": 57
+            "note": 1.4,
+            "Temps_de_la_visite": 28,
+            "Prix": 22,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "lundi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23410,8 +29737,17 @@ var data=[
                 7.112317
             ],
             "longitude": 7.112317,
-            "note": 1.7,
-            "Temps_de_la_visite": 46
+            "note": 3.9,
+            "Temps_de_la_visite": 23,
+            "Prix": 51,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "dimanche",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23444,8 +29780,17 @@ var data=[
                 7.145213
             ],
             "longitude": 7.145213,
-            "note": 3.4,
-            "Temps_de_la_visite": 36
+            "note": 4.6,
+            "Temps_de_la_visite": 58,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "mardi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23477,8 +29822,17 @@ var data=[
                 6.921091
             ],
             "longitude": 6.921091,
-            "note": 3.3,
-            "Temps_de_la_visite": 29
+            "note": 3.5,
+            "Temps_de_la_visite": 58,
+            "Prix": 17,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "vendredi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23510,8 +29864,17 @@ var data=[
                 6.922
             ],
             "longitude": 6.922,
-            "note": 3.7,
-            "Temps_de_la_visite": 29
+            "note": 0.2,
+            "Temps_de_la_visite": 36,
+            "Prix": 43,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "vendredi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23543,8 +29906,17 @@ var data=[
                 7.019853
             ],
             "longitude": 7.019853,
-            "note": 4.4,
-            "Temps_de_la_visite": 22
+            "note": 2.3,
+            "Temps_de_la_visite": 47,
+            "Prix": 47,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "lundi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23576,8 +29948,17 @@ var data=[
                 7.215461
             ],
             "longitude": 7.215461,
-            "note": 4.8,
-            "Temps_de_la_visite": 23
+            "note": 0.7,
+            "Temps_de_la_visite": 42,
+            "Prix": 19,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "dimanche",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23609,8 +29990,17 @@ var data=[
                 7.191059
             ],
             "longitude": 7.191059,
-            "note": 3.8,
-            "Temps_de_la_visite": 50
+            "note": 0.1,
+            "Temps_de_la_visite": 27,
+            "Prix": 59,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "mercredi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23642,8 +30032,17 @@ var data=[
                 7.593216
             ],
             "longitude": 7.593216,
-            "note": 1.0,
-            "Temps_de_la_visite": 42
+            "note": 3.8,
+            "Temps_de_la_visite": 24,
+            "Prix": 24,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "mercredi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23676,8 +30075,17 @@ var data=[
                 7.052887
             ],
             "longitude": 7.052887,
-            "note": 4.6,
-            "Temps_de_la_visite": 34
+            "note": 4.7,
+            "Temps_de_la_visite": 35,
+            "Prix": 54,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "mercredi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23710,8 +30118,17 @@ var data=[
                 7.311425
             ],
             "longitude": 7.311425,
-            "note": 3.2,
-            "Temps_de_la_visite": 37
+            "note": 4.7,
+            "Temps_de_la_visite": 34,
+            "Prix": 52,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "samedi",
+                "jeudi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23744,8 +30161,17 @@ var data=[
                 5.423327
             ],
             "longitude": 5.423327,
-            "note": 2.1,
-            "Temps_de_la_visite": 55
+            "note": 3.3,
+            "Temps_de_la_visite": 44,
+            "Prix": 39,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "vendredi",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23778,8 +30204,17 @@ var data=[
                 5.540037
             ],
             "longitude": 5.540037,
-            "note": 1.1,
-            "Temps_de_la_visite": 57
+            "note": 0.9,
+            "Temps_de_la_visite": 22,
+            "Prix": 57,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "mercredi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23811,8 +30246,17 @@ var data=[
                 5.261964
             ],
             "longitude": 5.261964,
-            "note": 3.5,
-            "Temps_de_la_visite": 33
+            "note": 2.0,
+            "Temps_de_la_visite": 56,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "mardi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23845,8 +30289,17 @@ var data=[
                 5.367602
             ],
             "longitude": 5.367602,
-            "note": 1.7,
-            "Temps_de_la_visite": 33
+            "note": 4.4,
+            "Temps_de_la_visite": 56,
+            "Prix": 19,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "mercredi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23878,8 +30331,17 @@ var data=[
                 5.389874
             ],
             "longitude": 5.389874,
-            "note": 3.3,
-            "Temps_de_la_visite": 43
+            "note": 3.4,
+            "Temps_de_la_visite": 55,
+            "Prix": 59,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "samedi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23912,8 +30374,17 @@ var data=[
                 5.394041457684137
             ],
             "longitude": 5.394041457684137,
-            "note": 2.1,
-            "Temps_de_la_visite": 57
+            "note": 2.2,
+            "Temps_de_la_visite": 31,
+            "Prix": 34,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "mercredi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23945,8 +30416,17 @@ var data=[
                 5.361071769324869
             ],
             "longitude": 5.361071769324869,
-            "note": 1.5,
-            "Temps_de_la_visite": 32
+            "note": 4.1,
+            "Temps_de_la_visite": 38,
+            "Prix": 29,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "mercredi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -23978,8 +30458,17 @@ var data=[
                 5.374162
             ],
             "longitude": 5.374162,
-            "note": 3.0,
-            "Temps_de_la_visite": 28
+            "note": 2.8,
+            "Temps_de_la_visite": 21,
+            "Prix": 18,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24011,8 +30500,17 @@ var data=[
                 5.392866
             ],
             "longitude": 5.392866,
-            "note": 3.2,
-            "Temps_de_la_visite": 24
+            "note": 0.0,
+            "Temps_de_la_visite": 35,
+            "Prix": 18,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "lundi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24045,8 +30543,17 @@ var data=[
                 5.295178
             ],
             "longitude": 5.295178,
-            "note": 2.2,
-            "Temps_de_la_visite": 24
+            "note": 4.8,
+            "Temps_de_la_visite": 38,
+            "Prix": 29,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "mardi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24079,8 +30586,17 @@ var data=[
                 5.072251
             ],
             "longitude": 5.072251,
-            "note": 2.9,
-            "Temps_de_la_visite": 47
+            "note": 4.2,
+            "Temps_de_la_visite": 57,
+            "Prix": 17,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "mercredi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24112,8 +30628,17 @@ var data=[
                 6.340584
             ],
             "longitude": 6.340584,
-            "note": 1.6,
-            "Temps_de_la_visite": 36
+            "note": 0.8,
+            "Temps_de_la_visite": 36,
+            "Prix": 57,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "vendredi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24146,8 +30671,17 @@ var data=[
                 6.721402172498896
             ],
             "longitude": 6.721402172498896,
-            "note": 1.7,
-            "Temps_de_la_visite": 33
+            "note": 0.3,
+            "Temps_de_la_visite": 53,
+            "Prix": 29,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "samedi",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24179,8 +30713,17 @@ var data=[
                 6.130519
             ],
             "longitude": 6.130519,
-            "note": 3.0,
-            "Temps_de_la_visite": 49
+            "note": 2.6,
+            "Temps_de_la_visite": 31,
+            "Prix": 22,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "jeudi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24213,8 +30756,17 @@ var data=[
                 5.931994
             ],
             "longitude": 5.931994,
-            "note": 3.4,
-            "Temps_de_la_visite": 42
+            "note": 1.9,
+            "Temps_de_la_visite": 30,
+            "Prix": 23,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "jeudi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24247,8 +30799,17 @@ var data=[
                 5.910861
             ],
             "longitude": 5.910861,
-            "note": 1.7,
-            "Temps_de_la_visite": 33
+            "note": 4.5,
+            "Temps_de_la_visite": 32,
+            "Prix": 24,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "mercredi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24280,8 +30841,17 @@ var data=[
                 4.803388
             ],
             "longitude": 4.803388,
-            "note": 0.1,
-            "Temps_de_la_visite": 49
+            "note": 2.1,
+            "Temps_de_la_visite": 28,
+            "Prix": 44,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "dimanche",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24314,8 +30884,17 @@ var data=[
                 5.046269
             ],
             "longitude": 5.046269,
-            "note": 3.5,
-            "Temps_de_la_visite": 59
+            "note": 0.2,
+            "Temps_de_la_visite": 23,
+            "Prix": 48,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "mardi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24348,8 +30927,17 @@ var data=[
                 5.038553
             ],
             "longitude": 5.038553,
-            "note": 2.9,
-            "Temps_de_la_visite": 36
+            "note": 1.4,
+            "Temps_de_la_visite": 32,
+            "Prix": 50,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "mercredi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24379,8 +30967,17 @@ var data=[
             ],
             "longitude": 5.3636267092803775,
             "ref_deps": "8406801",
-            "note": 1.8,
-            "Temps_de_la_visite": 48
+            "note": 2.5,
+            "Temps_de_la_visite": 29,
+            "Prix": 52,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "lundi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24411,8 +31008,17 @@ var data=[
                 -61.537737
             ],
             "longitude": -61.537737,
-            "note": 0.1,
-            "Temps_de_la_visite": 43
+            "note": 1.4,
+            "Temps_de_la_visite": 35,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "vendredi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24444,8 +31050,17 @@ var data=[
                 -52.32837
             ],
             "longitude": -52.32837,
-            "note": 1.9,
-            "Temps_de_la_visite": 39
+            "note": 2.8,
+            "Temps_de_la_visite": 41,
+            "Prix": 34,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "samedi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24477,8 +31092,17 @@ var data=[
                 55.451452
             ],
             "longitude": 55.451452,
-            "note": 1.1,
-            "Temps_de_la_visite": 41
+            "note": 2.8,
+            "Temps_de_la_visite": 60,
+            "Prix": 27,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "mardi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24510,8 +31134,17 @@ var data=[
                 55.264409385729984
             ],
             "longitude": 55.264409385729984,
-            "note": 3.2,
-            "Temps_de_la_visite": 26
+            "note": 4.4,
+            "Temps_de_la_visite": 21,
+            "Prix": 50,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "mardi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24543,8 +31176,17 @@ var data=[
                 -60.909569
             ],
             "longitude": -60.909569,
-            "note": 4.9,
-            "Temps_de_la_visite": 57
+            "note": 3.1,
+            "Temps_de_la_visite": 27,
+            "Prix": 22,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "samedi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24574,8 +31216,17 @@ var data=[
             ],
             "longitude": 45.282721,
             "ref_deps": "9760801",
-            "note": 4.9,
-            "Temps_de_la_visite": 44
+            "note": 3.7,
+            "Temps_de_la_visite": 53,
+            "Prix": 54,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "vendredi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24607,8 +31258,17 @@ var data=[
                 5.555588
             ],
             "longitude": 5.555588,
-            "note": 2.5,
-            "Temps_de_la_visite": 57
+            "note": 4.3,
+            "Temps_de_la_visite": 37,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "samedi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24640,8 +31300,17 @@ var data=[
                 5.648075546904289
             ],
             "longitude": 5.648075546904289,
-            "note": 0.4,
-            "Temps_de_la_visite": 50
+            "note": 4.6,
+            "Temps_de_la_visite": 41,
+            "Prix": 37,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "jeudi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24672,8 +31341,17 @@ var data=[
                 5.179502
             ],
             "longitude": 5.179502,
-            "note": 0.3,
-            "Temps_de_la_visite": 53
+            "note": 1.8,
+            "Temps_de_la_visite": 27,
+            "Prix": 15,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "lundi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24705,8 +31383,17 @@ var data=[
                 5.129264
             ],
             "longitude": 5.129264,
-            "note": 2.2,
-            "Temps_de_la_visite": 49
+            "note": 2.6,
+            "Temps_de_la_visite": 52,
+            "Prix": 29,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "jeudi",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24738,8 +31425,17 @@ var data=[
                 5.032151
             ],
             "longitude": 5.032151,
-            "note": 0.2,
-            "Temps_de_la_visite": 49
+            "note": 0.0,
+            "Temps_de_la_visite": 25,
+            "Prix": 51,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "dimanche",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24772,8 +31468,17 @@ var data=[
                 3.748142
             ],
             "longitude": 3.748142,
-            "note": 0.9,
-            "Temps_de_la_visite": 44
+            "note": 1.5,
+            "Temps_de_la_visite": 30,
+            "Prix": 21,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "mardi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24805,8 +31510,17 @@ var data=[
                 3.419803
             ],
             "longitude": 3.419803,
-            "note": 1.2,
-            "Temps_de_la_visite": 36
+            "note": 1.5,
+            "Temps_de_la_visite": 46,
+            "Prix": 37,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "lundi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24839,8 +31553,17 @@ var data=[
                 4.668129
             ],
             "longitude": 4.668129,
-            "note": 1.4,
-            "Temps_de_la_visite": 23
+            "note": 0.1,
+            "Temps_de_la_visite": 43,
+            "Prix": 48,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "samedi",
+                "jeudi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24873,8 +31596,17 @@ var data=[
                 4.831838
             ],
             "longitude": 4.831838,
-            "note": 2.8,
-            "Temps_de_la_visite": 29
+            "note": 4.6,
+            "Temps_de_la_visite": 27,
+            "Prix": 59,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "mercredi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24906,8 +31638,17 @@ var data=[
                 2.444912
             ],
             "longitude": 2.444912,
-            "note": 0.9,
-            "Temps_de_la_visite": 46
+            "note": 0.3,
+            "Temps_de_la_visite": 56,
+            "Prix": 52,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "samedi",
+                "mercredi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24939,8 +31680,17 @@ var data=[
                 3.883456073071687
             ],
             "longitude": 3.883456073071687,
-            "note": 1.2,
-            "Temps_de_la_visite": 46
+            "note": 2.2,
+            "Temps_de_la_visite": 33,
+            "Prix": 55,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "dimanche",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -24973,8 +31723,17 @@ var data=[
                 6.040579
             ],
             "longitude": 6.040579,
-            "note": 0.9,
-            "Temps_de_la_visite": 49
+            "note": 2.6,
+            "Temps_de_la_visite": 31,
+            "Prix": 29,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "lundi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25006,8 +31765,17 @@ var data=[
                 5.947732
             ],
             "longitude": 5.947732,
-            "note": 4.1,
-            "Temps_de_la_visite": 42
+            "note": 3.8,
+            "Temps_de_la_visite": 47,
+            "Prix": 48,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "mercredi",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25039,8 +31807,17 @@ var data=[
                 4.87462
             ],
             "longitude": 4.87462,
-            "note": 1.7,
-            "Temps_de_la_visite": 31
+            "note": 1.4,
+            "Temps_de_la_visite": 28,
+            "Prix": 55,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "mardi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25073,8 +31850,17 @@ var data=[
                 4.870694
             ],
             "longitude": 4.870694,
-            "note": 4.7,
-            "Temps_de_la_visite": 34
+            "note": 4.5,
+            "Temps_de_la_visite": 38,
+            "Prix": 50,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "lundi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25106,8 +31892,17 @@ var data=[
                 5.579652
             ],
             "longitude": 5.579652,
-            "note": 3.3,
-            "Temps_de_la_visite": 49
+            "note": 3.4,
+            "Temps_de_la_visite": 31,
+            "Prix": 50,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25139,8 +31934,17 @@ var data=[
                 4.010414
             ],
             "longitude": 4.010414,
-            "note": 0.4,
-            "Temps_de_la_visite": 44
+            "note": 1.5,
+            "Temps_de_la_visite": 30,
+            "Prix": 46,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "mercredi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25173,8 +31977,17 @@ var data=[
                 4.374526863293208
             ],
             "longitude": 4.374526863293208,
-            "note": 0.1,
-            "Temps_de_la_visite": 22
+            "note": 2.9,
+            "Temps_de_la_visite": 57,
+            "Prix": 60,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "dimanche",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25207,8 +32020,17 @@ var data=[
                 3.07827
             ],
             "longitude": 3.07827,
-            "note": 3.2,
-            "Temps_de_la_visite": 27
+            "note": 3.6,
+            "Temps_de_la_visite": 48,
+            "Prix": 47,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "jeudi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25240,8 +32062,17 @@ var data=[
                 3.116508
             ],
             "longitude": 3.116508,
-            "note": 2.4,
-            "Temps_de_la_visite": 45
+            "note": 0.6,
+            "Temps_de_la_visite": 23,
+            "Prix": 34,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "mardi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25273,8 +32104,17 @@ var data=[
                 4.82004
             ],
             "longitude": 4.82004,
-            "note": 0.3,
-            "Temps_de_la_visite": 51
+            "note": 1.9,
+            "Temps_de_la_visite": 40,
+            "Prix": 24,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25306,8 +32146,17 @@ var data=[
                 4.818042
             ],
             "longitude": 4.818042,
-            "note": 1.4,
-            "Temps_de_la_visite": 55
+            "note": 4.3,
+            "Temps_de_la_visite": 36,
+            "Prix": 32,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "mercredi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25339,8 +32188,17 @@ var data=[
                 4.818042
             ],
             "longitude": 4.818042,
-            "note": 0.9,
-            "Temps_de_la_visite": 29
+            "note": 2.4,
+            "Temps_de_la_visite": 48,
+            "Prix": 52,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "lundi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25372,8 +32230,17 @@ var data=[
                 5.915600925206359
             ],
             "longitude": 5.915600925206359,
-            "note": 1.4,
-            "Temps_de_la_visite": 39
+            "note": 0.6,
+            "Temps_de_la_visite": 55,
+            "Prix": 35,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25406,8 +32273,17 @@ var data=[
                 6.397471
             ],
             "longitude": 6.397471,
-            "note": 4.5,
-            "Temps_de_la_visite": 58
+            "note": 2.2,
+            "Temps_de_la_visite": 58,
+            "Prix": 32,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "jeudi",
+                "mercredi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25440,8 +32316,17 @@ var data=[
                 6.532778
             ],
             "longitude": 6.532778,
-            "note": 4.8,
-            "Temps_de_la_visite": 59
+            "note": 1.5,
+            "Temps_de_la_visite": 22,
+            "Prix": 34,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "samedi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25474,8 +32359,17 @@ var data=[
                 5.037282
             ],
             "longitude": 5.037282,
-            "note": 0.5,
-            "Temps_de_la_visite": 41
+            "note": 1.5,
+            "Temps_de_la_visite": 52,
+            "Prix": 33,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "mercredi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25508,8 +32402,17 @@ var data=[
                 6.022095
             ],
             "longitude": 6.022095,
-            "note": 3.8,
-            "Temps_de_la_visite": 36
+            "note": 3.9,
+            "Temps_de_la_visite": 55,
+            "Prix": 43,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "mercredi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25542,8 +32445,17 @@ var data=[
                 6.022095
             ],
             "longitude": 6.022095,
-            "note": 3.0,
-            "Temps_de_la_visite": 38
+            "note": 3.9,
+            "Temps_de_la_visite": 42,
+            "Prix": 52,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "jeudi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25575,8 +32487,17 @@ var data=[
                 6.147697
             ],
             "longitude": 6.147697,
-            "note": 1.2,
-            "Temps_de_la_visite": 37
+            "note": 2.9,
+            "Temps_de_la_visite": 43,
+            "Prix": 43,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "jeudi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25608,8 +32529,17 @@ var data=[
                 6.400821912965652
             ],
             "longitude": 6.400821912965652,
-            "note": 2.4,
-            "Temps_de_la_visite": 44
+            "note": 4.6,
+            "Temps_de_la_visite": 35,
+            "Prix": 28,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "mardi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25641,8 +32571,17 @@ var data=[
                 5.773686
             ],
             "longitude": 5.773686,
-            "note": 1.1,
-            "Temps_de_la_visite": 59
+            "note": 3.2,
+            "Temps_de_la_visite": 57,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "mardi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25675,8 +32614,17 @@ var data=[
                 5.774717
             ],
             "longitude": 5.774717,
-            "note": 1.6,
-            "Temps_de_la_visite": 56
+            "note": 3.4,
+            "Temps_de_la_visite": 33,
+            "Prix": 26,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "mercredi",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25708,8 +32656,17 @@ var data=[
                 5.907547
             ],
             "longitude": 5.907547,
-            "note": 0.9,
-            "Temps_de_la_visite": 57
+            "note": 0.0,
+            "Temps_de_la_visite": 24,
+            "Prix": 30,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "lundi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25742,8 +32699,17 @@ var data=[
                 5.579336
             ],
             "longitude": 5.579336,
-            "note": 3.4,
-            "Temps_de_la_visite": 34
+            "note": 2.7,
+            "Temps_de_la_visite": 59,
+            "Prix": 20,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "samedi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25776,8 +32742,17 @@ var data=[
                 5.708802
             ],
             "longitude": 5.708802,
-            "note": 1.9,
-            "Temps_de_la_visite": 26
+            "note": 3.0,
+            "Temps_de_la_visite": 27,
+            "Prix": 21,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "lundi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25810,8 +32785,17 @@ var data=[
                 5.876684
             ],
             "longitude": 5.876684,
-            "note": 2.2,
-            "Temps_de_la_visite": 45
+            "note": 0.6,
+            "Temps_de_la_visite": 41,
+            "Prix": 45,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "dimanche",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25844,8 +32828,17 @@ var data=[
                 3.520823
             ],
             "longitude": 3.520823,
-            "note": 1.3,
-            "Temps_de_la_visite": 42
+            "note": 4.1,
+            "Temps_de_la_visite": 58,
+            "Prix": 28,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "vendredi",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25877,8 +32870,17 @@ var data=[
                 3.463514
             ],
             "longitude": 3.463514,
-            "note": 4.6,
-            "Temps_de_la_visite": 36
+            "note": 2.2,
+            "Temps_de_la_visite": 51,
+            "Prix": 58,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "dimanche",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25910,8 +32912,17 @@ var data=[
                 4.658048
             ],
             "longitude": 4.658048,
-            "note": 1.8,
-            "Temps_de_la_visite": 46
+            "note": 4.0,
+            "Temps_de_la_visite": 58,
+            "Prix": 32,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "vendredi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25944,8 +32955,17 @@ var data=[
                 4.428059
             ],
             "longitude": 4.428059,
-            "note": 2.6,
-            "Temps_de_la_visite": 31
+            "note": 0.5,
+            "Temps_de_la_visite": 34,
+            "Prix": 44,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "lundi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -25977,8 +32997,17 @@ var data=[
                 5.275048
             ],
             "longitude": 5.275048,
-            "note": 2.4,
-            "Temps_de_la_visite": 22
+            "note": 4.6,
+            "Temps_de_la_visite": 36,
+            "Prix": 28,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "lundi",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26010,8 +33039,17 @@ var data=[
                 4.73427
             ],
             "longitude": 4.73427,
-            "note": 1.6,
-            "Temps_de_la_visite": 52
+            "note": 3.8,
+            "Temps_de_la_visite": 34,
+            "Prix": 40,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "lundi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26043,8 +33081,17 @@ var data=[
                 4.732247
             ],
             "longitude": 4.732247,
-            "note": 0.9,
-            "Temps_de_la_visite": 27
+            "note": 4.9,
+            "Temps_de_la_visite": 52,
+            "Prix": 33,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "samedi",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26076,8 +33123,17 @@ var data=[
                 6.922453
             ],
             "longitude": 6.922453,
-            "note": 0.7,
-            "Temps_de_la_visite": 59
+            "note": 4.3,
+            "Temps_de_la_visite": 24,
+            "Prix": 46,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "jeudi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26109,8 +33165,17 @@ var data=[
                 3.564362
             ],
             "longitude": 3.564362,
-            "note": 1.3,
-            "Temps_de_la_visite": 56
+            "note": 1.7,
+            "Temps_de_la_visite": 29,
+            "Prix": 47,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "dimanche",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26142,8 +33207,17 @@ var data=[
                 3.284505
             ],
             "longitude": 3.284505,
-            "note": 3.8,
-            "Temps_de_la_visite": 42
+            "note": 4.3,
+            "Temps_de_la_visite": 39,
+            "Prix": 35,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "samedi",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26176,8 +33250,17 @@ var data=[
                 -4.332643401713885
             ],
             "longitude": -4.332643401713885,
-            "note": 2.2,
-            "Temps_de_la_visite": 27
+            "note": 3.6,
+            "Temps_de_la_visite": 39,
+            "Prix": 55,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "vendredi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26209,8 +33292,17 @@ var data=[
                 -4.267455
             ],
             "longitude": -4.267455,
-            "note": 2.4,
-            "Temps_de_la_visite": 24
+            "note": 1.1,
+            "Temps_de_la_visite": 41,
+            "Prix": 33,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "mardi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26242,8 +33334,17 @@ var data=[
                 -3.825317
             ],
             "longitude": -3.825317,
-            "note": 3.4,
-            "Temps_de_la_visite": 29
+            "note": 2.9,
+            "Temps_de_la_visite": 38,
+            "Prix": 18,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "mercredi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26275,8 +33376,17 @@ var data=[
                 -5.128812
             ],
             "longitude": -5.128812,
-            "note": 4.4,
-            "Temps_de_la_visite": 48
+            "note": 4.3,
+            "Temps_de_la_visite": 26,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "samedi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26308,8 +33418,17 @@ var data=[
                 -4.101963
             ],
             "longitude": -4.101963,
-            "note": 1.5,
-            "Temps_de_la_visite": 53
+            "note": 0.9,
+            "Temps_de_la_visite": 59,
+            "Prix": 40,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "lundi",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26342,8 +33461,17 @@ var data=[
                 -4.225057
             ],
             "longitude": -4.225057,
-            "note": 0.2,
-            "Temps_de_la_visite": 40
+            "note": 3.1,
+            "Temps_de_la_visite": 40,
+            "Prix": 26,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "samedi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26376,8 +33504,17 @@ var data=[
                 -2.0259046691604174
             ],
             "longitude": -2.0259046691604174,
-            "note": 2.1,
-            "Temps_de_la_visite": 51
+            "note": 1.4,
+            "Temps_de_la_visite": 54,
+            "Prix": 46,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "dimanche",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26409,8 +33546,17 @@ var data=[
                 -2.993063
             ],
             "longitude": -2.993063,
-            "note": 2.0,
-            "Temps_de_la_visite": 31
+            "note": 2.1,
+            "Temps_de_la_visite": 28,
+            "Prix": 42,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "samedi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26442,8 +33588,17 @@ var data=[
                 -3.25232
             ],
             "longitude": -3.25232,
-            "note": 0.7,
-            "Temps_de_la_visite": 58
+            "note": 3.1,
+            "Temps_de_la_visite": 38,
+            "Prix": 48,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "samedi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26476,8 +33631,17 @@ var data=[
                 2.39325
             ],
             "longitude": 2.39325,
-            "note": 4.3,
-            "Temps_de_la_visite": 37
+            "note": 4.0,
+            "Temps_de_la_visite": 43,
+            "Prix": 25,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "mercredi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26509,8 +33673,17 @@ var data=[
                 2.060639
             ],
             "longitude": 2.060639,
-            "note": 2.6,
-            "Temps_de_la_visite": 34
+            "note": 4.8,
+            "Temps_de_la_visite": 33,
+            "Prix": 50,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "lundi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26541,8 +33714,17 @@ var data=[
                 1.385475
             ],
             "longitude": 1.385475,
-            "note": 3.6,
-            "Temps_de_la_visite": 44
+            "note": 1.2,
+            "Temps_de_la_visite": 48,
+            "Prix": 35,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "jeudi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26574,8 +33756,17 @@ var data=[
                 1.327905
             ],
             "longitude": 1.327905,
-            "note": 3.5,
-            "Temps_de_la_visite": 47
+            "note": 0.4,
+            "Temps_de_la_visite": 51,
+            "Prix": 17,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "dimanche",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26607,8 +33798,17 @@ var data=[
                 1.368066
             ],
             "longitude": 1.368066,
-            "note": 1.0,
-            "Temps_de_la_visite": 59
+            "note": 2.4,
+            "Temps_de_la_visite": 23,
+            "Prix": 56,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "mardi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26641,8 +33841,17 @@ var data=[
                 0.804249
             ],
             "longitude": 0.804249,
-            "note": 4.5,
-            "Temps_de_la_visite": 32
+            "note": 4.9,
+            "Temps_de_la_visite": 33,
+            "Prix": 36,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "dimanche",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26674,8 +33883,17 @@ var data=[
                 1.87924
             ],
             "longitude": 1.87924,
-            "note": 3.7,
-            "Temps_de_la_visite": 45
+            "note": 1.0,
+            "Temps_de_la_visite": 43,
+            "Prix": 32,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "vendredi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26707,8 +33925,17 @@ var data=[
                 0.997457
             ],
             "longitude": 0.997457,
-            "note": 2.8,
-            "Temps_de_la_visite": 60
+            "note": 4.8,
+            "Temps_de_la_visite": 39,
+            "Prix": 38,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "mardi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26741,8 +33968,17 @@ var data=[
                 0.686457
             ],
             "longitude": 0.686457,
-            "note": 1.4,
-            "Temps_de_la_visite": 32
+            "note": 2.1,
+            "Temps_de_la_visite": 57,
+            "Prix": 52,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "vendredi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26774,8 +34010,17 @@ var data=[
                 0.687373
             ],
             "longitude": 0.687373,
-            "note": 2.8,
-            "Temps_de_la_visite": 26
+            "note": 2.1,
+            "Temps_de_la_visite": 56,
+            "Prix": 54,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "mercredi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26808,8 +34053,17 @@ var data=[
                 1.879609
             ],
             "longitude": 1.879609,
-            "note": 3.0,
-            "Temps_de_la_visite": 23
+            "note": 0.5,
+            "Temps_de_la_visite": 25,
+            "Prix": 23,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "jeudi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26842,8 +34096,17 @@ var data=[
                 1.694889
             ],
             "longitude": 1.694889,
-            "note": 1.1,
-            "Temps_de_la_visite": 21
+            "note": 2.3,
+            "Temps_de_la_visite": 39,
+            "Prix": 31,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "dimanche",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26875,8 +34138,17 @@ var data=[
                 1.90861
             ],
             "longitude": 1.90861,
-            "note": 1.0,
-            "Temps_de_la_visite": 48
+            "note": 4.2,
+            "Temps_de_la_visite": 30,
+            "Prix": 53,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26909,8 +34181,17 @@ var data=[
                 1.33302
             ],
             "longitude": 1.33302,
-            "note": 3.1,
-            "Temps_de_la_visite": 54
+            "note": 3.3,
+            "Temps_de_la_visite": 49,
+            "Prix": 22,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "lundi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26942,8 +34223,17 @@ var data=[
                 1.7436882670458762
             ],
             "longitude": 1.7436882670458762,
-            "note": 2.0,
-            "Temps_de_la_visite": 30
+            "note": 1.0,
+            "Temps_de_la_visite": 46,
+            "Prix": 49,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "vendredi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -26976,8 +34266,17 @@ var data=[
                 8.738487
             ],
             "longitude": 8.738487,
-            "note": 4.6,
-            "Temps_de_la_visite": 60
+            "note": 3.1,
+            "Temps_de_la_visite": 22,
+            "Prix": 22,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "mercredi",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27010,8 +34309,17 @@ var data=[
                 9.450578
             ],
             "longitude": 9.450578,
-            "note": 0.6,
-            "Temps_de_la_visite": 56
+            "note": 1.9,
+            "Temps_de_la_visite": 34,
+            "Prix": 18,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "jeudi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27043,8 +34351,17 @@ var data=[
                 9.14766
             ],
             "longitude": 9.14766,
-            "note": 4.1,
-            "Temps_de_la_visite": 48
+            "note": 4.9,
+            "Temps_de_la_visite": 27,
+            "Prix": 24,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "dimanche",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27076,8 +34393,17 @@ var data=[
                 4.975035
             ],
             "longitude": 4.975035,
-            "note": 2.7,
-            "Temps_de_la_visite": 51
+            "note": 0.9,
+            "Temps_de_la_visite": 32,
+            "Prix": 40,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "jeudi",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27109,8 +34435,17 @@ var data=[
                 4.721238
             ],
             "longitude": 4.721238,
-            "note": 1.2,
-            "Temps_de_la_visite": 47
+            "note": 4.7,
+            "Temps_de_la_visite": 46,
+            "Prix": 25,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "dimanche",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27140,8 +34475,17 @@ var data=[
             ],
             "longitude": 4.366447,
             "ref_deps": "0836201",
-            "note": 2.5,
-            "Temps_de_la_visite": 50
+            "note": 1.6,
+            "Temps_de_la_visite": 22,
+            "Prix": 44,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "lundi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27173,8 +34517,17 @@ var data=[
                 4.528446
             ],
             "longitude": 4.528446,
-            "note": 1.0,
-            "Temps_de_la_visite": 34
+            "note": 4.8,
+            "Temps_de_la_visite": 55,
+            "Prix": 45,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "jeudi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27207,8 +34560,17 @@ var data=[
                 4.080736
             ],
             "longitude": 4.080736,
-            "note": 2.5,
-            "Temps_de_la_visite": 36
+            "note": 4.4,
+            "Temps_de_la_visite": 34,
+            "Prix": 39,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "dimanche",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27241,8 +34603,17 @@ var data=[
                 4.071824
             ],
             "longitude": 4.071824,
-            "note": 1.8,
-            "Temps_de_la_visite": 31
+            "note": 0.3,
+            "Temps_de_la_visite": 37,
+            "Prix": 27,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "mardi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27274,8 +34645,17 @@ var data=[
                 4.078036
             ],
             "longitude": 4.078036,
-            "note": 0.1,
-            "Temps_de_la_visite": 23
+            "note": 3.0,
+            "Temps_de_la_visite": 44,
+            "Prix": 34,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "samedi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27307,8 +34687,17 @@ var data=[
                 7.451102
             ],
             "longitude": 7.451102,
-            "note": 2.8,
-            "Temps_de_la_visite": 57
+            "note": 1.5,
+            "Temps_de_la_visite": 60,
+            "Prix": 40,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "dimanche",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27340,8 +34729,17 @@ var data=[
                 7.664814
             ],
             "longitude": 7.664814,
-            "note": 4.2,
-            "Temps_de_la_visite": 28
+            "note": 2.5,
+            "Temps_de_la_visite": 41,
+            "Prix": 34,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27373,8 +34771,17 @@ var data=[
                 7.750544327135451
             ],
             "longitude": 7.750544327135451,
-            "note": 3.2,
-            "Temps_de_la_visite": 47
+            "note": 4.6,
+            "Temps_de_la_visite": 30,
+            "Prix": 59,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "jeudi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27406,8 +34813,17 @@ var data=[
                 7.736231
             ],
             "longitude": 7.736231,
-            "note": 3.9,
-            "Temps_de_la_visite": 38
+            "note": 2.9,
+            "Temps_de_la_visite": 30,
+            "Prix": 45,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "lundi",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27440,8 +34856,17 @@ var data=[
                 5.135234
             ],
             "longitude": 5.135234,
-            "note": 1.2,
-            "Temps_de_la_visite": 31
+            "note": 2.9,
+            "Temps_de_la_visite": 24,
+            "Prix": 34,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "mercredi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27474,8 +34899,17 @@ var data=[
                 7.54802
             ],
             "longitude": 7.54802,
-            "note": 0.1,
-            "Temps_de_la_visite": 26
+            "note": 1.5,
+            "Temps_de_la_visite": 53,
+            "Prix": 51,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "mardi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27507,8 +34941,17 @@ var data=[
                 7.584985
             ],
             "longitude": 7.584985,
-            "note": 0.1,
-            "Temps_de_la_visite": 58
+            "note": 4.2,
+            "Temps_de_la_visite": 41,
+            "Prix": 58,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "mardi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27540,8 +34983,17 @@ var data=[
                 7.295058
             ],
             "longitude": 7.295058,
-            "note": 3.4,
-            "Temps_de_la_visite": 32
+            "note": 4.0,
+            "Temps_de_la_visite": 59,
+            "Prix": 48,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "samedi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27573,8 +35025,17 @@ var data=[
                 7.327893525261629
             ],
             "longitude": 7.327893525261629,
-            "note": 0.4,
-            "Temps_de_la_visite": 33
+            "note": 4.5,
+            "Temps_de_la_visite": 52,
+            "Prix": 37,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "lundi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27606,8 +35067,17 @@ var data=[
                 4.364203
             ],
             "longitude": 4.364203,
-            "note": 2.6,
-            "Temps_de_la_visite": 52
+            "note": 1.8,
+            "Temps_de_la_visite": 52,
+            "Prix": 52,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "dimanche",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27640,8 +35110,17 @@ var data=[
                 3.961379
             ],
             "longitude": 3.961379,
-            "note": 1.4,
-            "Temps_de_la_visite": 40
+            "note": 0.0,
+            "Temps_de_la_visite": 27,
+            "Prix": 39,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "lundi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27673,8 +35152,17 @@ var data=[
                 5.760104
             ],
             "longitude": 5.760104,
-            "note": 0.9,
-            "Temps_de_la_visite": 27
+            "note": 5.0,
+            "Temps_de_la_visite": 49,
+            "Prix": 47,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "vendredi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27707,8 +35195,17 @@ var data=[
                 6.056259
             ],
             "longitude": 6.056259,
-            "note": 3.7,
-            "Temps_de_la_visite": 54
+            "note": 4.4,
+            "Temps_de_la_visite": 21,
+            "Prix": 49,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "lundi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27740,8 +35237,17 @@ var data=[
                 5.156074
             ],
             "longitude": 5.156074,
-            "note": 2.0,
-            "Temps_de_la_visite": 50
+            "note": 4.5,
+            "Temps_de_la_visite": 53,
+            "Prix": 32,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "lundi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27773,8 +35279,17 @@ var data=[
                 6.606549
             ],
             "longitude": 6.606549,
-            "note": 2.9,
-            "Temps_de_la_visite": 29
+            "note": 1.5,
+            "Temps_de_la_visite": 58,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "dimanche",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27807,8 +35322,17 @@ var data=[
                 7.259055
             ],
             "longitude": 7.259055,
-            "note": 1.1,
-            "Temps_de_la_visite": 48
+            "note": 2.2,
+            "Temps_de_la_visite": 29,
+            "Prix": 24,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "dimanche",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27840,8 +35364,17 @@ var data=[
                 3.400289
             ],
             "longitude": 3.400289,
-            "note": 2.0,
-            "Temps_de_la_visite": 40
+            "note": 4.4,
+            "Temps_de_la_visite": 33,
+            "Prix": 48,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "mardi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27873,8 +35406,17 @@ var data=[
                 3.626781
             ],
             "longitude": 3.626781,
-            "note": 1.9,
-            "Temps_de_la_visite": 59
+            "note": 2.0,
+            "Temps_de_la_visite": 53,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "dimanche",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27905,8 +35447,17 @@ var data=[
                 4.022381
             ],
             "longitude": 4.022381,
-            "note": 2.0,
-            "Temps_de_la_visite": 29
+            "note": 3.0,
+            "Temps_de_la_visite": 54,
+            "Prix": 35,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "jeudi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27938,8 +35489,17 @@ var data=[
                 4.134763
             ],
             "longitude": 4.134763,
-            "note": 2.8,
-            "Temps_de_la_visite": 48
+            "note": 0.4,
+            "Temps_de_la_visite": 53,
+            "Prix": 24,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "samedi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -27972,8 +35532,17 @@ var data=[
                 3.327233
             ],
             "longitude": 3.327233,
-            "note": 2.7,
-            "Temps_de_la_visite": 30
+            "note": 0.6,
+            "Temps_de_la_visite": 50,
+            "Prix": 36,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "dimanche",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28005,8 +35574,17 @@ var data=[
                 3.774369
             ],
             "longitude": 3.774369,
-            "note": 2.2,
-            "Temps_de_la_visite": 55
+            "note": 1.2,
+            "Temps_de_la_visite": 33,
+            "Prix": 54,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "dimanche",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28039,8 +35617,17 @@ var data=[
                 3.231397169508298
             ],
             "longitude": 3.231397169508298,
-            "note": 1.6,
-            "Temps_de_la_visite": 54
+            "note": 0.1,
+            "Temps_de_la_visite": 27,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28072,8 +35659,17 @@ var data=[
                 4.043565881930145
             ],
             "longitude": 4.043565881930145,
-            "note": 2.0,
-            "Temps_de_la_visite": 21
+            "note": 0.1,
+            "Temps_de_la_visite": 23,
+            "Prix": 21,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28106,8 +35702,17 @@ var data=[
                 3.281222
             ],
             "longitude": 3.281222,
-            "note": 0.5,
-            "Temps_de_la_visite": 59
+            "note": 1.6,
+            "Temps_de_la_visite": 25,
+            "Prix": 54,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "mercredi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28139,8 +35744,17 @@ var data=[
                 2.080444
             ],
             "longitude": 2.080444,
-            "note": 4.8,
-            "Temps_de_la_visite": 39
+            "note": 2.3,
+            "Temps_de_la_visite": 46,
+            "Prix": 52,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "mercredi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28173,8 +35787,17 @@ var data=[
                 1.882069
             ],
             "longitude": 1.882069,
-            "note": 2.4,
-            "Temps_de_la_visite": 35
+            "note": 1.7,
+            "Temps_de_la_visite": 41,
+            "Prix": 59,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "jeudi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28207,8 +35830,17 @@ var data=[
                 2.884009
             ],
             "longitude": 2.884009,
-            "note": 1.7,
-            "Temps_de_la_visite": 29
+            "note": 0.3,
+            "Temps_de_la_visite": 31,
+            "Prix": 42,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "vendredi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28240,8 +35872,17 @@ var data=[
                 2.998444
             ],
             "longitude": 2.998444,
-            "note": 3.6,
-            "Temps_de_la_visite": 40
+            "note": 4.2,
+            "Temps_de_la_visite": 43,
+            "Prix": 53,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "dimanche",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28274,8 +35915,17 @@ var data=[
                 2.585103
             ],
             "longitude": 2.585103,
-            "note": 2.2,
-            "Temps_de_la_visite": 46
+            "note": 1.2,
+            "Temps_de_la_visite": 31,
+            "Prix": 60,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "mardi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28307,8 +35957,17 @@ var data=[
                 1.6171474769293122
             ],
             "longitude": 1.6171474769293122,
-            "note": 2.6,
-            "Temps_de_la_visite": 41
+            "note": 5.0,
+            "Temps_de_la_visite": 55,
+            "Prix": 48,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "jeudi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28341,8 +36000,17 @@ var data=[
                 1.60545
             ],
             "longitude": 1.60545,
-            "note": 0.9,
-            "Temps_de_la_visite": 48
+            "note": 3.0,
+            "Temps_de_la_visite": 57,
+            "Prix": 55,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "lundi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28374,8 +36042,17 @@ var data=[
                 2.254521
             ],
             "longitude": 2.254521,
-            "note": 0.2,
-            "Temps_de_la_visite": 58
+            "note": 1.2,
+            "Temps_de_la_visite": 42,
+            "Prix": 34,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "samedi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28408,8 +36085,17 @@ var data=[
                 2.9319
             ],
             "longitude": 2.9319,
-            "note": 0.3,
-            "Temps_de_la_visite": 50
+            "note": 3.5,
+            "Temps_de_la_visite": 21,
+            "Prix": 19,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "lundi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28441,8 +36127,17 @@ var data=[
                 2.225102
             ],
             "longitude": 2.225102,
-            "note": 3.0,
-            "Temps_de_la_visite": 38
+            "note": 3.4,
+            "Temps_de_la_visite": 33,
+            "Prix": 43,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "lundi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28474,8 +36169,17 @@ var data=[
                 2.500293
             ],
             "longitude": 2.500293,
-            "note": 4.0,
-            "Temps_de_la_visite": 24
+            "note": 0.1,
+            "Temps_de_la_visite": 36,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "mercredi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28507,8 +36211,17 @@ var data=[
                 2.271279
             ],
             "longitude": 2.271279,
-            "note": 2.2,
-            "Temps_de_la_visite": 43
+            "note": 3.2,
+            "Temps_de_la_visite": 37,
+            "Prix": 55,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28540,8 +36253,17 @@ var data=[
                 2.18183
             ],
             "longitude": 2.18183,
-            "note": 2.2,
-            "Temps_de_la_visite": 58
+            "note": 1.6,
+            "Temps_de_la_visite": 39,
+            "Prix": 27,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "jeudi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28573,8 +36295,17 @@ var data=[
                 2.221944
             ],
             "longitude": 2.221944,
-            "note": 0.2,
-            "Temps_de_la_visite": 24
+            "note": 2.0,
+            "Temps_de_la_visite": 49,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "samedi",
+                "dimanche",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28607,8 +36338,17 @@ var data=[
                 2.312194
             ],
             "longitude": 2.312194,
-            "note": 2.7,
-            "Temps_de_la_visite": 58
+            "note": 1.1,
+            "Temps_de_la_visite": 27,
+            "Prix": 46,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "dimanche",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28640,8 +36380,17 @@ var data=[
                 2.361524
             ],
             "longitude": 2.361524,
-            "note": 0.6,
-            "Temps_de_la_visite": 48
+            "note": 1.5,
+            "Temps_de_la_visite": 59,
+            "Prix": 20,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28671,8 +36420,17 @@ var data=[
             ],
             "longitude": 2.33167,
             "ref_deps": "7510610",
-            "note": 3.7,
-            "Temps_de_la_visite": 49
+            "note": 3.8,
+            "Temps_de_la_visite": 37,
+            "Prix": 28,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "lundi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28702,8 +36460,17 @@ var data=[
             ],
             "longitude": 2.352176,
             "ref_deps": "7510519",
-            "note": 1.5,
-            "Temps_de_la_visite": 20
+            "note": 3.1,
+            "Temps_de_la_visite": 42,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "vendredi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28735,8 +36502,17 @@ var data=[
                 2.341091
             ],
             "longitude": 2.341091,
-            "note": 4.3,
-            "Temps_de_la_visite": 45
+            "note": 1.2,
+            "Temps_de_la_visite": 26,
+            "Prix": 31,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "jeudi",
+                "mercredi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28768,8 +36544,17 @@ var data=[
                 2.3177008959224517
             ],
             "longitude": 2.3177008959224517,
-            "note": 3.4,
-            "Temps_de_la_visite": 22
+            "note": 3.5,
+            "Temps_de_la_visite": 60,
+            "Prix": 37,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "mardi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28802,8 +36587,17 @@ var data=[
                 2.340577
             ],
             "longitude": 2.340577,
-            "note": 0.8,
-            "Temps_de_la_visite": 55
+            "note": 1.8,
+            "Temps_de_la_visite": 43,
+            "Prix": 27,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "mardi",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28835,8 +36629,17 @@ var data=[
                 2.326622
             ],
             "longitude": 2.326622,
-            "note": 2.7,
-            "Temps_de_la_visite": 23
+            "note": 4.7,
+            "Temps_de_la_visite": 40,
+            "Prix": 33,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "mercredi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28869,8 +36672,17 @@ var data=[
                 2.357046
             ],
             "longitude": 2.357046,
-            "note": 2.9,
-            "Temps_de_la_visite": 55
+            "note": 0.6,
+            "Temps_de_la_visite": 33,
+            "Prix": 55,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "dimanche",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28903,8 +36715,17 @@ var data=[
                 2.3522235406355176
             ],
             "longitude": 2.3522235406355176,
-            "note": 0.9,
-            "Temps_de_la_visite": 21
+            "note": 0.4,
+            "Temps_de_la_visite": 28,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "mercredi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28936,8 +36757,17 @@ var data=[
                 2.335679
             ],
             "longitude": 2.335679,
-            "note": 4.6,
-            "Temps_de_la_visite": 38
+            "note": 4.5,
+            "Temps_de_la_visite": 43,
+            "Prix": 53,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "lundi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -28969,8 +36799,17 @@ var data=[
                 2.343088
             ],
             "longitude": 2.343088,
-            "note": 3.3,
-            "Temps_de_la_visite": 22
+            "note": 4.2,
+            "Temps_de_la_visite": 41,
+            "Prix": 43,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "mardi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29003,8 +36842,17 @@ var data=[
                 3.086974
             ],
             "longitude": 3.086974,
-            "note": 4.9,
-            "Temps_de_la_visite": 52
+            "note": 3.1,
+            "Temps_de_la_visite": 33,
+            "Prix": 27,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mercredi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29036,8 +36884,17 @@ var data=[
                 2.707767
             ],
             "longitude": 2.707767,
-            "note": 0.1,
-            "Temps_de_la_visite": 29
+            "note": 4.0,
+            "Temps_de_la_visite": 22,
+            "Prix": 33,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29070,8 +36927,17 @@ var data=[
                 2.696157
             ],
             "longitude": 2.696157,
-            "note": 0.7,
-            "Temps_de_la_visite": 30
+            "note": 4.5,
+            "Temps_de_la_visite": 44,
+            "Prix": 35,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "lundi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29103,8 +36969,17 @@ var data=[
                 3.290374
             ],
             "longitude": 3.290374,
-            "note": 4.9,
-            "Temps_de_la_visite": 49
+            "note": 1.2,
+            "Temps_de_la_visite": 57,
+            "Prix": 26,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "lundi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29137,8 +37012,17 @@ var data=[
                 2.746605
             ],
             "longitude": 2.746605,
-            "note": 0.7,
-            "Temps_de_la_visite": 40
+            "note": 1.1,
+            "Temps_de_la_visite": 23,
+            "Prix": 49,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "samedi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29171,8 +37055,17 @@ var data=[
                 2.469481
             ],
             "longitude": 2.469481,
-            "note": 4.1,
-            "Temps_de_la_visite": 59
+            "note": 2.5,
+            "Temps_de_la_visite": 32,
+            "Prix": 58,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "lundi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29205,8 +37098,17 @@ var data=[
                 2.330639
             ],
             "longitude": 2.330639,
-            "note": 2.3,
-            "Temps_de_la_visite": 29
+            "note": 0.9,
+            "Temps_de_la_visite": 38,
+            "Prix": 33,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "dimanche",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29239,8 +37141,17 @@ var data=[
                 2.099887
             ],
             "longitude": 2.099887,
-            "note": 4.4,
-            "Temps_de_la_visite": 32
+            "note": 2.3,
+            "Temps_de_la_visite": 22,
+            "Prix": 48,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "dimanche",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29273,8 +37184,17 @@ var data=[
                 2.519827
             ],
             "longitude": 2.519827,
-            "note": 3.0,
-            "Temps_de_la_visite": 42
+            "note": 2.5,
+            "Temps_de_la_visite": 22,
+            "Prix": 21,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "vendredi",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29307,8 +37227,17 @@ var data=[
                 2.525362870676448
             ],
             "longitude": 2.525362870676448,
-            "note": 1.0,
-            "Temps_de_la_visite": 34
+            "note": 3.3,
+            "Temps_de_la_visite": 38,
+            "Prix": 29,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "mercredi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29341,8 +37270,17 @@ var data=[
                 2.5149018357668425
             ],
             "longitude": 2.5149018357668425,
-            "note": 4.2,
-            "Temps_de_la_visite": 40
+            "note": 4.0,
+            "Temps_de_la_visite": 50,
+            "Prix": 57,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "mardi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29375,8 +37313,17 @@ var data=[
                 2.095621
             ],
             "longitude": 2.095621,
-            "note": 1.0,
-            "Temps_de_la_visite": 44
+            "note": 0.6,
+            "Temps_de_la_visite": 21,
+            "Prix": 44,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "lundi",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29407,8 +37354,17 @@ var data=[
                 2.044648
             ],
             "longitude": 2.044648,
-            "note": 2.5,
-            "Temps_de_la_visite": 58
+            "note": 4.6,
+            "Temps_de_la_visite": 22,
+            "Prix": 58,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "mercredi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29441,8 +37397,17 @@ var data=[
                 2.037892
             ],
             "longitude": 2.037892,
-            "note": 3.8,
-            "Temps_de_la_visite": 41
+            "note": 2.9,
+            "Temps_de_la_visite": 41,
+            "Prix": 43,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "vendredi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29473,8 +37438,17 @@ var data=[
                 -0.37215112920134513
             ],
             "longitude": -0.37215112920134513,
-            "note": 0.7,
-            "Temps_de_la_visite": 39
+            "note": 1.4,
+            "Temps_de_la_visite": 23,
+            "Prix": 19,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29508,7 +37482,16 @@ var data=[
             ],
             "longitude": -0.37218715643821,
             "note": 3.3,
-            "Temps_de_la_visite": 38
+            "Temps_de_la_visite": 22,
+            "Prix": 45,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "vendredi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29540,8 +37523,17 @@ var data=[
                 0.219329
             ],
             "longitude": 0.219329,
-            "note": 4.6,
-            "Temps_de_la_visite": 41
+            "note": 3.1,
+            "Temps_de_la_visite": 43,
+            "Prix": 45,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "mardi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29573,8 +37565,17 @@ var data=[
                 0.083538
             ],
             "longitude": 0.083538,
-            "note": 4.8,
-            "Temps_de_la_visite": 27
+            "note": 3.7,
+            "Temps_de_la_visite": 52,
+            "Prix": 54,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "jeudi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29606,8 +37607,17 @@ var data=[
                 -1.649839
             ],
             "longitude": -1.649839,
-            "note": 0.2,
-            "Temps_de_la_visite": 26
+            "note": 1.9,
+            "Temps_de_la_visite": 53,
+            "Prix": 32,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "jeudi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29640,8 +37650,17 @@ var data=[
                 -0.936738
             ],
             "longitude": -0.936738,
-            "note": 0.4,
-            "Temps_de_la_visite": 23
+            "note": 3.1,
+            "Temps_de_la_visite": 49,
+            "Prix": 35,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "mercredi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29673,8 +37692,17 @@ var data=[
                 -1.588374
             ],
             "longitude": -1.588374,
-            "note": 2.2,
-            "Temps_de_la_visite": 56
+            "note": 2.6,
+            "Temps_de_la_visite": 21,
+            "Prix": 58,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "samedi",
+                "mercredi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29706,8 +37734,17 @@ var data=[
                 -1.319894
             ],
             "longitude": -1.319894,
-            "note": 2.8,
-            "Temps_de_la_visite": 53
+            "note": 0.6,
+            "Temps_de_la_visite": 54,
+            "Prix": 30,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "dimanche",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29739,8 +37776,17 @@ var data=[
                 -1.533001
             ],
             "longitude": -1.533001,
-            "note": 4.1,
-            "Temps_de_la_visite": 24
+            "note": 4.7,
+            "Temps_de_la_visite": 55,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "samedi",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29772,8 +37818,17 @@ var data=[
                 -1.267813
             ],
             "longitude": -1.267813,
-            "note": 3.6,
-            "Temps_de_la_visite": 25
+            "note": 0.5,
+            "Temps_de_la_visite": 48,
+            "Prix": 21,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "mercredi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29806,8 +37861,17 @@ var data=[
                 -0.9787106672980048
             ],
             "longitude": -0.9787106672980048,
-            "note": 3.8,
-            "Temps_de_la_visite": 48
+            "note": 2.4,
+            "Temps_de_la_visite": 56,
+            "Prix": 37,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "vendredi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29840,8 +37904,17 @@ var data=[
                 0.628791
             ],
             "longitude": 0.628791,
-            "note": 3.4,
-            "Temps_de_la_visite": 48
+            "note": 5.0,
+            "Temps_de_la_visite": 37,
+            "Prix": 21,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "lundi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29874,8 +37947,17 @@ var data=[
                 0.656069
             ],
             "longitude": 0.656069,
-            "note": 0.4,
-            "Temps_de_la_visite": 56
+            "note": 0.3,
+            "Temps_de_la_visite": 50,
+            "Prix": 38,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "vendredi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29907,8 +37989,17 @@ var data=[
                 0.72058
             ],
             "longitude": 0.72058,
-            "note": 1.9,
-            "Temps_de_la_visite": 21
+            "note": 4.8,
+            "Temps_de_la_visite": 24,
+            "Prix": 21,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "lundi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29940,8 +38031,17 @@ var data=[
                 0.19911
             ],
             "longitude": 0.19911,
-            "note": 2.9,
-            "Temps_de_la_visite": 59
+            "note": 3.6,
+            "Temps_de_la_visite": 42,
+            "Prix": 20,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "samedi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -29973,8 +38073,17 @@ var data=[
                 0.108231
             ],
             "longitude": 0.108231,
-            "note": 3.9,
-            "Temps_de_la_visite": 26
+            "note": 2.1,
+            "Temps_de_la_visite": 59,
+            "Prix": 50,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "samedi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30006,8 +38115,17 @@ var data=[
                 1.076136
             ],
             "longitude": 1.076136,
-            "note": 0.2,
-            "Temps_de_la_visite": 36
+            "note": 1.1,
+            "Temps_de_la_visite": 55,
+            "Prix": 31,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "dimanche",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30039,8 +38157,17 @@ var data=[
                 1.048567
             ],
             "longitude": 1.048567,
-            "note": 0.8,
-            "Temps_de_la_visite": 34
+            "note": 0.5,
+            "Temps_de_la_visite": 21,
+            "Prix": 46,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "mardi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30073,8 +38200,17 @@ var data=[
                 1.098932
             ],
             "longitude": 1.098932,
-            "note": 1.0,
-            "Temps_de_la_visite": 38
+            "note": 4.9,
+            "Temps_de_la_visite": 55,
+            "Prix": 57,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "dimanche",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30106,8 +38242,17 @@ var data=[
                 1.098932
             ],
             "longitude": 1.098932,
-            "note": 3.2,
-            "Temps_de_la_visite": 46
+            "note": 1.2,
+            "Temps_de_la_visite": 50,
+            "Prix": 35,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "jeudi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30139,8 +38284,17 @@ var data=[
                 1.219788
             ],
             "longitude": 1.219788,
-            "note": 3.7,
-            "Temps_de_la_visite": 58
+            "note": 1.5,
+            "Temps_de_la_visite": 34,
+            "Prix": 50,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "lundi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30171,8 +38325,17 @@ var data=[
                 -1.155429
             ],
             "longitude": -1.155429,
-            "note": 4.0,
-            "Temps_de_la_visite": 39
+            "note": 0.5,
+            "Temps_de_la_visite": 24,
+            "Prix": 53,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "dimanche",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30204,8 +38367,17 @@ var data=[
                 -0.632055
             ],
             "longitude": -0.632055,
-            "note": 3.8,
-            "Temps_de_la_visite": 43
+            "note": 4.9,
+            "Temps_de_la_visite": 46,
+            "Prix": 48,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "samedi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30238,8 +38410,17 @@ var data=[
                 -0.634076
             ],
             "longitude": -0.634076,
-            "note": 1.0,
-            "Temps_de_la_visite": 57
+            "note": 3.6,
+            "Temps_de_la_visite": 54,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "dimanche",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30271,8 +38452,17 @@ var data=[
                 -0.523425
             ],
             "longitude": -0.523425,
-            "note": 2.6,
-            "Temps_de_la_visite": 26
+            "note": 0.8,
+            "Temps_de_la_visite": 50,
+            "Prix": 40,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "mardi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30305,8 +38495,17 @@ var data=[
                 -1.365288
             ],
             "longitude": -1.365288,
-            "note": 4.5,
-            "Temps_de_la_visite": 24
+            "note": 1.3,
+            "Temps_de_la_visite": 46,
+            "Prix": 24,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "mardi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30338,8 +38537,17 @@ var data=[
                 -0.067433
             ],
             "longitude": -0.067433,
-            "note": 0.6,
-            "Temps_de_la_visite": 35
+            "note": 1.7,
+            "Temps_de_la_visite": 53,
+            "Prix": 53,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "samedi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30372,8 +38580,17 @@ var data=[
                 0.647127
             ],
             "longitude": 0.647127,
-            "note": 4.8,
-            "Temps_de_la_visite": 28
+            "note": 0.8,
+            "Temps_de_la_visite": 59,
+            "Prix": 60,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "mardi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30404,8 +38621,17 @@ var data=[
                 0.564759
             ],
             "longitude": 0.564759,
-            "note": 1.0,
-            "Temps_de_la_visite": 53
+            "note": 4.3,
+            "Temps_de_la_visite": 26,
+            "Prix": 41,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "mardi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30437,8 +38663,17 @@ var data=[
                 -0.575205
             ],
             "longitude": -0.575205,
-            "note": 3.2,
-            "Temps_de_la_visite": 58
+            "note": 2.9,
+            "Temps_de_la_visite": 41,
+            "Prix": 23,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "mardi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30470,8 +38705,17 @@ var data=[
                 -0.372793
             ],
             "longitude": -0.372793,
-            "note": 5.0,
-            "Temps_de_la_visite": 21
+            "note": 1.3,
+            "Temps_de_la_visite": 39,
+            "Prix": 39,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "mardi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30503,8 +38747,17 @@ var data=[
                 0.820506
             ],
             "longitude": 0.820506,
-            "note": 1.5,
-            "Temps_de_la_visite": 38
+            "note": 4.3,
+            "Temps_de_la_visite": 45,
+            "Prix": 17,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "samedi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30537,8 +38790,17 @@ var data=[
                 -1.182563
             ],
             "longitude": -1.182563,
-            "note": 3.6,
-            "Temps_de_la_visite": 60
+            "note": 3.9,
+            "Temps_de_la_visite": 21,
+            "Prix": 29,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "mercredi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30570,8 +38832,17 @@ var data=[
                 -1.054061
             ],
             "longitude": -1.054061,
-            "note": 4.8,
-            "Temps_de_la_visite": 58
+            "note": 3.7,
+            "Temps_de_la_visite": 59,
+            "Prix": 52,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "samedi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30603,8 +38874,17 @@ var data=[
                 -0.498893
             ],
             "longitude": -0.498893,
-            "note": 2.2,
-            "Temps_de_la_visite": 33
+            "note": 0.8,
+            "Temps_de_la_visite": 27,
+            "Prix": 39,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mercredi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30637,8 +38917,17 @@ var data=[
                 0.615471
             ],
             "longitude": 0.615471,
-            "note": 2.2,
-            "Temps_de_la_visite": 36
+            "note": 1.6,
+            "Temps_de_la_visite": 21,
+            "Prix": 18,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "vendredi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30671,8 +38960,17 @@ var data=[
                 -1.4751693306701943
             ],
             "longitude": -1.4751693306701943,
-            "note": 4.4,
-            "Temps_de_la_visite": 34
+            "note": 2.5,
+            "Temps_de_la_visite": 38,
+            "Prix": 57,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "dimanche",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30703,8 +39001,17 @@ var data=[
                 -0.604752
             ],
             "longitude": -0.604752,
-            "note": 0.9,
-            "Temps_de_la_visite": 25
+            "note": 4.8,
+            "Temps_de_la_visite": 51,
+            "Prix": 38,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "mardi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30736,8 +39043,17 @@ var data=[
                 -0.374378
             ],
             "longitude": -0.374378,
-            "note": 0.3,
-            "Temps_de_la_visite": 33
+            "note": 2.8,
+            "Temps_de_la_visite": 50,
+            "Prix": 22,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "lundi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30769,8 +39085,17 @@ var data=[
                 0.536238
             ],
             "longitude": 0.536238,
-            "note": 2.9,
-            "Temps_de_la_visite": 26
+            "note": 2.3,
+            "Temps_de_la_visite": 34,
+            "Prix": 38,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "lundi",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30803,8 +39128,17 @@ var data=[
                 0.536238
             ],
             "longitude": 0.536238,
-            "note": 2.2,
-            "Temps_de_la_visite": 55
+            "note": 4.9,
+            "Temps_de_la_visite": 46,
+            "Prix": 40,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "dimanche",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30837,8 +39171,17 @@ var data=[
                 0.296434
             ],
             "longitude": 0.296434,
-            "note": 2.9,
-            "Temps_de_la_visite": 40
+            "note": 0.4,
+            "Temps_de_la_visite": 45,
+            "Prix": 31,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "jeudi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30869,8 +39212,17 @@ var data=[
                 0.346104
             ],
             "longitude": 0.346104,
-            "note": 3.0,
-            "Temps_de_la_visite": 48
+            "note": 3.7,
+            "Temps_de_la_visite": 36,
+            "Prix": 21,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "vendredi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30902,8 +39254,17 @@ var data=[
                 1.832858
             ],
             "longitude": 1.832858,
-            "note": 4.1,
-            "Temps_de_la_visite": 33
+            "note": 1.8,
+            "Temps_de_la_visite": 35,
+            "Prix": 35,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "mardi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30935,8 +39296,17 @@ var data=[
                 1.959048
             ],
             "longitude": 1.959048,
-            "note": 1.6,
-            "Temps_de_la_visite": 24
+            "note": 3.1,
+            "Temps_de_la_visite": 25,
+            "Prix": 55,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "mardi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -30968,8 +39338,17 @@ var data=[
                 2.942874
             ],
             "longitude": 2.942874,
-            "note": 0.1,
-            "Temps_de_la_visite": 41
+            "note": 2.1,
+            "Temps_de_la_visite": 27,
+            "Prix": 42,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "samedi",
+                "vendredi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31001,8 +39380,17 @@ var data=[
                 2.266258
             ],
             "longitude": 2.266258,
-            "note": 2.4,
-            "Temps_de_la_visite": 39
+            "note": 3.7,
+            "Temps_de_la_visite": 33,
+            "Prix": 38,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "jeudi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31034,8 +39422,17 @@ var data=[
                 2.760423
             ],
             "longitude": 2.760423,
-            "note": 0.2,
-            "Temps_de_la_visite": 55
+            "note": 4.6,
+            "Temps_de_la_visite": 36,
+            "Prix": 22,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "mercredi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31066,8 +39463,17 @@ var data=[
                 2.991651
             ],
             "longitude": 2.991651,
-            "note": 2.9,
-            "Temps_de_la_visite": 26
+            "note": 2.8,
+            "Temps_de_la_visite": 32,
+            "Prix": 47,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "vendredi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31099,8 +39505,17 @@ var data=[
                 4.35616
             ],
             "longitude": 4.35616,
-            "note": 4.5,
-            "Temps_de_la_visite": 23
+            "note": 0.3,
+            "Temps_de_la_visite": 52,
+            "Prix": 33,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "dimanche",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31133,8 +39548,17 @@ var data=[
                 0.587482
             ],
             "longitude": 0.587482,
-            "note": 2.5,
-            "Temps_de_la_visite": 53
+            "note": 1.0,
+            "Temps_de_la_visite": 37,
+            "Prix": 25,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "samedi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31166,8 +39590,17 @@ var data=[
                 0.101384
             ],
             "longitude": 0.101384,
-            "note": 1.4,
-            "Temps_de_la_visite": 29
+            "note": 3.2,
+            "Temps_de_la_visite": 33,
+            "Prix": 51,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "dimanche",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31199,8 +39632,17 @@ var data=[
                 1.08184
             ],
             "longitude": 1.08184,
-            "note": 2.7,
-            "Temps_de_la_visite": 24
+            "note": 3.3,
+            "Temps_de_la_visite": 54,
+            "Prix": 29,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "mercredi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31233,7 +39675,16 @@ var data=[
             ],
             "longitude": 0.403452,
             "note": 2.0,
-            "Temps_de_la_visite": 44
+            "Temps_de_la_visite": 31,
+            "Prix": 39,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "lundi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31265,8 +39716,17 @@ var data=[
                 0.592035
             ],
             "longitude": 0.592035,
-            "note": 3.7,
-            "Temps_de_la_visite": 55
+            "note": 2.4,
+            "Temps_de_la_visite": 29,
+            "Prix": 23,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "mardi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31299,8 +39759,17 @@ var data=[
                 1.445904
             ],
             "longitude": 1.445904,
-            "note": 4.7,
-            "Temps_de_la_visite": 42
+            "note": 2.8,
+            "Temps_de_la_visite": 27,
+            "Prix": 33,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "mardi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31333,8 +39802,17 @@ var data=[
                 1.446935
             ],
             "longitude": 1.446935,
-            "note": 4.1,
-            "Temps_de_la_visite": 53
+            "note": 0.3,
+            "Temps_de_la_visite": 56,
+            "Prix": 51,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "samedi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31366,8 +39844,17 @@ var data=[
                 0.153699
             ],
             "longitude": 0.153699,
-            "note": 1.3,
-            "Temps_de_la_visite": 24
+            "note": 0.5,
+            "Temps_de_la_visite": 52,
+            "Prix": 15,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "dimanche",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31400,8 +39887,17 @@ var data=[
                 3.476702
             ],
             "longitude": 3.476702,
-            "note": 0.7,
-            "Temps_de_la_visite": 50
+            "note": 3.7,
+            "Temps_de_la_visite": 28,
+            "Prix": 17,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31433,8 +39929,17 @@ var data=[
                 3.755055
             ],
             "longitude": 3.755055,
-            "note": 2.1,
-            "Temps_de_la_visite": 60
+            "note": 2.5,
+            "Temps_de_la_visite": 49,
+            "Prix": 45,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "mercredi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31466,8 +39971,17 @@ var data=[
                 3.809872
             ],
             "longitude": 3.809872,
-            "note": 1.2,
-            "Temps_de_la_visite": 58
+            "note": 1.0,
+            "Temps_de_la_visite": 58,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "lundi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31499,8 +40013,17 @@ var data=[
                 3.879151
             ],
             "longitude": 3.879151,
-            "note": 4.5,
-            "Temps_de_la_visite": 56
+            "note": 3.4,
+            "Temps_de_la_visite": 26,
+            "Prix": 59,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "mardi",
+                "mercredi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31532,8 +40055,17 @@ var data=[
                 3.691204
             ],
             "longitude": 3.691204,
-            "note": 0.3,
-            "Temps_de_la_visite": 28
+            "note": 4.6,
+            "Temps_de_la_visite": 40,
+            "Prix": 47,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "jeudi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31566,8 +40098,17 @@ var data=[
                 1.286317
             ],
             "longitude": 1.286317,
-            "note": 4.3,
-            "Temps_de_la_visite": 58
+            "note": 2.5,
+            "Temps_de_la_visite": 30,
+            "Prix": 53,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "vendredi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31599,8 +40140,17 @@ var data=[
                 1.697872
             ],
             "longitude": 1.697872,
-            "note": 3.6,
-            "Temps_de_la_visite": 22
+            "note": 3.8,
+            "Temps_de_la_visite": 56,
+            "Prix": 49,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "samedi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31632,8 +40182,17 @@ var data=[
                 3.746499
             ],
             "longitude": 3.746499,
-            "note": 1.1,
-            "Temps_de_la_visite": 58
+            "note": 2.3,
+            "Temps_de_la_visite": 41,
+            "Prix": 25,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "dimanche",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31666,8 +40225,17 @@ var data=[
                 2.896696
             ],
             "longitude": 2.896696,
-            "note": 0.9,
-            "Temps_de_la_visite": 44
+            "note": 0.4,
+            "Temps_de_la_visite": 33,
+            "Prix": 55,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "samedi",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31699,8 +40267,17 @@ var data=[
                 3.107319
             ],
             "longitude": 3.107319,
-            "note": 0.6,
-            "Temps_de_la_visite": 54
+            "note": 1.6,
+            "Temps_de_la_visite": 43,
+            "Prix": 39,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "lundi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31733,8 +40310,17 @@ var data=[
                 1.94934
             ],
             "longitude": 1.94934,
-            "note": 2.1,
-            "Temps_de_la_visite": 44
+            "note": 2.7,
+            "Temps_de_la_visite": 56,
+            "Prix": 21,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "lundi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31766,8 +40352,17 @@ var data=[
                 2.448167
             ],
             "longitude": 2.448167,
-            "note": 0.9,
-            "Temps_de_la_visite": 53
+            "note": 2.0,
+            "Temps_de_la_visite": 42,
+            "Prix": 46,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "mercredi",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31800,8 +40395,17 @@ var data=[
                 1.901945
             ],
             "longitude": 1.901945,
-            "note": 4.6,
-            "Temps_de_la_visite": 45
+            "note": 4.5,
+            "Temps_de_la_visite": 34,
+            "Prix": 17,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "vendredi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31834,8 +40438,17 @@ var data=[
                 0.899472
             ],
             "longitude": 0.899472,
-            "note": 4.0,
-            "Temps_de_la_visite": 21
+            "note": 4.8,
+            "Temps_de_la_visite": 38,
+            "Prix": 38,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "jeudi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31867,8 +40480,17 @@ var data=[
                 -1.329883
             ],
             "longitude": -1.329883,
-            "note": 3.0,
-            "Temps_de_la_visite": 41
+            "note": 0.5,
+            "Temps_de_la_visite": 39,
+            "Prix": 46,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "mercredi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31901,8 +40523,17 @@ var data=[
                 -1.549389
             ],
             "longitude": -1.549389,
-            "note": 0.7,
-            "Temps_de_la_visite": 30
+            "note": 3.6,
+            "Temps_de_la_visite": 41,
+            "Prix": 46,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "jeudi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31934,8 +40565,17 @@ var data=[
                 -2.21367
             ],
             "longitude": -2.21367,
-            "note": 4.7,
-            "Temps_de_la_visite": 41
+            "note": 1.0,
+            "Temps_de_la_visite": 56,
+            "Prix": 40,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "dimanche",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -31968,8 +40608,17 @@ var data=[
                 -0.119966
             ],
             "longitude": -0.119966,
-            "note": 4.7,
-            "Temps_de_la_visite": 57
+            "note": 1.6,
+            "Temps_de_la_visite": 58,
+            "Prix": 26,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "mercredi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32001,8 +40650,17 @@ var data=[
                 0.159508
             ],
             "longitude": 0.159508,
-            "note": 2.0,
-            "Temps_de_la_visite": 48
+            "note": 4.7,
+            "Temps_de_la_visite": 38,
+            "Prix": 29,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "samedi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32034,8 +40692,17 @@ var data=[
                 -0.496863
             ],
             "longitude": -0.496863,
-            "note": 3.1,
-            "Temps_de_la_visite": 35
+            "note": 3.0,
+            "Temps_de_la_visite": 25,
+            "Prix": 58,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "samedi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32067,8 +40734,17 @@ var data=[
                 -0.772148
             ],
             "longitude": -0.772148,
-            "note": 3.6,
-            "Temps_de_la_visite": 25
+            "note": 2.9,
+            "Temps_de_la_visite": 59,
+            "Prix": 31,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "samedi",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32101,8 +40777,17 @@ var data=[
                 -0.620269
             ],
             "longitude": -0.620269,
-            "note": 0.8,
-            "Temps_de_la_visite": 59
+            "note": 0.9,
+            "Temps_de_la_visite": 39,
+            "Prix": 50,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "dimanche",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32134,8 +40819,17 @@ var data=[
                 0.417263
             ],
             "longitude": 0.417263,
-            "note": 1.7,
-            "Temps_de_la_visite": 58
+            "note": 2.1,
+            "Temps_de_la_visite": 28,
+            "Prix": 34,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "mardi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32167,8 +40861,17 @@ var data=[
                 0.203755
             ],
             "longitude": 0.203755,
-            "note": 0.1,
-            "Temps_de_la_visite": 26
+            "note": 3.6,
+            "Temps_de_la_visite": 55,
+            "Prix": 20,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "samedi",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32200,8 +40903,17 @@ var data=[
                 -0.083896
             ],
             "longitude": -0.083896,
-            "note": 4.8,
-            "Temps_de_la_visite": 34
+            "note": 1.3,
+            "Temps_de_la_visite": 30,
+            "Prix": 56,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "jeudi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32233,8 +40945,17 @@ var data=[
                 -2.102492
             ],
             "longitude": -2.102492,
-            "note": 2.8,
-            "Temps_de_la_visite": 41
+            "note": 3.6,
+            "Temps_de_la_visite": 24,
+            "Prix": 59,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "lundi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32264,8 +40985,17 @@ var data=[
             ],
             "longitude": -2.231792,
             "ref_deps": "8510601",
-            "note": 4.4,
-            "Temps_de_la_visite": 24
+            "note": 3.7,
+            "Temps_de_la_visite": 35,
+            "Prix": 53,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "dimanche",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32297,8 +41027,17 @@ var data=[
                 -1.492724
             ],
             "longitude": -1.492724,
-            "note": 2.9,
-            "Temps_de_la_visite": 22
+            "note": 4.4,
+            "Temps_de_la_visite": 55,
+            "Prix": 25,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "mardi",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32329,8 +41068,17 @@ var data=[
                 -2.245756
             ],
             "longitude": -2.245756,
-            "note": 1.4,
-            "Temps_de_la_visite": 25
+            "note": 0.8,
+            "Temps_de_la_visite": 40,
+            "Prix": 48,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "vendredi",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32362,8 +41110,17 @@ var data=[
                 -2.243127
             ],
             "longitude": -2.243127,
-            "note": 1.1,
-            "Temps_de_la_visite": 32
+            "note": 0.6,
+            "Temps_de_la_visite": 26,
+            "Prix": 25,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "dimanche",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32396,8 +41153,17 @@ var data=[
                 7.124074
             ],
             "longitude": 7.124074,
-            "note": 0.1,
-            "Temps_de_la_visite": 21
+            "note": 2.6,
+            "Temps_de_la_visite": 56,
+            "Prix": 35,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "samedi",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32430,8 +41196,17 @@ var data=[
                 7.156541
             ],
             "longitude": 7.156541,
-            "note": 2.0,
-            "Temps_de_la_visite": 39
+            "note": 4.4,
+            "Temps_de_la_visite": 29,
+            "Prix": 40,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "vendredi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32463,8 +41238,17 @@ var data=[
                 7.010034
             ],
             "longitude": 7.010034,
-            "note": 1.0,
-            "Temps_de_la_visite": 32
+            "note": 4.4,
+            "Temps_de_la_visite": 24,
+            "Prix": 31,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "lundi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32497,8 +41281,17 @@ var data=[
                 7.508676
             ],
             "longitude": 7.508676,
-            "note": 1.7,
-            "Temps_de_la_visite": 23
+            "note": 2.9,
+            "Temps_de_la_visite": 39,
+            "Prix": 44,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "jeudi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32530,8 +41323,17 @@ var data=[
                 7.275115
             ],
             "longitude": 7.275115,
-            "note": 2.8,
-            "Temps_de_la_visite": 53
+            "note": 1.0,
+            "Temps_de_la_visite": 43,
+            "Prix": 24,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "samedi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32564,8 +41366,17 @@ var data=[
                 7.231462
             ],
             "longitude": 7.231462,
-            "note": 3.9,
-            "Temps_de_la_visite": 33
+            "note": 1.2,
+            "Temps_de_la_visite": 30,
+            "Prix": 28,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "samedi",
+                "mercredi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32597,8 +41408,17 @@ var data=[
                 7.249470499489079
             ],
             "longitude": 7.249470499489079,
-            "note": 1.5,
-            "Temps_de_la_visite": 32
+            "note": 3.9,
+            "Temps_de_la_visite": 44,
+            "Prix": 42,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "samedi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32631,8 +41451,17 @@ var data=[
                 7.276769
             ],
             "longitude": 7.276769,
-            "note": 1.8,
-            "Temps_de_la_visite": 35
+            "note": 4.4,
+            "Temps_de_la_visite": 55,
+            "Prix": 24,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "samedi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32666,7 +41495,16 @@ var data=[
             ],
             "longitude": 5.383313,
             "note": 4.7,
-            "Temps_de_la_visite": 38
+            "Temps_de_la_visite": 24,
+            "Prix": 43,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "vendredi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32699,8 +41537,17 @@ var data=[
                 5.367602
             ],
             "longitude": 5.367602,
-            "note": 3.1,
-            "Temps_de_la_visite": 42
+            "note": 4.9,
+            "Temps_de_la_visite": 32,
+            "Prix": 17,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "vendredi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32732,8 +41579,17 @@ var data=[
                 4.427775
             ],
             "longitude": 4.427775,
-            "note": 0.9,
-            "Temps_de_la_visite": 34
+            "note": 4.3,
+            "Temps_de_la_visite": 26,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "jeudi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32766,8 +41622,17 @@ var data=[
                 6.061427
             ],
             "longitude": 6.061427,
-            "note": 3.4,
-            "Temps_de_la_visite": 59
+            "note": 1.3,
+            "Temps_de_la_visite": 60,
+            "Prix": 49,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "lundi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32799,8 +41664,17 @@ var data=[
                 5.037862
             ],
             "longitude": 5.037862,
-            "note": 4.3,
-            "Temps_de_la_visite": 30
+            "note": 1.5,
+            "Temps_de_la_visite": 44,
+            "Prix": 37,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "lundi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32832,8 +41706,17 @@ var data=[
                 5.127397
             ],
             "longitude": 5.127397,
-            "note": 0.6,
-            "Temps_de_la_visite": 32
+            "note": 4.4,
+            "Temps_de_la_visite": 48,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "mardi",
+                "dimanche",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32864,8 +41747,17 @@ var data=[
                 5.12788
             ],
             "longitude": 5.12788,
-            "note": 2.6,
-            "Temps_de_la_visite": 24
+            "note": 3.1,
+            "Temps_de_la_visite": 31,
+            "Prix": 59,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "jeudi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32898,8 +41790,17 @@ var data=[
                 5.072128
             ],
             "longitude": 5.072128,
-            "note": 3.4,
-            "Temps_de_la_visite": 22
+            "note": 1.0,
+            "Temps_de_la_visite": 56,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "jeudi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32930,8 +41831,17 @@ var data=[
                 -52.65043417217795
             ],
             "longitude": -52.65043417217795,
-            "note": 4.4,
-            "Temps_de_la_visite": 58
+            "note": 0.3,
+            "Temps_de_la_visite": 36,
+            "Prix": 23,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "mercredi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32963,8 +41873,17 @@ var data=[
                 55.411839
             ],
             "longitude": 55.411839,
-            "note": 1.3,
-            "Temps_de_la_visite": 43
+            "note": 1.2,
+            "Temps_de_la_visite": 46,
+            "Prix": 54,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "mercredi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -32994,8 +41913,17 @@ var data=[
             ],
             "longitude": -61.070648,
             "ref_deps": "9720904",
-            "note": 1.9,
-            "Temps_de_la_visite": 47
+            "note": 2.0,
+            "Temps_de_la_visite": 28,
+            "Prix": 28,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "lundi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33027,8 +41955,17 @@ var data=[
                 -61.175994
             ],
             "longitude": -61.175994,
-            "note": 1.4,
-            "Temps_de_la_visite": 23
+            "note": 1.3,
+            "Temps_de_la_visite": 28,
+            "Prix": 31,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "vendredi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33061,8 +41998,17 @@ var data=[
                 5.236521
             ],
             "longitude": 5.236521,
-            "note": 4.7,
-            "Temps_de_la_visite": 41
+            "note": 0.4,
+            "Temps_de_la_visite": 26,
+            "Prix": 57,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "dimanche",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33095,8 +42041,17 @@ var data=[
                 3.1965137135762065
             ],
             "longitude": 3.1965137135762065,
-            "note": 4.1,
-            "Temps_de_la_visite": 33
+            "note": 0.5,
+            "Temps_de_la_visite": 55,
+            "Prix": 41,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "dimanche",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33129,8 +42084,17 @@ var data=[
                 2.662598
             ],
             "longitude": 2.662598,
-            "note": 0.3,
-            "Temps_de_la_visite": 34
+            "note": 3.9,
+            "Temps_de_la_visite": 27,
+            "Prix": 40,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "jeudi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33162,8 +42126,17 @@ var data=[
                 4.592008
             ],
             "longitude": 4.592008,
-            "note": 3.7,
-            "Temps_de_la_visite": 21
+            "note": 1.8,
+            "Temps_de_la_visite": 52,
+            "Prix": 53,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "jeudi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33195,8 +42168,17 @@ var data=[
                 4.425665
             ],
             "longitude": 4.425665,
-            "note": 2.9,
-            "Temps_de_la_visite": 41
+            "note": 2.5,
+            "Temps_de_la_visite": 29,
+            "Prix": 48,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "jeudi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33229,8 +42211,17 @@ var data=[
                 3.095067
             ],
             "longitude": 3.095067,
-            "note": 3.5,
-            "Temps_de_la_visite": 23
+            "note": 1.8,
+            "Temps_de_la_visite": 25,
+            "Prix": 23,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "samedi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33262,8 +42253,17 @@ var data=[
                 3.434883
             ],
             "longitude": 3.434883,
-            "note": 0.1,
-            "Temps_de_la_visite": 28
+            "note": 0.6,
+            "Temps_de_la_visite": 21,
+            "Prix": 50,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "dimanche",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33295,8 +42295,17 @@ var data=[
                 6.324161
             ],
             "longitude": 6.324161,
-            "note": 1.7,
-            "Temps_de_la_visite": 37
+            "note": 3.1,
+            "Temps_de_la_visite": 32,
+            "Prix": 38,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "samedi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33328,8 +42337,17 @@ var data=[
                 6.077135437624907
             ],
             "longitude": 6.077135437624907,
-            "note": 0.2,
-            "Temps_de_la_visite": 39
+            "note": 1.6,
+            "Temps_de_la_visite": 44,
+            "Prix": 17,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "vendredi",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33361,8 +42379,17 @@ var data=[
                 5.51555
             ],
             "longitude": 5.51555,
-            "note": 3.5,
-            "Temps_de_la_visite": 39
+            "note": 2.2,
+            "Temps_de_la_visite": 35,
+            "Prix": 40,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "samedi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33393,8 +42420,17 @@ var data=[
                 5.6692
             ],
             "longitude": 5.6692,
-            "note": 1.9,
-            "Temps_de_la_visite": 40
+            "note": 3.4,
+            "Temps_de_la_visite": 20,
+            "Prix": 18,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "vendredi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33426,8 +42462,17 @@ var data=[
                 4.06195
             ],
             "longitude": 4.06195,
-            "note": 1.6,
-            "Temps_de_la_visite": 31
+            "note": 2.2,
+            "Temps_de_la_visite": 30,
+            "Prix": 34,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "mardi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33459,8 +42504,17 @@ var data=[
                 4.387485
             ],
             "longitude": 4.387485,
-            "note": 0.7,
-            "Temps_de_la_visite": 47
+            "note": 3.0,
+            "Temps_de_la_visite": 55,
+            "Prix": 16,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "lundi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33492,8 +42546,17 @@ var data=[
                 3.383654
             ],
             "longitude": 3.383654,
-            "note": 0.8,
-            "Temps_de_la_visite": 21
+            "note": 1.1,
+            "Temps_de_la_visite": 21,
+            "Prix": 21,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "mardi",
+                "dimanche",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33526,8 +42589,17 @@ var data=[
                 3.038881
             ],
             "longitude": 3.038881,
-            "note": 4.9,
-            "Temps_de_la_visite": 34
+            "note": 2.3,
+            "Temps_de_la_visite": 36,
+            "Prix": 26,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "lundi",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33557,8 +42629,17 @@ var data=[
                 4.83153
             ],
             "longitude": 4.83153,
-            "note": 4.0,
-            "Temps_de_la_visite": 39
+            "note": 1.4,
+            "Temps_de_la_visite": 47,
+            "Prix": 47,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "lundi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33590,8 +42671,17 @@ var data=[
                 4.831633
             ],
             "longitude": 4.831633,
-            "note": 5.0,
-            "Temps_de_la_visite": 56
+            "note": 2.1,
+            "Temps_de_la_visite": 46,
+            "Prix": 55,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "jeudi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33623,8 +42713,17 @@ var data=[
                 4.721527
             ],
             "longitude": 4.721527,
-            "note": 3.5,
-            "Temps_de_la_visite": 44
+            "note": 1.7,
+            "Temps_de_la_visite": 47,
+            "Prix": 37,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "dimanche",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33657,8 +42756,17 @@ var data=[
                 5.915578
             ],
             "longitude": 5.915578,
-            "note": 3.7,
-            "Temps_de_la_visite": 60
+            "note": 3.9,
+            "Temps_de_la_visite": 28,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "samedi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33690,8 +42798,17 @@ var data=[
                 5.93011
             ],
             "longitude": 5.93011,
-            "note": 4.2,
-            "Temps_de_la_visite": 29
+            "note": 1.4,
+            "Temps_de_la_visite": 30,
+            "Prix": 51,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "mercredi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33723,8 +42840,17 @@ var data=[
                 4.469595
             ],
             "longitude": 4.469595,
-            "note": 3.1,
-            "Temps_de_la_visite": 52
+            "note": 0.6,
+            "Temps_de_la_visite": 33,
+            "Prix": 45,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "lundi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33757,8 +42883,17 @@ var data=[
                 4.839393
             ],
             "longitude": 4.839393,
-            "note": 2.6,
-            "Temps_de_la_visite": 46
+            "note": 0.1,
+            "Temps_de_la_visite": 53,
+            "Prix": 42,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "vendredi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33790,8 +42925,17 @@ var data=[
                 4.839393
             ],
             "longitude": 4.839393,
-            "note": 3.0,
-            "Temps_de_la_visite": 30
+            "note": 5.0,
+            "Temps_de_la_visite": 36,
+            "Prix": 58,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "vendredi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33824,8 +42968,17 @@ var data=[
                 4.574632
             ],
             "longitude": 4.574632,
-            "note": 2.9,
-            "Temps_de_la_visite": 40
+            "note": 0.3,
+            "Temps_de_la_visite": 41,
+            "Prix": 44,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "dimanche",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33858,8 +43011,17 @@ var data=[
                 5.042873
             ],
             "longitude": 5.042873,
-            "note": 3.9,
-            "Temps_de_la_visite": 37
+            "note": 3.6,
+            "Temps_de_la_visite": 24,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "samedi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33892,8 +43054,17 @@ var data=[
                 4.336985936365956
             ],
             "longitude": 4.336985936365956,
-            "note": 2.7,
-            "Temps_de_la_visite": 33
+            "note": 1.4,
+            "Temps_de_la_visite": 41,
+            "Prix": 21,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "vendredi",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33924,8 +43095,17 @@ var data=[
                 4.336901
             ],
             "longitude": 4.336901,
-            "note": 1.0,
-            "Temps_de_la_visite": 56
+            "note": 4.8,
+            "Temps_de_la_visite": 44,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "samedi",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33958,8 +43138,17 @@ var data=[
                 6.0352366087194325
             ],
             "longitude": 6.0352366087194325,
-            "note": 3.8,
-            "Temps_de_la_visite": 51
+            "note": 5.0,
+            "Temps_de_la_visite": 34,
+            "Prix": 46,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "mercredi",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -33992,8 +43181,17 @@ var data=[
                 5.592781
             ],
             "longitude": 5.592781,
-            "note": 3.9,
-            "Temps_de_la_visite": 27
+            "note": 3.4,
+            "Temps_de_la_visite": 44,
+            "Prix": 38,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "dimanche",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34026,8 +43224,17 @@ var data=[
                 6.155771
             ],
             "longitude": 6.155771,
-            "note": 0.2,
-            "Temps_de_la_visite": 49
+            "note": 3.4,
+            "Temps_de_la_visite": 52,
+            "Prix": 57,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "vendredi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34060,8 +43267,17 @@ var data=[
                 6.022578
             ],
             "longitude": 6.022578,
-            "note": 2.9,
-            "Temps_de_la_visite": 44
+            "note": 0.8,
+            "Temps_de_la_visite": 20,
+            "Prix": 26,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "mercredi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34093,8 +43309,17 @@ var data=[
                 3.934311
             ],
             "longitude": 3.934311,
-            "note": 2.3,
-            "Temps_de_la_visite": 51
+            "note": 2.5,
+            "Temps_de_la_visite": 27,
+            "Prix": 39,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "dimanche",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34126,8 +43351,17 @@ var data=[
                 3.016449
             ],
             "longitude": 3.016449,
-            "note": 2.7,
-            "Temps_de_la_visite": 49
+            "note": 1.6,
+            "Temps_de_la_visite": 56,
+            "Prix": 26,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "lundi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34158,8 +43392,17 @@ var data=[
                 2.949487
             ],
             "longitude": 2.949487,
-            "note": 1.3,
-            "Temps_de_la_visite": 53
+            "note": 0.7,
+            "Temps_de_la_visite": 35,
+            "Prix": 32,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "dimanche",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34192,8 +43435,17 @@ var data=[
                 3.07388
             ],
             "longitude": 3.07388,
-            "note": 3.3,
-            "Temps_de_la_visite": 36
+            "note": 0.0,
+            "Temps_de_la_visite": 22,
+            "Prix": 16,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mercredi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34225,8 +43477,17 @@ var data=[
                 4.299216
             ],
             "longitude": 4.299216,
-            "note": 4.5,
-            "Temps_de_la_visite": 37
+            "note": 0.1,
+            "Temps_de_la_visite": 53,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "samedi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34260,7 +43521,16 @@ var data=[
             ],
             "longitude": 4.382962,
             "note": 0.2,
-            "Temps_de_la_visite": 59
+            "Temps_de_la_visite": 33,
+            "Prix": 16,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "jeudi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34293,8 +43563,17 @@ var data=[
                 4.855727
             ],
             "longitude": 4.855727,
-            "note": 0.6,
-            "Temps_de_la_visite": 57
+            "note": 3.0,
+            "Temps_de_la_visite": 59,
+            "Prix": 24,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "dimanche",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34327,8 +43606,17 @@ var data=[
                 4.833156
             ],
             "longitude": 4.833156,
-            "note": 3.3,
-            "Temps_de_la_visite": 38
+            "note": 2.7,
+            "Temps_de_la_visite": 55,
+            "Prix": 26,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "dimanche",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34361,8 +43649,17 @@ var data=[
                 4.833156
             ],
             "longitude": 4.833156,
-            "note": 0.0,
-            "Temps_de_la_visite": 34
+            "note": 2.9,
+            "Temps_de_la_visite": 50,
+            "Prix": 55,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "vendredi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34390,8 +43687,17 @@ var data=[
                 4.119117
             ],
             "longitude": 4.119117,
-            "note": 1.7,
-            "Temps_de_la_visite": 43
+            "note": 4.2,
+            "Temps_de_la_visite": 26,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34424,8 +43730,17 @@ var data=[
                 4.062979
             ],
             "longitude": 4.062979,
-            "note": 1.0,
-            "Temps_de_la_visite": 36
+            "note": 2.5,
+            "Temps_de_la_visite": 41,
+            "Prix": 40,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "samedi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34458,8 +43773,17 @@ var data=[
                 4.910839
             ],
             "longitude": 4.910839,
-            "note": 3.8,
-            "Temps_de_la_visite": 47
+            "note": 0.2,
+            "Temps_de_la_visite": 23,
+            "Prix": 29,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "lundi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34492,8 +43816,17 @@ var data=[
                 6.867072
             ],
             "longitude": 6.867072,
-            "note": 1.8,
-            "Temps_de_la_visite": 35
+            "note": 0.6,
+            "Temps_de_la_visite": 31,
+            "Prix": 59,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "dimanche",
+                "lundi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34524,8 +43857,17 @@ var data=[
                 -2.050808
             ],
             "longitude": -2.050808,
-            "note": 0.1,
-            "Temps_de_la_visite": 48
+            "note": 4.1,
+            "Temps_de_la_visite": 32,
+            "Prix": 38,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "dimanche",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34558,8 +43900,17 @@ var data=[
                 -3.915485
             ],
             "longitude": -3.915485,
-            "note": 0.3,
-            "Temps_de_la_visite": 39
+            "note": 4.8,
+            "Temps_de_la_visite": 29,
+            "Prix": 20,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "samedi",
+                "dimanche",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34591,8 +43942,17 @@ var data=[
                 -5.110775
             ],
             "longitude": -5.110775,
-            "note": 1.5,
-            "Temps_de_la_visite": 56
+            "note": 4.0,
+            "Temps_de_la_visite": 51,
+            "Prix": 53,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "dimanche",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34625,8 +43985,17 @@ var data=[
                 -4.227768
             ],
             "longitude": -4.227768,
-            "note": 3.7,
-            "Temps_de_la_visite": 41
+            "note": 2.6,
+            "Temps_de_la_visite": 22,
+            "Prix": 26,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mardi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34659,8 +44028,17 @@ var data=[
                 -4.102602
             ],
             "longitude": -4.102602,
-            "note": 4.0,
-            "Temps_de_la_visite": 41
+            "note": 2.8,
+            "Temps_de_la_visite": 55,
+            "Prix": 45,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "lundi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34693,8 +44071,17 @@ var data=[
                 -1.959973
             ],
             "longitude": -1.959973,
-            "note": 3.5,
-            "Temps_de_la_visite": 28
+            "note": 1.4,
+            "Temps_de_la_visite": 23,
+            "Prix": 23,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "samedi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34726,8 +44113,17 @@ var data=[
                 -1.674981
             ],
             "longitude": -1.674981,
-            "note": 0.6,
-            "Temps_de_la_visite": 39
+            "note": 1.7,
+            "Temps_de_la_visite": 60,
+            "Prix": 59,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "mercredi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34760,8 +44156,17 @@ var data=[
                 -2.023727
             ],
             "longitude": -2.023727,
-            "note": 3.1,
-            "Temps_de_la_visite": 49
+            "note": 2.0,
+            "Temps_de_la_visite": 58,
+            "Prix": 16,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "dimanche",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34793,8 +44198,17 @@ var data=[
                 -3.0785
             ],
             "longitude": -3.0785,
-            "note": 3.7,
-            "Temps_de_la_visite": 27
+            "note": 0.2,
+            "Temps_de_la_visite": 44,
+            "Prix": 52,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "vendredi",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34826,8 +44240,17 @@ var data=[
                 -2.757556
             ],
             "longitude": -2.757556,
-            "note": 3.1,
-            "Temps_de_la_visite": 39
+            "note": 2.8,
+            "Temps_de_la_visite": 27,
+            "Prix": 50,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "vendredi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34860,8 +44283,17 @@ var data=[
                 2.396195
             ],
             "longitude": 2.396195,
-            "note": 3.6,
-            "Temps_de_la_visite": 52
+            "note": 3.4,
+            "Temps_de_la_visite": 43,
+            "Prix": 43,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "jeudi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34893,8 +44325,17 @@ var data=[
                 2.196543
             ],
             "longitude": 2.196543,
-            "note": 2.6,
-            "Temps_de_la_visite": 21
+            "note": 0.2,
+            "Temps_de_la_visite": 39,
+            "Prix": 16,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "vendredi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34926,8 +44367,17 @@ var data=[
                 2.506654
             ],
             "longitude": 2.506654,
-            "note": 3.4,
-            "Temps_de_la_visite": 51
+            "note": 3.2,
+            "Temps_de_la_visite": 58,
+            "Prix": 51,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "samedi",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34959,8 +44409,17 @@ var data=[
                 1.486763
             ],
             "longitude": 1.486763,
-            "note": 2.0,
-            "Temps_de_la_visite": 43
+            "note": 3.2,
+            "Temps_de_la_visite": 42,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "jeudi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -34992,8 +44451,17 @@ var data=[
                 1.243114
             ],
             "longitude": 1.243114,
-            "note": 0.7,
-            "Temps_de_la_visite": 52
+            "note": 2.7,
+            "Temps_de_la_visite": 38,
+            "Prix": 56,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mardi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35025,8 +44493,17 @@ var data=[
                 1.515379
             ],
             "longitude": 1.515379,
-            "note": 3.7,
-            "Temps_de_la_visite": 30
+            "note": 0.9,
+            "Temps_de_la_visite": 35,
+            "Prix": 21,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "jeudi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35058,8 +44535,17 @@ var data=[
                 0.985929
             ],
             "longitude": 0.985929,
-            "note": 1.3,
-            "Temps_de_la_visite": 26
+            "note": 3.5,
+            "Temps_de_la_visite": 42,
+            "Prix": 19,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "mercredi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35092,8 +44578,17 @@ var data=[
                 0.324353
             ],
             "longitude": 0.324353,
-            "note": 3.8,
-            "Temps_de_la_visite": 53
+            "note": 2.8,
+            "Temps_de_la_visite": 43,
+            "Prix": 34,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "lundi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35126,8 +44621,17 @@ var data=[
                 0.544078
             ],
             "longitude": 0.544078,
-            "note": 1.2,
-            "Temps_de_la_visite": 38
+            "note": 0.5,
+            "Temps_de_la_visite": 40,
+            "Prix": 27,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "mardi",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35159,8 +44663,17 @@ var data=[
                 0.319748
             ],
             "longitude": 0.319748,
-            "note": 2.2,
-            "Temps_de_la_visite": 35
+            "note": 1.1,
+            "Temps_de_la_visite": 32,
+            "Prix": 57,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "mardi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35192,8 +44705,17 @@ var data=[
                 0.124427
             ],
             "longitude": 0.124427,
-            "note": 0.7,
-            "Temps_de_la_visite": 25
+            "note": 2.6,
+            "Temps_de_la_visite": 60,
+            "Prix": 45,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "samedi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35225,8 +44747,17 @@ var data=[
                 1.909578
             ],
             "longitude": 1.909578,
-            "note": 4.9,
-            "Temps_de_la_visite": 33
+            "note": 4.1,
+            "Temps_de_la_visite": 33,
+            "Prix": 56,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "samedi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35257,8 +44788,17 @@ var data=[
                 2.255004
             ],
             "longitude": 2.255004,
-            "note": 0.3,
-            "Temps_de_la_visite": 44
+            "note": 1.2,
+            "Temps_de_la_visite": 25,
+            "Prix": 53,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "dimanche",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35290,8 +44830,17 @@ var data=[
                 1.332917
             ],
             "longitude": 1.332917,
-            "note": 2.3,
-            "Temps_de_la_visite": 40
+            "note": 1.0,
+            "Temps_de_la_visite": 33,
+            "Prix": 41,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "vendredi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35323,8 +44872,17 @@ var data=[
                 1.064507
             ],
             "longitude": 1.064507,
-            "note": 1.1,
-            "Temps_de_la_visite": 52
+            "note": 3.4,
+            "Temps_de_la_visite": 35,
+            "Prix": 31,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "jeudi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35353,8 +44911,17 @@ var data=[
             ],
             "longitude": 8.735937,
             "ref_deps": "2A00401",
-            "note": 1.8,
-            "Temps_de_la_visite": 54
+            "note": 3.6,
+            "Temps_de_la_visite": 54,
+            "Prix": 48,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "lundi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35387,8 +44954,17 @@ var data=[
                 9.442618
             ],
             "longitude": 9.442618,
-            "note": 4.3,
-            "Temps_de_la_visite": 21
+            "note": 1.3,
+            "Temps_de_la_visite": 23,
+            "Prix": 25,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "mercredi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35420,8 +44996,17 @@ var data=[
                 9.30935382387544
             ],
             "longitude": 9.30935382387544,
-            "note": 0.5,
-            "Temps_de_la_visite": 48
+            "note": 2.5,
+            "Temps_de_la_visite": 51,
+            "Prix": 44,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "mercredi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35454,8 +45039,17 @@ var data=[
                 4.720613
             ],
             "longitude": 4.720613,
-            "note": 2.1,
-            "Temps_de_la_visite": 58
+            "note": 3.1,
+            "Temps_de_la_visite": 59,
+            "Prix": 56,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "jeudi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35488,8 +45082,17 @@ var data=[
                 5.074601
             ],
             "longitude": 5.074601,
-            "note": 3.3,
-            "Temps_de_la_visite": 38
+            "note": 4.2,
+            "Temps_de_la_visite": 22,
+            "Prix": 52,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35522,8 +45125,17 @@ var data=[
                 7.482915
             ],
             "longitude": 7.482915,
-            "note": 2.9,
-            "Temps_de_la_visite": 58
+            "note": 3.1,
+            "Temps_de_la_visite": 36,
+            "Prix": 46,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mardi",
+                "dimanche",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35555,8 +45167,17 @@ var data=[
                 7.789527
             ],
             "longitude": 7.789527,
-            "note": 3.9,
-            "Temps_de_la_visite": 33
+            "note": 4.1,
+            "Temps_de_la_visite": 41,
+            "Prix": 55,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "samedi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35588,8 +45209,17 @@ var data=[
                 7.49023
             ],
             "longitude": 7.49023,
-            "note": 0.3,
-            "Temps_de_la_visite": 25
+            "note": 0.9,
+            "Temps_de_la_visite": 56,
+            "Prix": 27,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "samedi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35621,8 +45251,17 @@ var data=[
                 7.650428
             ],
             "longitude": 7.650428,
-            "note": 2.0,
-            "Temps_de_la_visite": 28
+            "note": 1.7,
+            "Temps_de_la_visite": 49,
+            "Prix": 25,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35655,8 +45294,17 @@ var data=[
                 7.362787
             ],
             "longitude": 7.362787,
-            "note": 0.8,
-            "Temps_de_la_visite": 53
+            "note": 4.6,
+            "Temps_de_la_visite": 30,
+            "Prix": 52,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "mercredi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35689,8 +45337,17 @@ var data=[
                 7.751984
             ],
             "longitude": 7.751984,
-            "note": 3.8,
-            "Temps_de_la_visite": 22
+            "note": 3.6,
+            "Temps_de_la_visite": 31,
+            "Prix": 32,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "mercredi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35723,8 +45380,17 @@ var data=[
                 7.749714
             ],
             "longitude": 7.749714,
-            "note": 0.0,
-            "Temps_de_la_visite": 28
+            "note": 0.7,
+            "Temps_de_la_visite": 53,
+            "Prix": 54,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35756,8 +45422,17 @@ var data=[
                 7.237204
             ],
             "longitude": 7.237204,
-            "note": 4.8,
-            "Temps_de_la_visite": 23
+            "note": 4.7,
+            "Temps_de_la_visite": 27,
+            "Prix": 34,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35789,8 +45464,17 @@ var data=[
                 7.357746
             ],
             "longitude": 7.357746,
-            "note": 0.1,
-            "Temps_de_la_visite": 36
+            "note": 1.3,
+            "Temps_de_la_visite": 30,
+            "Prix": 28,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35823,8 +45507,17 @@ var data=[
                 7.214504
             ],
             "longitude": 7.214504,
-            "note": 2.1,
-            "Temps_de_la_visite": 47
+            "note": 1.9,
+            "Temps_de_la_visite": 29,
+            "Prix": 43,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "mardi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35856,8 +45549,17 @@ var data=[
                 7.261441
             ],
             "longitude": 7.261441,
-            "note": 2.7,
-            "Temps_de_la_visite": 51
+            "note": 1.9,
+            "Temps_de_la_visite": 45,
+            "Prix": 21,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "jeudi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35890,8 +45592,17 @@ var data=[
                 7.338271
             ],
             "longitude": 7.338271,
-            "note": 2.0,
-            "Temps_de_la_visite": 28
+            "note": 4.3,
+            "Temps_de_la_visite": 27,
+            "Prix": 40,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "dimanche",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35923,8 +45634,17 @@ var data=[
                 7.338434
             ],
             "longitude": 7.338434,
-            "note": 2.9,
-            "Temps_de_la_visite": 47
+            "note": 1.1,
+            "Temps_de_la_visite": 30,
+            "Prix": 43,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mardi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35956,8 +45676,17 @@ var data=[
                 7.391275
             ],
             "longitude": 7.391275,
-            "note": 2.4,
-            "Temps_de_la_visite": 51
+            "note": 2.2,
+            "Temps_de_la_visite": 48,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "dimanche",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -35989,8 +45718,17 @@ var data=[
                 7.297406
             ],
             "longitude": 7.297406,
-            "note": 0.5,
-            "Temps_de_la_visite": 42
+            "note": 4.4,
+            "Temps_de_la_visite": 58,
+            "Prix": 20,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "lundi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36021,8 +45759,17 @@ var data=[
                 4.040071
             ],
             "longitude": 4.040071,
-            "note": 3.9,
-            "Temps_de_la_visite": 44
+            "note": 4.3,
+            "Temps_de_la_visite": 28,
+            "Prix": 28,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "lundi",
+                "dimanche",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36055,8 +45802,17 @@ var data=[
                 5.50824
             ],
             "longitude": 5.50824,
-            "note": 3.3,
-            "Temps_de_la_visite": 44
+            "note": 4.5,
+            "Temps_de_la_visite": 23,
+            "Prix": 43,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "jeudi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36090,7 +45846,16 @@ var data=[
             ],
             "longitude": 5.666,
             "note": 2.9,
-            "Temps_de_la_visite": 36
+            "Temps_de_la_visite": 40,
+            "Prix": 28,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36122,8 +45887,17 @@ var data=[
                 6.177978
             ],
             "longitude": 6.177978,
-            "note": 0.2,
-            "Temps_de_la_visite": 42
+            "note": 4.8,
+            "Temps_de_la_visite": 47,
+            "Prix": 26,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "mercredi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36155,8 +45929,17 @@ var data=[
                 7.055253
             ],
             "longitude": 7.055253,
-            "note": 3.6,
-            "Temps_de_la_visite": 33
+            "note": 2.2,
+            "Temps_de_la_visite": 42,
+            "Prix": 26,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "dimanche",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36188,8 +45971,17 @@ var data=[
                 6.446595
             ],
             "longitude": 6.446595,
-            "note": 0.2,
-            "Temps_de_la_visite": 42
+            "note": 1.6,
+            "Temps_de_la_visite": 53,
+            "Prix": 42,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "vendredi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36221,8 +46013,17 @@ var data=[
                 6.593289
             ],
             "longitude": 6.593289,
-            "note": 4.9,
-            "Temps_de_la_visite": 21
+            "note": 3.4,
+            "Temps_de_la_visite": 59,
+            "Prix": 30,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "jeudi",
+                "vendredi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36255,8 +46056,17 @@ var data=[
                 3.907684
             ],
             "longitude": 3.907684,
-            "note": 3.0,
-            "Temps_de_la_visite": 46
+            "note": 1.1,
+            "Temps_de_la_visite": 33,
+            "Prix": 59,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "mardi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36289,7 +46099,16 @@ var data=[
             ],
             "longitude": 3.089691,
             "note": 1.7,
-            "Temps_de_la_visite": 58
+            "Temps_de_la_visite": 43,
+            "Prix": 23,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "dimanche",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36321,8 +46140,17 @@ var data=[
                 2.430391
             ],
             "longitude": 2.430391,
-            "note": 3.5,
-            "Temps_de_la_visite": 23
+            "note": 3.2,
+            "Temps_de_la_visite": 56,
+            "Prix": 19,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mercredi",
+                "vendredi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36354,8 +46182,17 @@ var data=[
                 3.07548
             ],
             "longitude": 3.07548,
-            "note": 4.9,
-            "Temps_de_la_visite": 25
+            "note": 2.2,
+            "Temps_de_la_visite": 53,
+            "Prix": 55,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "vendredi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36386,8 +46223,17 @@ var data=[
                 2.8519734878840772
             ],
             "longitude": 2.8519734878840772,
-            "note": 2.8,
-            "Temps_de_la_visite": 34
+            "note": 4.4,
+            "Temps_de_la_visite": 26,
+            "Prix": 23,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "lundi",
+                "jeudi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36419,8 +46265,17 @@ var data=[
                 3.541175
             ],
             "longitude": 3.541175,
-            "note": 3.2,
-            "Temps_de_la_visite": 39
+            "note": 2.0,
+            "Temps_de_la_visite": 55,
+            "Prix": 44,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "dimanche",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36452,8 +46307,17 @@ var data=[
                 3.066546
             ],
             "longitude": 3.066546,
-            "note": 4.7,
-            "Temps_de_la_visite": 55
+            "note": 0.2,
+            "Temps_de_la_visite": 34,
+            "Prix": 27,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "samedi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36484,8 +46348,17 @@ var data=[
                 4.023602
             ],
             "longitude": 4.023602,
-            "note": 1.5,
-            "Temps_de_la_visite": 46
+            "note": 2.6,
+            "Temps_de_la_visite": 33,
+            "Prix": 44,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36517,8 +46390,17 @@ var data=[
                 3.162878
             ],
             "longitude": 3.162878,
-            "note": 0.3,
-            "Temps_de_la_visite": 57
+            "note": 1.9,
+            "Temps_de_la_visite": 26,
+            "Prix": 42,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "mercredi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36550,8 +46432,17 @@ var data=[
                 3.148587
             ],
             "longitude": 3.148587,
-            "note": 0.0,
-            "Temps_de_la_visite": 55
+            "note": 4.0,
+            "Temps_de_la_visite": 29,
+            "Prix": 25,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "mardi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36584,8 +46475,17 @@ var data=[
                 2.8299891671026103
             ],
             "longitude": 2.8299891671026103,
-            "note": 2.1,
-            "Temps_de_la_visite": 39
+            "note": 1.0,
+            "Temps_de_la_visite": 54,
+            "Prix": 28,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "vendredi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36617,8 +46517,17 @@ var data=[
                 2.295968
             ],
             "longitude": 2.295968,
-            "note": 4.8,
-            "Temps_de_la_visite": 38
+            "note": 0.8,
+            "Temps_de_la_visite": 23,
+            "Prix": 43,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "samedi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36650,8 +46559,17 @@ var data=[
                 2.2962542880135013
             ],
             "longitude": 2.2962542880135013,
-            "note": 1.4,
-            "Temps_de_la_visite": 37
+            "note": 2.9,
+            "Temps_de_la_visite": 28,
+            "Prix": 51,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "vendredi",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36684,8 +46602,17 @@ var data=[
                 2.9357
             ],
             "longitude": 2.9357,
-            "note": 1.9,
-            "Temps_de_la_visite": 44
+            "note": 0.3,
+            "Temps_de_la_visite": 28,
+            "Prix": 35,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mardi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36719,7 +46646,16 @@ var data=[
             ],
             "longitude": 2.161909,
             "note": 4.9,
-            "Temps_de_la_visite": 51
+            "Temps_de_la_visite": 30,
+            "Prix": 18,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "lundi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36751,8 +46687,17 @@ var data=[
                 2.227488
             ],
             "longitude": 2.227488,
-            "note": 1.7,
-            "Temps_de_la_visite": 51
+            "note": 2.0,
+            "Temps_de_la_visite": 31,
+            "Prix": 42,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "mardi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36784,8 +46729,17 @@ var data=[
                 2.246847
             ],
             "longitude": 2.246847,
-            "note": 1.3,
-            "Temps_de_la_visite": 37
+            "note": 4.7,
+            "Temps_de_la_visite": 52,
+            "Prix": 23,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "samedi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36818,8 +46772,17 @@ var data=[
                 2.234894
             ],
             "longitude": 2.234894,
-            "note": 0.1,
-            "Temps_de_la_visite": 45
+            "note": 2.1,
+            "Temps_de_la_visite": 55,
+            "Prix": 51,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "mardi",
+                "mercredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36850,8 +46813,17 @@ var data=[
                 2.21992
             ],
             "longitude": 2.21992,
-            "note": 2.0,
-            "Temps_de_la_visite": 46
+            "note": 2.8,
+            "Temps_de_la_visite": 29,
+            "Prix": 39,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "lundi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36884,8 +46856,17 @@ var data=[
                 2.280805
             ],
             "longitude": 2.280805,
-            "note": 2.3,
-            "Temps_de_la_visite": 28
+            "note": 1.4,
+            "Temps_de_la_visite": 36,
+            "Prix": 22,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "jeudi",
+                "mardi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36918,8 +46899,17 @@ var data=[
                 2.319773
             ],
             "longitude": 2.319773,
-            "note": 4.8,
-            "Temps_de_la_visite": 37
+            "note": 4.2,
+            "Temps_de_la_visite": 35,
+            "Prix": 59,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "jeudi",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36952,8 +46942,17 @@ var data=[
                 2.312885
             ],
             "longitude": 2.312885,
-            "note": 3.1,
-            "Temps_de_la_visite": 52
+            "note": 0.7,
+            "Temps_de_la_visite": 31,
+            "Prix": 21,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "dimanche",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -36984,8 +46983,17 @@ var data=[
                 2.390394
             ],
             "longitude": 2.390394,
-            "note": 3.4,
-            "Temps_de_la_visite": 59
+            "note": 4.0,
+            "Temps_de_la_visite": 46,
+            "Prix": 43,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "samedi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37017,8 +47025,17 @@ var data=[
                 2.333457
             ],
             "longitude": 2.333457,
-            "note": 2.3,
-            "Temps_de_la_visite": 24
+            "note": 0.0,
+            "Temps_de_la_visite": 24,
+            "Prix": 45,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "lundi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37051,8 +47068,17 @@ var data=[
                 2.293754
             ],
             "longitude": 2.293754,
-            "note": 3.9,
-            "Temps_de_la_visite": 52
+            "note": 2.7,
+            "Temps_de_la_visite": 56,
+            "Prix": 18,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "vendredi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37084,8 +47110,17 @@ var data=[
                 2.307689
             ],
             "longitude": 2.307689,
-            "note": 3.6,
-            "Temps_de_la_visite": 27
+            "note": 4.7,
+            "Temps_de_la_visite": 36,
+            "Prix": 47,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "samedi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37117,8 +47152,17 @@ var data=[
                 2.356007
             ],
             "longitude": 2.356007,
-            "note": 0.8,
-            "Temps_de_la_visite": 31
+            "note": 1.9,
+            "Temps_de_la_visite": 21,
+            "Prix": 47,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "mercredi",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37151,8 +47195,17 @@ var data=[
                 2.344553
             ],
             "longitude": 2.344553,
-            "note": 3.5,
-            "Temps_de_la_visite": 54
+            "note": 0.3,
+            "Temps_de_la_visite": 54,
+            "Prix": 18,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "vendredi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37185,8 +47238,17 @@ var data=[
                 2.359933
             ],
             "longitude": 2.359933,
-            "note": 4.8,
-            "Temps_de_la_visite": 41
+            "note": 1.8,
+            "Temps_de_la_visite": 23,
+            "Prix": 60,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "vendredi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37219,8 +47281,17 @@ var data=[
                 2.31598
             ],
             "longitude": 2.31598,
-            "note": 4.7,
-            "Temps_de_la_visite": 54
+            "note": 0.4,
+            "Temps_de_la_visite": 51,
+            "Prix": 58,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "vendredi",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37252,8 +47323,17 @@ var data=[
                 2.712931
             ],
             "longitude": 2.712931,
-            "note": 3.7,
-            "Temps_de_la_visite": 35
+            "note": 2.0,
+            "Temps_de_la_visite": 40,
+            "Prix": 38,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "mardi",
+                "mercredi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37283,8 +47363,17 @@ var data=[
             ],
             "longitude": 2.908441509296712,
             "ref_deps": "7714201",
-            "note": 3.1,
-            "Temps_de_la_visite": 52
+            "note": 4.9,
+            "Temps_de_la_visite": 41,
+            "Prix": 16,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "samedi",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37316,8 +47405,17 @@ var data=[
                 2.658972
             ],
             "longitude": 2.658972,
-            "note": 0.2,
-            "Temps_de_la_visite": 50
+            "note": 3.2,
+            "Temps_de_la_visite": 44,
+            "Prix": 46,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "lundi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37349,8 +47447,17 @@ var data=[
                 3.18169
             ],
             "longitude": 3.18169,
-            "note": 4.4,
-            "Temps_de_la_visite": 60
+            "note": 4.2,
+            "Temps_de_la_visite": 46,
+            "Prix": 59,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "mardi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37383,8 +47490,17 @@ var data=[
                 2.4355624358692265
             ],
             "longitude": 2.4355624358692265,
-            "note": 0.8,
-            "Temps_de_la_visite": 23
+            "note": 2.1,
+            "Temps_de_la_visite": 24,
+            "Prix": 36,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "dimanche",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37416,8 +47532,17 @@ var data=[
                 2.355796
             ],
             "longitude": 2.355796,
-            "note": 0.7,
-            "Temps_de_la_visite": 56
+            "note": 1.0,
+            "Temps_de_la_visite": 32,
+            "Prix": 25,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "dimanche",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37450,8 +47575,17 @@ var data=[
                 2.153216
             ],
             "longitude": 2.153216,
-            "note": 2.2,
-            "Temps_de_la_visite": 44
+            "note": 2.5,
+            "Temps_de_la_visite": 26,
+            "Prix": 52,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "dimanche",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37483,8 +47617,17 @@ var data=[
                 1.847178
             ],
             "longitude": 1.847178,
-            "note": 3.4,
-            "Temps_de_la_visite": 54
+            "note": 1.9,
+            "Temps_de_la_visite": 58,
+            "Prix": 57,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "lundi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37517,8 +47660,17 @@ var data=[
                 1.823892
             ],
             "longitude": 1.823892,
-            "note": 1.4,
-            "Temps_de_la_visite": 57
+            "note": 2.4,
+            "Temps_de_la_visite": 34,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "mardi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37550,8 +47702,17 @@ var data=[
                 2.087541
             ],
             "longitude": 2.087541,
-            "note": 3.2,
-            "Temps_de_la_visite": 27
+            "note": 0.5,
+            "Temps_de_la_visite": 53,
+            "Prix": 18,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "samedi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37584,8 +47745,17 @@ var data=[
                 2.069096
             ],
             "longitude": 2.069096,
-            "note": 4.9,
-            "Temps_de_la_visite": 54
+            "note": 0.1,
+            "Temps_de_la_visite": 23,
+            "Prix": 52,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "lundi",
+                "mardi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37618,8 +47788,17 @@ var data=[
                 0.406804
             ],
             "longitude": 0.406804,
-            "note": 0.6,
-            "Temps_de_la_visite": 52
+            "note": 3.7,
+            "Temps_de_la_visite": 25,
+            "Prix": 32,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "mercredi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37651,8 +47830,17 @@ var data=[
                 -0.612546
             ],
             "longitude": -0.612546,
-            "note": 3.4,
-            "Temps_de_la_visite": 34
+            "note": 3.5,
+            "Temps_de_la_visite": 21,
+            "Prix": 29,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "mardi",
+                "samedi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37684,8 +47872,17 @@ var data=[
                 -0.431321
             ],
             "longitude": -0.431321,
-            "note": 3.0,
-            "Temps_de_la_visite": 27
+            "note": 0.3,
+            "Temps_de_la_visite": 39,
+            "Prix": 30,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "samedi",
+                "vendredi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37717,8 +47914,17 @@ var data=[
                 0.013729
             ],
             "longitude": 0.013729,
-            "note": 3.1,
-            "Temps_de_la_visite": 33
+            "note": 3.5,
+            "Temps_de_la_visite": 25,
+            "Prix": 29,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "samedi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37750,8 +47956,17 @@ var data=[
                 -0.888245
             ],
             "longitude": -0.888245,
-            "note": 2.9,
-            "Temps_de_la_visite": 28
+            "note": 1.5,
+            "Temps_de_la_visite": 57,
+            "Prix": 57,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "lundi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37784,8 +47999,17 @@ var data=[
                 1.1502
             ],
             "longitude": 1.1502,
-            "note": 4.6,
-            "Temps_de_la_visite": 54
+            "note": 2.8,
+            "Temps_de_la_visite": 45,
+            "Prix": 19,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "vendredi",
+                "samedi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37818,8 +48042,17 @@ var data=[
                 1.484927
             ],
             "longitude": 1.484927,
-            "note": 1.2,
-            "Temps_de_la_visite": 53
+            "note": 4.6,
+            "Temps_de_la_visite": 26,
+            "Prix": 48,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "lundi",
+                "jeudi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37852,8 +48085,17 @@ var data=[
                 -1.630729
             ],
             "longitude": -1.630729,
-            "note": 4.4,
-            "Temps_de_la_visite": 50
+            "note": 4.7,
+            "Temps_de_la_visite": 54,
+            "Prix": 33,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "jeudi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37886,8 +48128,17 @@ var data=[
                 -1.602814
             ],
             "longitude": -1.602814,
-            "note": 2.7,
-            "Temps_de_la_visite": 48
+            "note": 1.3,
+            "Temps_de_la_visite": 43,
+            "Prix": 31,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37919,8 +48170,17 @@ var data=[
                 -1.470416
             ],
             "longitude": -1.470416,
-            "note": 0.5,
-            "Temps_de_la_visite": 37
+            "note": 3.8,
+            "Temps_de_la_visite": 32,
+            "Prix": 25,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "dimanche",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37954,7 +48214,16 @@ var data=[
             ],
             "longitude": -1.221648,
             "note": 3.0,
-            "Temps_de_la_visite": 50
+            "Temps_de_la_visite": 55,
+            "Prix": 25,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "jeudi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -37986,8 +48255,17 @@ var data=[
                 -0.3590626630746374
             ],
             "longitude": -0.3590626630746374,
-            "note": 4.2,
-            "Temps_de_la_visite": 43
+            "note": 2.7,
+            "Temps_de_la_visite": 26,
+            "Prix": 53,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "lundi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38020,8 +48298,17 @@ var data=[
                 0.171614
             ],
             "longitude": 0.171614,
-            "note": 4.4,
-            "Temps_de_la_visite": 21
+            "note": 4.0,
+            "Temps_de_la_visite": 29,
+            "Prix": 51,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "vendredi",
+                "dimanche",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38053,8 +48340,17 @@ var data=[
                 0.36825
             ],
             "longitude": 0.36825,
-            "note": 3.1,
-            "Temps_de_la_visite": 33
+            "note": 3.2,
+            "Temps_de_la_visite": 29,
+            "Prix": 58,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "jeudi",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38086,8 +48382,17 @@ var data=[
                 0.114474
             ],
             "longitude": 0.114474,
-            "note": 1.9,
-            "Temps_de_la_visite": 42
+            "note": 0.8,
+            "Temps_de_la_visite": 43,
+            "Prix": 50,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "vendredi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38120,8 +48425,17 @@ var data=[
                 0.535803
             ],
             "longitude": 0.535803,
-            "note": 0.2,
-            "Temps_de_la_visite": 43
+            "note": 1.7,
+            "Temps_de_la_visite": 26,
+            "Prix": 57,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "dimanche",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38154,8 +48468,17 @@ var data=[
                 1.101667
             ],
             "longitude": 1.101667,
-            "note": 1.3,
-            "Temps_de_la_visite": 32
+            "note": 1.2,
+            "Temps_de_la_visite": 36,
+            "Prix": 46,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "mardi",
+                "samedi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38187,8 +48510,17 @@ var data=[
                 1.086748
             ],
             "longitude": 1.086748,
-            "note": 0.9,
-            "Temps_de_la_visite": 26
+            "note": 4.5,
+            "Temps_de_la_visite": 26,
+            "Prix": 58,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38220,8 +48552,17 @@ var data=[
                 -1.111861
             ],
             "longitude": -1.111861,
-            "note": 4.0,
-            "Temps_de_la_visite": 48
+            "note": 2.6,
+            "Temps_de_la_visite": 58,
+            "Prix": 42,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "mardi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38253,8 +48594,17 @@ var data=[
                 -0.962523
             ],
             "longitude": -0.962523,
-            "note": 0.8,
-            "Temps_de_la_visite": 48
+            "note": 3.1,
+            "Temps_de_la_visite": 30,
+            "Prix": 18,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "lundi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38286,8 +48636,17 @@ var data=[
                 -0.962724
             ],
             "longitude": -0.962724,
-            "note": 4.8,
-            "Temps_de_la_visite": 44
+            "note": 3.5,
+            "Temps_de_la_visite": 58,
+            "Prix": 45,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "mercredi",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38319,8 +48678,17 @@ var data=[
                 -0.454107
             ],
             "longitude": -0.454107,
-            "note": 0.2,
-            "Temps_de_la_visite": 34
+            "note": 2.2,
+            "Temps_de_la_visite": 31,
+            "Prix": 54,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "mercredi",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38352,8 +48720,17 @@ var data=[
                 -0.24942
             ],
             "longitude": -0.24942,
-            "note": 1.9,
-            "Temps_de_la_visite": 41
+            "note": 3.1,
+            "Temps_de_la_visite": 43,
+            "Prix": 17,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "jeudi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38386,8 +48763,17 @@ var data=[
                 -0.217936
             ],
             "longitude": -0.217936,
-            "note": 1.8,
-            "Temps_de_la_visite": 29
+            "note": 2.2,
+            "Temps_de_la_visite": 42,
+            "Prix": 22,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "vendredi",
+                "samedi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38420,8 +48806,17 @@ var data=[
                 1.214147
             ],
             "longitude": 1.214147,
-            "note": 0.7,
-            "Temps_de_la_visite": 49
+            "note": 4.8,
+            "Temps_de_la_visite": 35,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "mardi",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38454,8 +48849,17 @@ var data=[
                 0.361673
             ],
             "longitude": 0.361673,
-            "note": 4.6,
-            "Temps_de_la_visite": 38
+            "note": 2.9,
+            "Temps_de_la_visite": 35,
+            "Prix": 44,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38487,8 +48891,17 @@ var data=[
                 0.660717
             ],
             "longitude": 0.660717,
-            "note": 4.6,
-            "Temps_de_la_visite": 43
+            "note": 0.5,
+            "Temps_de_la_visite": 58,
+            "Prix": 17,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38521,8 +48934,17 @@ var data=[
                 0.71269
             ],
             "longitude": 0.71269,
-            "note": 1.2,
-            "Temps_de_la_visite": 54
+            "note": 3.8,
+            "Temps_de_la_visite": 40,
+            "Prix": 19,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "mercredi",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38553,8 +48975,17 @@ var data=[
                 -0.074554
             ],
             "longitude": -0.074554,
-            "note": 0.8,
-            "Temps_de_la_visite": 46
+            "note": 4.9,
+            "Temps_de_la_visite": 40,
+            "Prix": 30,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "jeudi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38586,8 +49017,17 @@ var data=[
                 -0.577869
             ],
             "longitude": -0.577869,
-            "note": 0.4,
-            "Temps_de_la_visite": 44
+            "note": 1.4,
+            "Temps_de_la_visite": 35,
+            "Prix": 60,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "samedi",
+                "mardi",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38619,8 +49059,17 @@ var data=[
                 -0.24517994951765779
             ],
             "longitude": -0.24517994951765779,
-            "note": 1.8,
-            "Temps_de_la_visite": 39
+            "note": 4.5,
+            "Temps_de_la_visite": 60,
+            "Prix": 44,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "samedi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38653,8 +49102,17 @@ var data=[
                 -0.833916
             ],
             "longitude": -0.833916,
-            "note": 0.5,
-            "Temps_de_la_visite": 22
+            "note": 3.9,
+            "Temps_de_la_visite": 31,
+            "Prix": 46,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "dimanche",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38687,8 +49145,17 @@ var data=[
                 -0.572168
             ],
             "longitude": -0.572168,
-            "note": 3.5,
-            "Temps_de_la_visite": 48
+            "note": 4.7,
+            "Temps_de_la_visite": 21,
+            "Prix": 35,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "vendredi",
+                "mardi",
+                "lundi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38720,8 +49187,17 @@ var data=[
                 -1.075791
             ],
             "longitude": -1.075791,
-            "note": 1.4,
-            "Temps_de_la_visite": 26
+            "note": 4.6,
+            "Temps_de_la_visite": 41,
+            "Prix": 44,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "jeudi",
+                "dimanche",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38754,8 +49230,17 @@ var data=[
                 -1.473823
             ],
             "longitude": -1.473823,
-            "note": 3.4,
-            "Temps_de_la_visite": 26
+            "note": 2.8,
+            "Temps_de_la_visite": 54,
+            "Prix": 21,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "jeudi",
+                "mercredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38787,8 +49272,17 @@ var data=[
                 0.075743
             ],
             "longitude": 0.075743,
-            "note": 3.8,
-            "Temps_de_la_visite": 50
+            "note": 2.7,
+            "Temps_de_la_visite": 29,
+            "Prix": 57,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "lundi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38819,8 +49313,17 @@ var data=[
                 0.348113
             ],
             "longitude": 0.348113,
-            "note": 5.0,
-            "Temps_de_la_visite": 28
+            "note": 1.1,
+            "Temps_de_la_visite": 21,
+            "Prix": 51,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "jeudi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38852,8 +49355,17 @@ var data=[
                 0.344434
             ],
             "longitude": 0.344434,
-            "note": 2.6,
-            "Temps_de_la_visite": 41
+            "note": 2.3,
+            "Temps_de_la_visite": 39,
+            "Prix": 57,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "jeudi",
+                "dimanche",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38884,8 +49396,17 @@ var data=[
                 2.379223
             ],
             "longitude": 2.379223,
-            "note": 1.2,
-            "Temps_de_la_visite": 53
+            "note": 2.9,
+            "Temps_de_la_visite": 25,
+            "Prix": 26,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "lundi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38917,8 +49438,17 @@ var data=[
                 2.483923
             ],
             "longitude": 2.483923,
-            "note": 0.5,
-            "Temps_de_la_visite": 40
+            "note": 1.6,
+            "Temps_de_la_visite": 47,
+            "Prix": 50,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "dimanche",
+                "mardi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38950,8 +49480,17 @@ var data=[
                 4.080982
             ],
             "longitude": 4.080982,
-            "note": 3.4,
-            "Temps_de_la_visite": 26
+            "note": 3.7,
+            "Temps_de_la_visite": 48,
+            "Prix": 20,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "dimanche",
+                "lundi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -38983,8 +49522,17 @@ var data=[
                 4.621051
             ],
             "longitude": 4.621051,
-            "note": 1.5,
-            "Temps_de_la_visite": 58
+            "note": 0.2,
+            "Temps_de_la_visite": 26,
+            "Prix": 48,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mardi",
+                "mercredi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39016,8 +49564,17 @@ var data=[
                 4.36081
             ],
             "longitude": 4.36081,
-            "note": 1.9,
-            "Temps_de_la_visite": 40
+            "note": 1.8,
+            "Temps_de_la_visite": 24,
+            "Prix": 31,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "mercredi",
+                "dimanche",
+                "vendredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39049,8 +49606,17 @@ var data=[
                 4.363712139325677
             ],
             "longitude": 4.363712139325677,
-            "note": 0.5,
-            "Temps_de_la_visite": 28
+            "note": 3.6,
+            "Temps_de_la_visite": 32,
+            "Prix": 57,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mardi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39083,8 +49649,17 @@ var data=[
                 4.422302423935738
             ],
             "longitude": 4.422302423935738,
-            "note": 2.5,
-            "Temps_de_la_visite": 29
+            "note": 4.6,
+            "Temps_de_la_visite": 20,
+            "Prix": 29,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "mercredi",
+                "dimanche",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39116,8 +49691,17 @@ var data=[
                 4.796403
             ],
             "longitude": 4.796403,
-            "note": 1.6,
-            "Temps_de_la_visite": 33
+            "note": 0.8,
+            "Temps_de_la_visite": 31,
+            "Prix": 37,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mardi",
+                "lundi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39149,8 +49733,17 @@ var data=[
                 0.88003
             ],
             "longitude": 0.88003,
-            "note": 1.5,
-            "Temps_de_la_visite": 46
+            "note": 4.8,
+            "Temps_de_la_visite": 48,
+            "Prix": 20,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "mardi",
+                "jeudi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39182,8 +49775,17 @@ var data=[
                 1.443132
             ],
             "longitude": 1.443132,
-            "note": 2.5,
-            "Temps_de_la_visite": 55
+            "note": 1.3,
+            "Temps_de_la_visite": 52,
+            "Prix": 31,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "lundi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39216,8 +49818,17 @@ var data=[
                 0.147001
             ],
             "longitude": 0.147001,
-            "note": 1.4,
-            "Temps_de_la_visite": 47
+            "note": 4.2,
+            "Temps_de_la_visite": 23,
+            "Prix": 51,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "samedi",
+                "dimanche",
+                "jeudi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39249,7 +49860,16 @@ var data=[
             ],
             "longitude": -0.002108,
             "note": 1.2,
-            "Temps_de_la_visite": 48
+            "Temps_de_la_visite": 25,
+            "Prix": 16,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "vendredi",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39281,8 +49901,17 @@ var data=[
                 0.073892
             ],
             "longitude": 0.073892,
-            "note": 3.3,
-            "Temps_de_la_visite": 58
+            "note": 2.5,
+            "Temps_de_la_visite": 46,
+            "Prix": 59,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "dimanche",
+                "samedi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39314,8 +49943,17 @@ var data=[
                 3.880685
             ],
             "longitude": 3.880685,
-            "note": 1.2,
-            "Temps_de_la_visite": 21
+            "note": 5.0,
+            "Temps_de_la_visite": 22,
+            "Prix": 22,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39347,8 +49985,17 @@ var data=[
                 1.568198
             ],
             "longitude": 1.568198,
-            "note": 0.4,
-            "Temps_de_la_visite": 49
+            "note": 2.3,
+            "Temps_de_la_visite": 26,
+            "Prix": 40,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "vendredi",
+                "dimanche",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39381,8 +50028,17 @@ var data=[
                 2.883256
             ],
             "longitude": 2.883256,
-            "note": 2.6,
-            "Temps_de_la_visite": 30
+            "note": 3.0,
+            "Temps_de_la_visite": 20,
+            "Prix": 56,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "mardi",
+                "vendredi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39415,8 +50071,17 @@ var data=[
                 2.900461442325304
             ],
             "longitude": 2.900461442325304,
-            "note": 1.2,
-            "Temps_de_la_visite": 48
+            "note": 4.8,
+            "Temps_de_la_visite": 58,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "jeudi",
+                "lundi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39448,8 +50113,17 @@ var data=[
                 1.89408
             ],
             "longitude": 1.89408,
-            "note": 3.1,
-            "Temps_de_la_visite": 51
+            "note": 3.6,
+            "Temps_de_la_visite": 35,
+            "Prix": 50,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "vendredi",
+                "dimanche",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39481,8 +50155,17 @@ var data=[
                 2.638539
             ],
             "longitude": 2.638539,
-            "note": 0.2,
-            "Temps_de_la_visite": 24
+            "note": 1.1,
+            "Temps_de_la_visite": 54,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "lundi",
+                "samedi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39515,8 +50198,17 @@ var data=[
                 1.35188
             ],
             "longitude": 1.35188,
-            "note": 1.5,
-            "Temps_de_la_visite": 51
+            "note": 3.3,
+            "Temps_de_la_visite": 25,
+            "Prix": 53,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39548,8 +50240,17 @@ var data=[
                 -1.547096
             ],
             "longitude": -1.547096,
-            "note": 1.8,
-            "Temps_de_la_visite": 36
+            "note": 4.0,
+            "Temps_de_la_visite": 54,
+            "Prix": 54,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "samedi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39582,8 +50283,17 @@ var data=[
                 -0.557052
             ],
             "longitude": -0.557052,
-            "note": 1.5,
-            "Temps_de_la_visite": 47
+            "note": 2.3,
+            "Temps_de_la_visite": 50,
+            "Prix": 23,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "vendredi",
+                "dimanche",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39615,8 +50325,17 @@ var data=[
                 -0.217749
             ],
             "longitude": -0.217749,
-            "note": 1.8,
-            "Temps_de_la_visite": 24
+            "note": 0.1,
+            "Temps_de_la_visite": 42,
+            "Prix": 22,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "mercredi",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39649,8 +50368,17 @@ var data=[
                 0.743518
             ],
             "longitude": 0.743518,
-            "note": 1.9,
-            "Temps_de_la_visite": 59
+            "note": 3.2,
+            "Temps_de_la_visite": 43,
+            "Prix": 44,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "jeudi",
+                "vendredi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39682,8 +50410,17 @@ var data=[
                 -1.313386
             ],
             "longitude": -1.313386,
-            "note": 1.8,
-            "Temps_de_la_visite": 46
+            "note": 2.8,
+            "Temps_de_la_visite": 25,
+            "Prix": 44,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "samedi",
+                "dimanche",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39716,8 +50453,17 @@ var data=[
                 7.127959
             ],
             "longitude": 7.127959,
-            "note": 0.2,
-            "Temps_de_la_visite": 44
+            "note": 0.4,
+            "Temps_de_la_visite": 28,
+            "Prix": 42,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "samedi",
+                "mardi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39749,8 +50495,17 @@ var data=[
                 6.922508
             ],
             "longitude": 6.922508,
-            "note": 1.0,
-            "Temps_de_la_visite": 36
+            "note": 3.4,
+            "Temps_de_la_visite": 52,
+            "Prix": 44,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "mardi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39782,8 +50537,17 @@ var data=[
                 7.503564
             ],
             "longitude": 7.503564,
-            "note": 4.5,
-            "Temps_de_la_visite": 45
+            "note": 2.3,
+            "Temps_de_la_visite": 55,
+            "Prix": 38,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "samedi",
+                "mercredi",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39815,8 +50579,17 @@ var data=[
                 7.278984299489203
             ],
             "longitude": 7.278984299489203,
-            "note": 2.3,
-            "Temps_de_la_visite": 46
+            "note": 3.6,
+            "Temps_de_la_visite": 34,
+            "Prix": 24,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "mardi",
+                "lundi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39848,8 +50621,17 @@ var data=[
                 7.288686
             ],
             "longitude": 7.288686,
-            "note": 2.1,
-            "Temps_de_la_visite": 42
+            "note": 0.7,
+            "Temps_de_la_visite": 51,
+            "Prix": 57,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "mercredi",
+                "samedi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39881,8 +50663,17 @@ var data=[
                 7.27733
             ],
             "longitude": 7.27733,
-            "note": 2.6,
-            "Temps_de_la_visite": 26
+            "note": 2.8,
+            "Temps_de_la_visite": 34,
+            "Prix": 57,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "dimanche",
+                "mardi",
+                "jeudi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39914,8 +50705,17 @@ var data=[
                 7.238038
             ],
             "longitude": 7.238038,
-            "note": 3.0,
-            "Temps_de_la_visite": 60
+            "note": 0.6,
+            "Temps_de_la_visite": 28,
+            "Prix": 19,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mardi",
+                "jeudi",
+                "lundi",
+                "mercredi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39947,8 +50747,17 @@ var data=[
                 6.919841120393623
             ],
             "longitude": 6.919841120393623,
-            "note": 2.5,
-            "Temps_de_la_visite": 42
+            "note": 0.2,
+            "Temps_de_la_visite": 44,
+            "Prix": 25,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "lundi",
+                "mercredi",
+                "jeudi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -39981,8 +50790,17 @@ var data=[
                 7.052887
             ],
             "longitude": 7.052887,
-            "note": 3.7,
-            "Temps_de_la_visite": 49
+            "note": 0.1,
+            "Temps_de_la_visite": 21,
+            "Prix": 36,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40014,8 +50832,17 @@ var data=[
                 5.42464477906
             ],
             "longitude": 5.42464477906,
-            "note": 4.6,
-            "Temps_de_la_visite": 37
+            "note": 1.3,
+            "Temps_de_la_visite": 22,
+            "Prix": 40,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "mercredi",
+                "samedi",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40048,8 +50875,17 @@ var data=[
                 5.447546
             ],
             "longitude": 5.447546,
-            "note": 1.1,
-            "Temps_de_la_visite": 27
+            "note": 1.0,
+            "Temps_de_la_visite": 29,
+            "Prix": 51,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "lundi",
+                "samedi",
+                "dimanche",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40082,8 +50918,17 @@ var data=[
                 4.61542
             ],
             "longitude": 4.61542,
-            "note": 2.0,
-            "Temps_de_la_visite": 48
+            "note": 2.3,
+            "Temps_de_la_visite": 29,
+            "Prix": 35,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "mercredi",
+                "dimanche",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40116,8 +50961,17 @@ var data=[
                 4.617175830175759
             ],
             "longitude": 4.617175830175759,
-            "note": 4.7,
-            "Temps_de_la_visite": 49
+            "note": 3.2,
+            "Temps_de_la_visite": 23,
+            "Prix": 31,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "samedi",
+                "mardi",
+                "vendredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40150,8 +51004,17 @@ var data=[
                 4.9911014111253635
             ],
             "longitude": 4.9911014111253635,
-            "note": 3.2,
-            "Temps_de_la_visite": 24
+            "note": 2.5,
+            "Temps_de_la_visite": 26,
+            "Prix": 43,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "dimanche",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40183,8 +51046,17 @@ var data=[
                 5.60973
             ],
             "longitude": 5.60973,
-            "note": 4.1,
-            "Temps_de_la_visite": 33
+            "note": 3.4,
+            "Temps_de_la_visite": 36,
+            "Prix": 18,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "jeudi",
+                "dimanche",
+                "lundi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40216,8 +51088,17 @@ var data=[
                 5.378137
             ],
             "longitude": 5.378137,
-            "note": 3.0,
-            "Temps_de_la_visite": 43
+            "note": 4.8,
+            "Temps_de_la_visite": 47,
+            "Prix": 37,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "lundi",
+                "jeudi",
+                "mercredi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40250,8 +51131,17 @@ var data=[
                 4.832266
             ],
             "longitude": 4.832266,
-            "note": 1.3,
-            "Temps_de_la_visite": 34
+            "note": 1.7,
+            "Temps_de_la_visite": 57,
+            "Prix": 53,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "dimanche",
+                "mardi",
+                "jeudi",
+                "lundi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40283,8 +51173,17 @@ var data=[
                 5.104363
             ],
             "longitude": 5.104363,
-            "note": 4.8,
-            "Temps_de_la_visite": 54
+            "note": 3.3,
+            "Temps_de_la_visite": 24,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mardi",
+                "dimanche",
+                "jeudi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40316,8 +51215,17 @@ var data=[
                 6.463862
             ],
             "longitude": 6.463862,
-            "note": 3.8,
-            "Temps_de_la_visite": 30
+            "note": 0.3,
+            "Temps_de_la_visite": 43,
+            "Prix": 27,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "mercredi",
+                "samedi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40349,8 +51257,17 @@ var data=[
                 6.464818
             ],
             "longitude": 6.464818,
-            "note": 1.8,
-            "Temps_de_la_visite": 39
+            "note": 3.0,
+            "Temps_de_la_visite": 27,
+            "Prix": 49,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "mercredi",
+                "dimanche",
+                "mardi",
+                "vendredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40381,8 +51298,17 @@ var data=[
                 6.736489013507804
             ],
             "longitude": 6.736489013507804,
-            "note": 1.2,
-            "Temps_de_la_visite": 42
+            "note": 2.9,
+            "Temps_de_la_visite": 30,
+            "Prix": 40,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mercredi",
+                "vendredi",
+                "dimanche",
+                "mardi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40414,8 +51340,17 @@ var data=[
                 6.039364
             ],
             "longitude": 6.039364,
-            "note": 0.4,
-            "Temps_de_la_visite": 26
+            "note": 3.9,
+            "Temps_de_la_visite": 50,
+            "Prix": 40,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "mardi",
+                "dimanche",
+                "vendredi",
+                "mercredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40447,8 +51382,17 @@ var data=[
                 5.440606
             ],
             "longitude": 5.440606,
-            "note": 2.7,
-            "Temps_de_la_visite": 21
+            "note": 3.9,
+            "Temps_de_la_visite": 37,
+            "Prix": 33,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "samedi",
+                "lundi",
+                "mardi",
+                "dimanche",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40478,8 +51422,17 @@ var data=[
             ],
             "longitude": 5.408027,
             "ref_deps": "8412301",
-            "note": 3.7,
-            "Temps_de_la_visite": 31
+            "note": 4.0,
+            "Temps_de_la_visite": 31,
+            "Prix": 19,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "mercredi",
+                "mardi",
+                "lundi",
+                "dimanche"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40510,8 +51463,17 @@ var data=[
                 -61.646677
             ],
             "longitude": -61.646677,
-            "note": 2.6,
-            "Temps_de_la_visite": 50
+            "note": 3.5,
+            "Temps_de_la_visite": 50,
+            "Prix": 43,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "lundi",
+                "mercredi",
+                "jeudi",
+                "vendredi",
+                "samedi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40542,8 +51504,17 @@ var data=[
                 -61.536727081391085
             ],
             "longitude": -61.536727081391085,
-            "note": 3.0,
-            "Temps_de_la_visite": 29
+            "note": 1.0,
+            "Temps_de_la_visite": 21,
+            "Prix": 39,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "samedi",
+                "dimanche",
+                "mercredi",
+                "vendredi",
+                "jeudi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40574,8 +51545,17 @@ var data=[
                 -61.535945
             ],
             "longitude": -61.535945,
-            "note": 2.9,
-            "Temps_de_la_visite": 30
+            "note": 2.5,
+            "Temps_de_la_visite": 54,
+            "Prix": 17,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "jeudi",
+                "dimanche",
+                "lundi",
+                "mardi",
+                "mercredi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40607,8 +51587,17 @@ var data=[
                 -61.065619
             ],
             "longitude": -61.065619,
-            "note": 2.0,
-            "Temps_de_la_visite": 25
+            "note": 1.3,
+            "Temps_de_la_visite": 55,
+            "Prix": 16,
+            "Accessible_pour_handicape": "non",
+            "Jours_d_ouverture": [
+                "vendredi",
+                "samedi",
+                "dimanche",
+                "jeudi",
+                "lundi"
+            ]
         },
         "geometry": {
             "type": "Point",
@@ -40640,8 +51629,17 @@ var data=[
                 -61.026775
             ],
             "longitude": -61.026775,
-            "note": 1.3,
-            "Temps_de_la_visite": 53
+            "note": 0.8,
+            "Temps_de_la_visite": 48,
+            "Prix": 25,
+            "Accessible_pour_handicape": "oui",
+            "Jours_d_ouverture": [
+                "lundi",
+                "dimanche",
+                "vendredi",
+                "mercredi",
+                "mardi"
+            ]
         },
         "geometry": {
             "type": "Point",
