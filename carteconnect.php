@@ -1,3 +1,12 @@
+<?php
+global $con;
+session_start();
+
+include("php/config.php");
+if(!isset($_SESSION['valid'])){
+    header("Location: login.php");
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,18 +15,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Musée</title>
     <link rel="Icon" href="#"/>
-    <link rel="stylesheet" href="./Src/style.css"/>
+    <link rel="stylesheet" href="Src/styles.css"/>
     <link rel="stylesheet" href="./Src/sidebare.css"/>
     <script src="https://unpkg.com/@phosphor-icons/web"></script>
     <link
-            rel="stylesheet"
-            href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
-            integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
-            crossorigin=""
+        rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+        integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+        crossorigin=""
     />
     <title>Document</title>
 </head>
 <body>
+<?php
+
+$id = $_SESSION['id'];
+$query = mysqli_query($con,"SELECT*FROM users WHERE Id=$id");
+
+while($result = mysqli_fetch_assoc($query)){
+    $res_Uname = $result['Username'];
+    $res_Email = $result['Email'];
+    $res_Age = $result['Age'];
+    $res_profession = $result['Profession'];
+    $res_id = $result['Id'];
+}
+
+echo "<a href='edit.php?Id=$res_id'></a>";
+?>
 <div class="sidebar">
     <div class="menu-btn">
         <i class="ph-bold ph-caret-left"></i>
@@ -27,8 +51,9 @@
             <img src="./Image/user.jpg" alt=""/>
         </div>
         <div class="user-details">
-            <p class="title">web developer</p>
-            <p class="name">John Doe</p>
+
+            <p class="title"><b><?php echo $res_profession ?></b></p>
+            <p class="name"><b><?php echo $res_Uname ?></b></p>
         </div>
     </div>
     <div class="nav">
@@ -314,7 +339,7 @@
                             <a href="#">
                                 <i class="icon ph ph-music-notes"></i>
                                 <input type="checkbox" id="playPauseCheckbox"> <label for="playPauseCheckbox"><i
-                                    class="ph ph-play-pause"></i></label>
+                                        class="ph ph-play-pause"></i></label>
 
                                 <audio id="myAudio" controls>
                                     <source src="./Image/Funk_Down.mp3" type="audio/mp3">
@@ -338,7 +363,19 @@
                 </a>
             </li>
             <li>
-                <a href="#">
+                <a href="./edit.php">
+                    <i class="icon ph-bold ph-sign-out"></i>
+                    <span class="text">Modifier profile</span>
+                </a>
+            </li>
+            <li>
+                <a href="./login.php">
+                    <i class="icon ph-bold ph-user-switch"></i>
+                    <span class="text">Change de compte</span>
+                </a>
+            </li>
+            <li>
+                <a href="php/logout.php">
                     <i class="icon ph-bold ph-sign-out"></i>
                     <span class="text">Logout</span>
                 </a>
@@ -351,23 +388,23 @@
 
 <!-- Jquery -->
 <script
-        src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.js"
-        integrity="sha512-8Z5++K1rB3U+USaLKG6oO8uWWBhdYsM3hmdirnOEWp8h2B1aOikj5zBzlXs8QOrvY9OxEnD2QDkbSKKpfqcIWw=="
-        crossorigin="anonymous"
+    src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.js"
+    integrity="sha512-8Z5++K1rB3U+USaLKG6oO8uWWBhdYsM3hmdirnOEWp8h2B1aOikj5zBzlXs8QOrvY9OxEnD2QDkbSKKpfqcIWw=="
+    crossorigin="anonymous"
 ></script>
 
 <script
-        type="module"
-        src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    type="module"
+    src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
 ></script>
 <script
-        nomodule
-        src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    nomodule
+    src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
 ></script>
 <script
-        src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
-        integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
-        crossorigin=""
+    src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""
 ></script>
 <script src="./Src/app.js"></script>
 <script src="./Src/data.js"></script>

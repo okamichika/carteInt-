@@ -24,7 +24,7 @@
         <div class="text">
             <h2>Les<br>  <span>Musée</span></h2>
             <p>Les parfums. Fanta x Disneyland Paris®. Coca‑Cola Club. Fanta présente #WhatTheFanta : Saveurs non identifiées. Fanta, le goût du fun ! Fun et décalée, Fanta est la boisson pétillante au goût fruité qui met une touche de couleur et de surprise dans le quotidien de chacun.</p>
-            <a href="./index.html" class="btn">Accéder à la carte</a>
+            <a href="./carte.php" class="btn">Accéder à la carte</a>
         </div>
         <div class="slider">
             <div class="slides affiche">
