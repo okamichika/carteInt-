@@ -21,7 +21,7 @@ body{
     padding: 25px 25px;
     border-radius: 20px;
     box-shadow: 0 0 128px 0 rgba(0,0,0,0.1),
-                0 32px 64px -48px rgba(0,0,0,0.5);
+    0 32px 64px -48px rgba(0,0,0,0.5);
 }
 .form-box{
     width: 450px;
@@ -84,7 +84,7 @@ body{
 .logo{
     font-size: 25px;
     font-weight: 900;
-    
+
 }
 .logo a{
     text-decoration: none;

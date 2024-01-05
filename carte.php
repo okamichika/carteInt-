@@ -6,8 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Musée</title>
     <link rel="Icon" href="#"/>
+    <link rel="Icon" href="./Image/Icone.png"/>
     <link rel="stylesheet" href="Src/styles.css"/>
     <link rel="stylesheet" href="./Src/sidebare.css"/>
+    <link rel="stylesheet" href="./Src/popup.css"/>
     <script src="https://unpkg.com/@phosphor-icons/web"></script>
     <link
         rel="stylesheet"
@@ -36,29 +38,16 @@
             <p class="title">Main</p>
             <ul>
                 <li>
-                    <a href="#">
+                    <a href="./index.php">
                         <i class="icon ph-bold ph-house-simple"></i>
                         <span class="text">Dashboard</span>
                     </a>
                 </li>
                 <li>
-                    <a href="#">
-                        <i class="icon ph-bold ph-user"></i>
-                        <span class="text">Audience</span>
-                        <i class="arrow ph-bold ph-caret-down"></i>
+                    <a href="./Ajouter.php">
+                        <i class="icon ph-fill ph-plus"></i>
+                        <span class="text">Ajouter</span>
                     </a>
-                    <ul class="sub-menu">
-                        <li>
-                            <a href="#">
-                                <span class="text">Users</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <span class="text">Subscribers</span>
-                            </a>
-                        </li>
-                    </ul>
                 </li>
                 <li>
                     <a href="#">
@@ -259,7 +248,7 @@
                 </li>
 
                 <li class="active">
-                    <a href="#">
+                    <a href="#popup1">
                         <i class="icon ph-bold ph-file-text"></i>
                         <span class="text">Posts</span>
                     </a>
@@ -332,24 +321,36 @@
         <p class="title">Account</p>
         <ul>
             <li>
-                <a href="#">
+                <a href="./help.php">
                     <i class="icon ph-bold ph-info"></i>
                     <span class="text">Help</span>
                 </a>
             </li>
             <li>
-                <a href="./login.php">
+                <a href="login.php">
                     <i class="icon ph ph-sign-in"></i>
                     <span class="text">Login</span>
                 </a>
             </li>
             <li>
-                <a href="./register.php">
-                    <i class="icon ph-bold ph-sign-out"></i>
+                <a href="register.php">
+                    <i class="icon ph-fill ph-sign-in"></i>
                     <span class="text">Sign in</span>
                 </a>
             </li>
         </ul>
+    </div>
+</div>
+<div id="popup1" class="overlay">
+    <div class="popup">
+        <h2>Connectez-vous</h2>
+        <a class="close" href="#">&times;</a>
+        <div class="content">
+            Pour accéder à cette fonctionnalité, veuillez vous connecter. L'utilisation de cette option est réservée aux utilisateurs connectés.
+        </div>
+        <div class="box">
+            <a class="button" href="login.php">Sign in</a>
+        </div>
     </div>
 </div>
 <div id="map">
@@ -377,11 +378,12 @@
 ></script>
 <script src="./Src/app.js"></script>
 <script src="./Src/data.js"></script>
+<!--<script src="./Src/dataajouter.js"></script>-->
 <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css"/>
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css"/>
 <script>
-    var map = L.map('map').setView([48.853, 2.35], 10);
+   /* var map = L.map('map').setView([48.853, 2.35], 10);
 
     var Stadia_OSMBright = L.tileLayer(
         "https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png",
@@ -393,7 +395,65 @@
         }
     );
 
-    Stadia_OSMBright.addTo(map);
+    Stadia_OSMBright.addTo(map);*/
+   var map = L.map('map').setView([48.853, 2.35], 10);
+
+   var Stadia_OSMBright = L.tileLayer(
+       "https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png",
+       {
+           maxZoom: 13,
+           minZoom: 3,
+           bounds: [[-90, -180], [90, 180]],
+           attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
+       }
+   );
+
+   Stadia_OSMBright.addTo(map);
+
+   // Ajout des autres couches
+
+   var CartoDB_DarkMatter = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+       subdomains: 'abcd',
+       maxZoom: 13,
+       minZoom: 3,
+   });
+   CartoDB_DarkMatter.addTo(map);
+
+   var googleStreets = L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}',{
+       maxZoom: 13,
+       minZoom: 3,
+       subdomains:['mt0','mt1','mt2','mt3']
+   });
+   googleStreets.addTo(map);
+
+   var googleSat = L.tileLayer('http://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}',{
+       maxZoom: 13,
+       minZoom: 3,
+       subdomains:['mt0','mt1','mt2','mt3']
+   });
+   googleSat.addTo(map);
+   var openstreetmap = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+       maxZoom: 13,
+       minZoom: 3,
+       atOpenStreetMaptribution: '© OpenStreetMap'
+   });
+   openstreetmap.addTo(map);
+
+
+   // Ajout des couches au contrôle de couches
+
+   var baseMaps = {
+       "CartoDB Dark Matter": CartoDB_DarkMatter,
+       "Google Streets": googleStreets,
+       "Google Satellite": googleSat,
+       "National park": openstreetmap,
+       "Stadia OSMBright": Stadia_OSMBright,
+   };
+
+
+
+   var layerControl = L.control.layers(baseMaps).addTo(map);
 
     // Your existing data
 

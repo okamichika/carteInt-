@@ -15,11 +15,16 @@
          
          include("php/config.php");
          if(isset($_POST['submit'])){
-            $username = $_POST['username'];
+           /* $username = $_POST['username'];
             $email = $_POST['email'];
             $age = $_POST['age'];
             $profession = $_POST['profession'];
-            $password = $_POST['password'];
+            $password = $_POST['password'];*/
+            $username = mysqli_real_escape_string($con, $_POST['username']);
+            $email = mysqli_real_escape_string($con, $_POST['email']);
+            $age = mysqli_real_escape_string($con, $_POST['age']);
+            $profession = mysqli_real_escape_string($con, $_POST['profession']);
+            $password = mysqli_real_escape_string($con, $_POST['password']);
 
          //verifying the unique email
 
@@ -33,7 +38,7 @@
          }
          else{
 
-            mysqli_query($con,"INSERT INTO users(Username,Email,Age,Password,Profession) VALUES('$username','$email','$age','$password','$profession')") or die("Erroe Occured");
+            mysqli_query($con,"INSERT INTO users(Username,Email,Age,Password,Profession) VALUES('$username','$email','$age','$password','$profession')") or die("Erroen Occured");
 
             echo "<div class='message'>
                       <p>Registration successfully!</p>
@@ -77,7 +82,7 @@
                     <input type="submit" class="btn" name="submit" value="Register" required>
                 </div>
                 <div class="links">
-                    Already a member? <a href="login.php">Sign In</a>
+                    Already a member? <a href="./login.php">Sign In</a>
                 </div>
             </form>
         </div>

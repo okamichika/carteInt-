@@ -15,6 +15,7 @@ session_start();
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="Src/style.css">
     <title>Change Profile</title>
+    <link rel="Icon" href="Image/Icone.png"/>
 </head>
 <body>
     <div class="nav">
@@ -35,11 +36,11 @@ session_start();
                 $email = $_POST['email'];
                 $age = $_POST['age'];
                 $profession = $_POST['profession'];
-
+                $password = $_POST['password'];
 
                 $id = $_SESSION['id'];
 
-                $edit_query = mysqli_query($con,"UPDATE users SET Username='$username', Email='$email', Age='$age',Profession='$profession' WHERE Id=$id ") or die("error occurred");
+                $edit_query = mysqli_query($con,"UPDATE users SET Username='$username', Email='$email', Age='$age',Profession='$profession',Password='$password' WHERE Id=$id ") or die("error occurred");
 
                 if($edit_query){
                     echo "<div class='message'>
@@ -58,6 +59,7 @@ session_start();
                     $res_Email = $result['Email'];
                     $res_Age = $result['Age'];
                     $res_profession = $result['profession'];
+                    $res_password = $_POST['password'];
                 }
 
             ?>
@@ -80,6 +82,10 @@ session_start();
                 <div class="field input">
                     <label for="age">Age</label>
                     <input type="number" name="age" id="age" value="<?php echo $res_Age; ?>" autocomplete="off" required>
+                </div>
+                <div class="field input">
+                    <label for="password">Password</label>
+                    <input type="text" name="password" id="password" value="<?php echo $res_password; ?>" autocomplete="off" required>
                 </div>
                 
                 <div class="field">
