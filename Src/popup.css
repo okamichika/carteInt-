@@ -1,5 +1,3 @@
-
-
 .box {
     width: 40%;
     margin: 0 auto;
@@ -14,8 +12,8 @@
 .button {
     font-size: 1em;
     padding: 10px;
-    color: #fff;
-    border: 2px solid #06D85F;
+    color: #030202;
+    border: 2px solid #8bd9fd;
     border-radius: 20px/50px;
     text-decoration: none;
     cursor: pointer;
@@ -23,7 +21,9 @@
 
 }
 .button:hover {
-    background: #06D85F;
+    color: #fff;
+    background: #8bd9fd;
+    border: 2px solid #8bd9fd;
 }
 
 .overlay {
@@ -69,7 +69,7 @@
     color: #333;
 }
 .popup .close:hover {
-    color: #06D85F;
+    color: #8bd9fd;
 }
 .popup .content {
     max-height: 30%;

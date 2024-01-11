@@ -7,12 +7,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         "recordid" => md5(uniqid(rand(), true)), // Génère un identifiant unique pour chaque enregistrement
         "fields" => [
             "adresse" => $_POST["adresse"],
-            "telephone" => $_POST["telephone"],
+            "telephone" => floatval($_POST["telephone"]),
             "commune" => $_POST["commune"],
             "latitude" => floatval($_POST["latitude"]),
             "ref_deps" => $_POST["ref_deps"],
             "url" => $_POST["url"],
-            "code_postal" => $_POST["code_postal"],
+            "code_postal" => floatval($_POST["code_postal"]),
             "identifiant_museofile" => $_POST["identifiant_museofile"],
             "departement" => $_POST["departement"],
             "nom_officiel_du_musee" => $_POST["nom_officiel_du_musee"],

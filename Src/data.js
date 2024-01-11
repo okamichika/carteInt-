@@ -51652,67 +51652,67 @@ var data = [
     },
     {
         "datasetid": "liste-et-localisation-des-musees-de-france",
-        "recordid": "9fd53c6ffec01caa3c2ed88d8fc39661",
+        "recordid": "0979ce1481badc3b47cbba15d3594a8e",
         "fields": {
-            "adresse": "ze",
-            "telephone": null,
-            "commune": null,
-            "latitude": 0,
-            "ref_deps": null,
-            "url": null,
-            "code_postal": null,
-            "identifiant_museofile": null,
-            "departement": null,
-            "nom_officiel_du_musee": null,
-            "region_administrative": null,
-            "date_arrete_attribution_appellation": null,
+            "adresse": "d",
+            "telephone": 1,
+            "commune": "d",
+            "latitude": 1,
+            "ref_deps": "d",
+            "url": "d",
+            "code_postal": 1,
+            "identifiant_museofile": "d",
+            "departement": "d",
+            "nom_officiel_du_musee": "d",
+            "region_administrative": "d",
+            "date_arrete_attribution_appellation": "2024-01-10",
             "geolocalisation": [
-                0,
-                0
+                16.238507302787937,
+                -70.53672708139109
             ],
-            "longitude": 0,
-            "note": 0,
-            "Temps_de_la_visite": 0,
-            "Prix": 0,
-            "Accessible_pour_handicape": null,
+            "longitude": 1,
+            "note": 1,
+            "Temps_de_la_visite": 3,
+            "Prix": 1,
+            "Accessible_pour_handicape": "0",
             "Jours_d_ouverture": [
-                "ez"
+                "samedi"
             ]
         },
         "geometry": {
             "type": "Point",
             "coordinates": [
-                0,
-                0
+                -70.53672708139109,
+                16.238507302787937
             ]
         },
-        "record_timestamp": "2024-01-05T12:28:08+00:00"
+        "record_timestamp": "2024-01-10T00:26:13+00:00"
     },
     {
         "datasetid": "liste-et-localisation-des-musees-de-france",
-        "recordid": "7d75a79fe7dea20ff3623665eec2139d",
+        "recordid": "9e04835be14c99628207706cdc1eb053",
         "fields": {
             "adresse": "d",
-            "telephone": "d",
+            "telephone": 1,
             "commune": "d",
-            "latitude": 1,
+            "latitude": 9,
             "ref_deps": "d",
             "url": "d",
-            "code_postal": "d",
+            "code_postal": 1,
             "identifiant_museofile": "d",
             "departement": "d",
             "nom_officiel_du_musee": "d",
             "region_administrative": "d",
-            "date_arrete_attribution_appellation": "d",
+            "date_arrete_attribution_appellation": "2024-01-18",
             "geolocalisation": [
-                1,
-                1
+                9,
+                -1
             ],
-            "longitude": 1,
+            "longitude": -1,
             "note": 1,
             "Temps_de_la_visite": 1,
-            "Prix": 1,
-            "Accessible_pour_handicape": "oui",
+            "Prix": -1,
+            "Accessible_pour_handicape": "1",
             "Jours_d_ouverture": [
                 "d"
             ]
@@ -51720,10 +51720,10 @@ var data = [
         "geometry": {
             "type": "Point",
             "coordinates": [
-                1,
-                1
+                -1,
+                9
             ]
         },
-        "record_timestamp": "2024-01-05T12:29:27+00:00"
+        "record_timestamp": "2024-01-10T00:31:08+00:00"
     }
 ];

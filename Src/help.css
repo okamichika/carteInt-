@@ -64,3 +64,26 @@
 .faq.active {
     border: none;
 }
+.btn{
+
+    background: rgb(139, 217, 253);
+    border: 0;
+    border-radius: 5px;
+    color: #000000;
+    font-size: 35px;
+    cursor: pointer;
+    transition: all .3s;
+    margin-top: 10px;
+    padding: 0px 10px;
+
+}
+.faqs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.faqs-button-container {
+    text-align: center;
+}

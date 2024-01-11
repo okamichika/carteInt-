@@ -1,4 +1,4 @@
-<!--<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8"/>
@@ -7,6 +7,7 @@
     <title>Questions</title>
     <link rel="Icon" href="./Image/Icone.png"/>
     <link rel="stylesheet" href="./Src/help.css"/>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
     <link
             rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
@@ -118,27 +119,33 @@
                 Restez à l'écoute pour les annonces et les améliorations futures. </p>
         </div>
     </div>
+    <div class="faqs">
+            <button onclick="goBack()">
+                <span class="btn">Go Back</span>
+            </button>
+    </div>
+
 </div>
 
 <script>
-    var acc = document.getElementsByClassName("accordion");
-    var i;
+   function goBack() {
+       window.history.back();
+   }
 
-    for (i = 0; i < acc.length; i++) {
-        acc[i].addEventListener("click", function () {
-            this.classList.toggle("active");
-            this.parentElement.classList.toggle("active");
+   $(document).ready(function () {
+       $(".accordion").click(function () {
+           $(this).toggleClass("active");
+           $(this).parent().toggleClass("active");
 
-            var pannel = this.nextElementSibling;
+           var panel = $(this).next();
 
-            if (pannel.style.display === "block") {
-                pannel.style.display = "none";
-            } else {
-                pannel.style.display = "block";
-            }
-        });
-    }
+           if (panel.is(":visible")) {
+               panel.hide();
+           } else {
+               panel.show();
+           }
+       });
+   });
 </script>
 </body>
 </html>
--->

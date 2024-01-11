@@ -6,7 +6,7 @@
     font-family: 'Poppins',sans-serif;
 }
 body{
-    background: #e4e9f7;
+    background: rgba(139, 217, 253, 0.28);
 }
 .container{
     display: flex;
@@ -51,7 +51,20 @@ body{
 }
 .btn{
     height: 35px;
-    background: rgba(210, 143, 99, 0.81);
+    background: rgb(139, 217, 253);
+    border: 0;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+    transition: all .3s;
+    margin-top: 10px;
+    padding: 0px 10px;
+}
+
+.a.btn{
+    height: 35px;
+    background: rgb(139, 217, 253);
     border: 0;
     border-radius: 5px;
     color: #fff;
@@ -125,6 +138,7 @@ main{
     .bottom{
         margin-top: 0;
     }
+
 }
 .message{
     text-align: center;
@@ -134,4 +148,13 @@ main{
     border-radius: 5px;
     margin-bottom: 10px;
     color: red;
+}
+.musee{
+    display: flex;
+    flex-direction: column;
+
+}
+.day-checkbox{
+    margin-left: 10px;
+    margin-right: 10px;
 }

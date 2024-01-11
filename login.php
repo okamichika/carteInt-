@@ -9,6 +9,7 @@ session_start();
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="Src/style.css">
+    <link rel="Icon" href="./Image/Icone.png"/>
     <title>Loginn</title>
 </head>
 <body>
@@ -59,12 +60,19 @@ session_start();
                     
                     <input type="submit" class="btn" name="submit" value="Login" required>
                 </div>
+
                 <div class="links">
                     Don't have account? <a href="register.php">Sign Up Now</a>
                 </div>
             </form>
+
         </div>
         <?php } ?>
       </div>
+      <script>
+          function goBack() {
+              window.history.back();
+          }
+      </script>
 </body>
 </html>

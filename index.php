@@ -17,7 +17,7 @@
         <h1>LooMuse</h1>
     </div>
     <div class="number">
-        <a href="login.php"><p>Sign up</p></a>
+        <a href="login.php" style="text-decoration: none"><p>Login</p></a>
     </div>
 
 
@@ -31,7 +31,7 @@
         <h1>Loo<span>M</span>use</h1>
 
 
-        <p>Parcourez la France artistique d'un coup d'œil avec <b>MuseLoom</b>, votre guide interactif des musées. Découvrez la richesse culturelle du pays sous la forme d'une carte Leaflet, explorez chaque recoin et plongez dans l'histoire captivante de chaque musée. Laissez-vous guider par la géographie de l'art et explorez les trésors culturels de la France, tous réunis sur une carte interactive. Bienvenue à bord de votre voyage virtuel à travers les musées de France avec <b>MuseLoom</b>!"</p>
+        <p>Parcourez la France artistique d'un coup d'œil avec <b>MuseLoom</b>, votre guide interactif des musées. Découvrez la richesse culturelle du pays sous la forme d'une carte Leaflet, explorez chaque recoin et plongez dans l'histoire captivante de chaque musée. Laissez-vous guider par la géographie de l'art et explorez les trésors culturels de la France, tous réunis sur une carte interactive. Bienvenue à bord de votre voyage virtuel à travers les musées de France avec <b>MuseLoom</b>!</p>
         <button class="button-link">
             <a href="./carte.php">Acceder à la carte</a>
         </button>
@@ -52,9 +52,6 @@
             <img src="./Image/filtre.png" alt="">
             <h4>Filter</h4>
             <p>Enrichissez la carte culturelle française.</p>
-            <!--<button class="button-link">
-                <a href="Ajouter.php">Filter</a>
-            </button>-->
         </div>
         <div class="serv">
             <img src="./Image/plus.png" alt="">

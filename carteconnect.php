@@ -83,7 +83,7 @@ echo "<a href='edit.php?Id=$res_id'></a>";
                         <li>
                             <a href="#">
                                 <i class="icon ph ph-star"></i>
-                                <span class="text">Note</span>
+                                <span class="text">Étoile</span>
                                 <i class="arrow ph-bold ph-caret-down"></i>
                             </a>
                             <ul class="sub-menu">
@@ -91,7 +91,7 @@ echo "<a href='edit.php?Id=$res_id'></a>";
                                     <a href="#">
                                         <a href="#">
                                             <div>
-                                                <label><input type="checkbox" value="0" class="filter-checkbox"> Note 0</label>
+                                                <label><input type="checkbox" value="0" class="filter-checkbox"> 0 Étoile</label>
                                             </div>
 
                                         </a>
@@ -101,7 +101,7 @@ echo "<a href='edit.php?Id=$res_id'></a>";
                                     <a href="#">
                                         <a href="#">
                                             <div>
-                                                <label><input type="checkbox" value="1" class="filter-checkbox"> Note 1</label>
+                                                <label><input type="checkbox" value="1" class="filter-checkbox">1 Étoile</label>
                                             </div>
 
                                         </a>
@@ -111,7 +111,7 @@ echo "<a href='edit.php?Id=$res_id'></a>";
                                     <a href="#">
                                         <a href="#">
                                             <div>
-                                                <label><input type="checkbox" value="2" class="filter-checkbox"> Note 2</label>
+                                                <label><input type="checkbox" value="2" class="filter-checkbox">2 Étoile</label>
                                             </div>
 
                                         </a>
@@ -121,7 +121,7 @@ echo "<a href='edit.php?Id=$res_id'></a>";
                                     <a href="#">
                                         <a href="#">
                                             <div>
-                                                <label><input type="checkbox" value="3" class="filter-checkbox"> Note 3</label>
+                                                <label><input type="checkbox" value="3" class="filter-checkbox">3 Étoile</label>
                                             </div>
 
                                         </a>
@@ -131,7 +131,7 @@ echo "<a href='edit.php?Id=$res_id'></a>";
                                     <a href="#">
                                         <a href="#">
                                             <div>
-                                                <label><input type="checkbox" value="4" class="filter-checkbox"> Note 4</label>
+                                                <label><input type="checkbox" value="4" class="filter-checkbox">4 Étoile</label>
                                             </div>
 
                                         </a>
@@ -141,7 +141,7 @@ echo "<a href='edit.php?Id=$res_id'></a>";
                                     <a href="#">
                                         <a href="#">
                                             <div>
-                                                <label><input type="checkbox" value="5" class="filter-checkbox"> Note 5</label>
+                                                <label><input type="checkbox" value="5" class="filter-checkbox">5 Étoile</label>
                                             </div>
 
                                         </a>
@@ -272,46 +272,12 @@ echo "<a href='edit.php?Id=$res_id'></a>";
                 </li>
 
                 <li class="active">
-                    <a href="#">
+                    <a href="./plannification.php">
                         <i class="icon ph-bold ph-file-text"></i>
-                        <span class="text">Posts</span>
+                        <span class="text">Planif</span>
                     </a>
                 </li>
-                <li>
-                    <a href="#">
-                        <i class="icon ph-bold ph-calendar-blank"></i>
-                        <span class="text">Schedules</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                        <i class="icon ph-bold ph-chart-bar"></i>
-                        <span class="text">Income</span>
-                        <i class="arrow ph-bold ph-caret-down"></i>
-                    </a>
-                    <ul class="sub-menu">
-                        <li>
-                            <a href="#">
-                                <span class="text">Earnings</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <span class="text">Funds</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <span class="text">Declines</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <span class="text">Payouts</span>
-                            </a>
-                        </li>
-                    </ul>
-                </li>
+
             </ul>
         </div>
         <div class="menu">
@@ -359,7 +325,7 @@ echo "<a href='edit.php?Id=$res_id'></a>";
             <li>
                 <a href="login.php">
                     <i class="icon ph-bold ph-user-switch"></i>
-                    <span class="text">Change de compte</span>
+                    <span class="text">Changer de compte</span>
                 </a>
             </li>
             <li>
@@ -401,7 +367,7 @@ echo "<a href='edit.php?Id=$res_id'></a>";
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css"/>
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css"/>
 <script>
-    var map = L.map('map').setView([48.853, 2.35], 10);
+    /*var map = L.map('map').setView([48.853, 2.35], 10);
 
     var Stadia_OSMBright = L.tileLayer(
         "https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png",
@@ -413,7 +379,66 @@ echo "<a href='edit.php?Id=$res_id'></a>";
         }
     );
 
+    Stadia_OSMBright.addTo(map);*/
+    var map = L.map('map').setView([48.853, 2.35], 10);
+
+    var Stadia_OSMBright = L.tileLayer(
+        "https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png",
+        {
+            maxZoom: 15,
+            minZoom: 3,
+            bounds: [[-90, -180], [90, 180]],
+            attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
+        }
+    );
+
     Stadia_OSMBright.addTo(map);
+
+    // Ajout des autres couches
+
+    var CartoDB_DarkMatter = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+        subdomains: 'abcd',
+        maxZoom: 15,
+        minZoom: 3,
+    });
+    CartoDB_DarkMatter.addTo(map);
+
+    var googleStreets = L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}',{
+        maxZoom: 15,
+        minZoom: 3,
+        subdomains:['mt0','mt1','mt2','mt3']
+    });
+    googleStreets.addTo(map);
+
+    var googleSat = L.tileLayer('http://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}',{
+        maxZoom: 15,
+        minZoom: 3,
+        subdomains:['mt0','mt1','mt2','mt3']
+    });
+    googleSat.addTo(map);
+    var openstreetmap = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 15,
+        minZoom: 3,
+        atOpenStreetMaptribution: '© OpenStreetMap'
+    });
+    openstreetmap.addTo(map);
+
+
+    // Ajout des couches au contrôle de couches
+
+    var baseMaps = {
+        "CartoDB Dark Matter": CartoDB_DarkMatter,
+        "Google Streets": googleStreets,
+        "Google Satellite": googleSat,
+        "National park": openstreetmap,
+        "Stadia OSMBright": Stadia_OSMBright,
+    };
+
+
+
+    var layerControl = L.control.layers(baseMaps).addTo(map);
+
 
     // Your existing data
 
@@ -428,7 +453,7 @@ echo "<a href='edit.php?Id=$res_id'></a>";
 
         filteredData.forEach(function (item) {
             var coordinates = item.fields.geolocalisation;
-            var popupContent = "Nom du musée : " + item.fields.nom_officiel_du_musee + "<br/>Note : " + item.fields.note;
+            var popupContent = "<b>Nom du musée </b>: " + item.fields.nom_officiel_du_musee + "<br/><b>Adresse: </b> " + item.fields.adresse + "<br/><b>Departement: </b> " + item.fields.departement + "<br/><b>Tél:</b> : " + item.fields.telephone + "<br/><b>Jours d'ouverture :</b> : " + item.fields.Jours_d_ouverture+ "<br/><b>Note : </b>" + item.fields.note ;
             var marker = L.marker(coordinates).bindPopup(popupContent);
             markers.addLayer(marker); // Add marker to the cluster group
             marker.on('click', function () {

@@ -18,16 +18,6 @@ session_start();
     <link rel="Icon" href="Image/Icone.png"/>
 </head>
 <body>
-    <div class="nav">
-        <div class="logo">
-            <p><a href="home.php"> Logo</a></p>
-        </div>
-
-        <div class="right-links">
-            <a href="#">Change Profile</a>
-            <a href="php/logout.php"> <button class="btn">Log Out</button> </a>
-        </div>
-    </div>
     <div class="container">
         <div class="box form-box">
             <?php 
@@ -58,8 +48,8 @@ session_start();
                     $res_Uname = $result['Username'];
                     $res_Email = $result['Email'];
                     $res_Age = $result['Age'];
-                    $res_profession = $result['profession'];
-                    $res_password = $_POST['password'];
+                    $res_profession = $result['Profession'];
+                    $res_password = $_POST['Password'];
                 }
 
             ?>
@@ -83,19 +73,26 @@ session_start();
                     <label for="age">Age</label>
                     <input type="number" name="age" id="age" value="<?php echo $res_Age; ?>" autocomplete="off" required>
                 </div>
-                <div class="field input">
+                <!--<div class="field input">
                     <label for="password">Password</label>
-                    <input type="text" name="password" id="password" value="<?php echo $res_password; ?>" autocomplete="off" required>
-                </div>
+                    <input type="text" name="password" id="password" value="<?php /*echo $res_password; */?>" autocomplete="off" required>
+                </div>-->
                 
                 <div class="field">
                     
                     <input type="submit" class="btn" name="submit" value="Update" required>
                 </div>
+
                 
             </form>
+            <button type="button" class="btn" onclick="goBack()" >GO back</button>
         </div>
         <?php } ?>
       </div>
+    <script>
+        function goBack() {
+            window.history.back();
+        }
+    </script>
 </body>
 </html>
